@@ -2,7 +2,8 @@ key,value,file
 concept,name,ddf--concepts.csv
 concept,longdescr,ddf--concepts.csv
 concept,concept_type,ddf--concepts.csv
-concept,drill_ups,ddf--concepts.csv
+concept,drillups,ddf--concepts.csv
+concept,domain,ddf--concepts.csv
 "region,year",age09,ddf--datapoints--age09--by--region--year.csv
 "region,year",age1019,ddf--datapoints--age1019--by--region--year.csv
 "region,year",age1chw20,ddf--datapoints--age1chw20--by--region--year.csv
