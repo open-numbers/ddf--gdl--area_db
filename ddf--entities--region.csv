@@ -1,0 +1,1347 @@
+region,name,iso_code,iso2,is--country,is--sub_nation,is--urb_rur
+afgr101,Afghanistan - Central (Kabul Wardak Kapisa Logar Parwan Panjsher),AFG,AF,FALSE,TRUE,FALSE
+afgr102,Afghanistan - Central Highlands (Bamyan Daikundi),AFG,AF,FALSE,TRUE,FALSE
+afgr103,Afghanistan - East (Nangarhar Kunar Laghman Nooristan),AFG,AF,FALSE,TRUE,FALSE
+afgr104,Afghanistan - North (Samangan Sar-e-Pul Balkh Jawzjan Faryab),AFG,AF,FALSE,TRUE,FALSE
+afgr105,Afghanistan - North East (Baghlan Takhar Badakhshan Kunduz),AFG,AF,FALSE,TRUE,FALSE
+afgr106,Afghanistan - South (Uruzgan Helmand Zabul Nimroz Kandahar),AFG,AF,FALSE,TRUE,FALSE
+afgr107,Afghanistan - South East (Ghazni Paktya Paktika Khost),AFG,AF,FALSE,TRUE,FALSE
+afgr108,Afghanistan - West (Ghor Herat Badghis Farah),AFG,AF,FALSE,TRUE,FALSE
+afgt,Afghanistan - Total,AFG,AF,TRUE,,FALSE
+afgtr,Afghanistan - Rural,AFG,AF,FALSE,,TRUE
+afgtu,Afghanistan - Urban,AFG,AF,FALSE,,TRUE
+agor101,"Angola - Capital (Cabinda, Luanda, Kuanza Norte, Bengo)",AGO,AO,FALSE,TRUE,FALSE
+agor102,"Angola - Norte (Zaire, Uige, Malange)",AGO,AO,FALSE,TRUE,FALSE
+agor103,"Angola - Este (Lunda Norte, Moxico, Lunda Sul)",AGO,AO,FALSE,TRUE,FALSE
+agor104,"Angola - Oeste (Kuanza Sul, Benguela)",AGO,AO,FALSE,TRUE,FALSE
+agor105,"Angola - Centro Sul (Huambo, Bie, Kuando Kubango)",AGO,AO,FALSE,TRUE,FALSE
+agor106,"Angola - Sul (Namibe, Huila, Cunene)",AGO,AO,FALSE,TRUE,FALSE
+agot,Angola - Total,AGO,AO,TRUE,,FALSE
+agotr,Angola - Rural,AGO,AO,FALSE,,TRUE
+agotu,Angola - Urban,AGO,AO,FALSE,,TRUE
+argr101,Argentina - City of Buenos Aires,ARG,AR,FALSE,TRUE,FALSE
+argr102,Argentina - Rest of Buenos Aires,ARG,AR,FALSE,TRUE,FALSE
+argr103,"Argentina - Catamarca, La Rioja, San Juan",ARG,AR,FALSE,TRUE,FALSE
+argr104,Argentina - Cordoba,ARG,AR,FALSE,TRUE,FALSE
+argr105,"Argentina - Corrientes, Entre Rios, Misiones",ARG,AR,FALSE,TRUE,FALSE
+argr106,"Argentina - Chaco, Formosa",ARG,AR,FALSE,TRUE,FALSE
+argr107,"Argentina - Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra del Fuego",ARG,AR,FALSE,TRUE,FALSE
+argr108,"Argentina - Jujuy, Salta",ARG,AR,FALSE,TRUE,FALSE
+argr109,"Argentina - La Pampa, San Luis, Mendoza",ARG,AR,FALSE,TRUE,FALSE
+argr110,Argentina - Santa Fe,ARG,AR,FALSE,TRUE,FALSE
+argr111,"Argentina - Santiago del Estero, Tucuman",ARG,AR,FALSE,TRUE,FALSE
+argtu,Argentina - Urban,ARG,AR,FALSE,,TRUE
+armr101,Armenia - Aragatsotn,ARM,AM,FALSE,TRUE,FALSE
+armr102,Armenia - Ararat,ARM,AM,FALSE,TRUE,FALSE
+armr103,Armenia - Armavir,ARM,AM,FALSE,TRUE,FALSE
+armr104,Armenia - Gegharkunik,ARM,AM,FALSE,TRUE,FALSE
+armr105,Armenia - Lori,ARM,AM,FALSE,TRUE,FALSE
+armr106,Armenia - Kotayk,ARM,AM,FALSE,TRUE,FALSE
+armr107,Armenia - Shirak,ARM,AM,FALSE,TRUE,FALSE
+armr108,Armenia - Syunik,ARM,AM,FALSE,TRUE,FALSE
+armr109,Armenia - Vayots Dzor,ARM,AM,FALSE,TRUE,FALSE
+armr110,Armenia - Tavush,ARM,AM,FALSE,TRUE,FALSE
+armr111,Armenia - Yerevan,ARM,AM,FALSE,TRUE,FALSE
+armt,Armenia - Total,ARM,AM,TRUE,,FALSE
+armtr,Armenia - Rural,ARM,AM,FALSE,,TRUE
+armtu,Armenia - Urban,ARM,AM,FALSE,,TRUE
+azer101,Azerbaijan - Baku,AZE,AZ,FALSE,TRUE,FALSE
+azer102,Azerbaijan - Absheron,AZE,AZ,FALSE,TRUE,FALSE
+azer103,Azerbaijan - Ganja Gazakh,AZE,AZ,FALSE,TRUE,FALSE
+azer104,Azerbaijan - Shaki Zaqatala,AZE,AZ,FALSE,TRUE,FALSE
+azer105,Azerbaijan - Lankaran,AZE,AZ,FALSE,TRUE,FALSE
+azer106,Azerbaijan - Guba Khachmaz,AZE,AZ,FALSE,TRUE,FALSE
+azer107,Azerbaijan - Aran,AZE,AZ,FALSE,TRUE,FALSE
+azer109,Azerbaijan - Dakhlik Shirvan,AZE,AZ,FALSE,TRUE,FALSE
+azer110,"Azerbaijan - Region 9 (Yevlakh, Mingechevir, Agdash, Ujar, Zardab, Kurdamir, Imishli, Saatly, Sabirabad, Hajigabu",AZE,AZ,FALSE,TRUE,FALSE
+azet,Azerbaijan - Total,AZE,AZ,TRUE,,FALSE
+azetr,Azerbaijan - Rural,AZE,AZ,FALSE,,TRUE
+azetu,Azerbaijan - Urban,AZE,AZ,FALSE,,TRUE
+azer108,Azerbaijan - Yukhari Karabakh,AZE,AZ,FALSE,TRUE,FALSE
+bdir101,"Burundi - North (Kayanza, Kirundo, Muyinga, Ngozi)",BDI,BI,FALSE,TRUE,FALSE
+bdir102,"Burundi - South (Bururi, Makamba)",BDI,BI,FALSE,TRUE,FALSE
+bdir103,"Burundi - East (Cankuzo, Rutana, Ruyigi )",BDI,BI,FALSE,TRUE,FALSE
+bdir104,"Burundi - West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",BDI,BI,FALSE,TRUE,FALSE
+bdir105,"Burundi - Middle (Gitega, Karuzi, Muramvya, Mwaro)",BDI,BI,FALSE,TRUE,FALSE
+bdit,Burundi - Total,BDI,BI,TRUE,,FALSE
+bditr,Burundi - Rural,BDI,BI,FALSE,,TRUE
+bditu,Burundi - Urban,BDI,BI,FALSE,,TRUE
+benr101,Benin - Atacora (incl Donga),BEN,BJ,FALSE,TRUE,FALSE
+benr102,Benin - Atlantique (incl Littoral (Cotonou)),BEN,BJ,FALSE,TRUE,FALSE
+benr103,Benin - Borgou (incl Alibori),BEN,BJ,FALSE,TRUE,FALSE
+benr104,Benin - Mono (incl Couffo),BEN,BJ,FALSE,TRUE,FALSE
+benr105,Benin - Queme (incl Plateau),BEN,BJ,FALSE,TRUE,FALSE
+benr106,Benin - Zou (incl Collines),BEN,BJ,FALSE,TRUE,FALSE
+bent,Benin - Total,BEN,BJ,TRUE,,FALSE
+bentr,Benin - Rural,BEN,BJ,FALSE,,TRUE
+bentu,Benin - Urban,BEN,BJ,FALSE,,TRUE
+bfar101,Burkina Faso - Boucle de Mouhoun,BFA,BF,FALSE,TRUE,FALSE
+bfar102,Burkina Faso - Cascades,BFA,BF,FALSE,TRUE,FALSE
+bfar103,Burkina Faso - Centre (incl Ouagadougou),BFA,BF,FALSE,TRUE,FALSE
+bfar104,Burkina Faso - Centre-Est,BFA,BF,FALSE,TRUE,FALSE
+bfar105,Burkina Faso - Centre-Nord,BFA,BF,FALSE,TRUE,FALSE
+bfar106,Burkina Faso - Centre-Ouest,BFA,BF,FALSE,TRUE,FALSE
+bfar107,Burkina Faso - Centre-Sud,BFA,BF,FALSE,TRUE,FALSE
+bfar108,Burkina Faso - Est,BFA,BF,FALSE,TRUE,FALSE
+bfar109,Burkina Faso - Hauts Bassins,BFA,BF,FALSE,TRUE,FALSE
+bfar110,Burkina Faso - Nord,BFA,BF,FALSE,TRUE,FALSE
+bfar111,Burkina Faso - Plateau Central,BFA,BF,FALSE,TRUE,FALSE
+bfar112,Burkina Faso - Sahel,BFA,BF,FALSE,TRUE,FALSE
+bfar113,Burkina Faso - Sud-Ouest,BFA,BF,FALSE,TRUE,FALSE
+bfat,Burkina Faso - Total,BFA,BF,TRUE,,FALSE
+bfatr,Burkina Faso - Rural,BFA,BF,FALSE,,TRUE
+bfatu,Burkina Faso - Urban,BFA,BF,FALSE,,TRUE
+bgdr101,Bangladesh - Barisal,BGD,BD,FALSE,TRUE,FALSE
+bgdr102,Bangladesh - Chittagong,BGD,BD,FALSE,TRUE,FALSE
+bgdr103,Bangladesh - Dhaka,BGD,BD,FALSE,TRUE,FALSE
+bgdr104,Bangladesh - Khulna,BGD,BD,FALSE,TRUE,FALSE
+bgdr105,Bangladesh - Rajshahi,BGD,BD,FALSE,TRUE,FALSE
+bgdr106,Bangladesh - Sylhet,BGD,BD,FALSE,TRUE,FALSE
+bgdt,Bangladesh - Total,BGD,BD,TRUE,,FALSE
+bgdtr,Bangladesh - Rural,BGD,BD,FALSE,,TRUE
+bgdtu,Bangladesh - Urban,BGD,BD,FALSE,,TRUE
+blzr101,"Belize - Corozal, Orange Walk",BLZ,BZ,FALSE,TRUE,FALSE
+blzr102,Belize - Belize,BLZ,BZ,FALSE,TRUE,FALSE
+blzr103,Belize - Cayo,BLZ,BZ,FALSE,TRUE,FALSE
+blzr104,"Belize - Stann Creek, Toledo",BLZ,BZ,FALSE,TRUE,FALSE
+blzt,Belize - Total,BLZ,BZ,TRUE,,FALSE
+blztr,Belize - Rural,BLZ,BZ,FALSE,,TRUE
+blztu,Belize - Urban,BLZ,BZ,FALSE,,TRUE
+bolr101,Bolivia - Chuquisaca,BOL,BO,FALSE,TRUE,FALSE
+bolr102,Bolivia - La Paz,BOL,BO,FALSE,TRUE,FALSE
+bolr103,Bolivia - Cochabamba,BOL,BO,FALSE,TRUE,FALSE
+bolr104,Bolivia - Oruro,BOL,BO,FALSE,TRUE,FALSE
+bolr105,Bolivia - Potosi,BOL,BO,FALSE,TRUE,FALSE
+bolr106,Bolivia - Tarija,BOL,BO,FALSE,TRUE,FALSE
+bolr107,Bolivia - Santa Cruz,BOL,BO,FALSE,TRUE,FALSE
+bolr108,Bolivia - Beni,BOL,BO,FALSE,TRUE,FALSE
+bolr109,Bolivia - Pando,BOL,BO,FALSE,TRUE,FALSE
+bolt,Bolivia - Total,BOL,BO,TRUE,,FALSE
+boltr,Bolivia - Rural,BOL,BO,FALSE,,TRUE
+boltu,Bolivia - Urban,BOL,BO,FALSE,,TRUE
+brar101,Brazil - Rondonia,BRA,BR,FALSE,TRUE,FALSE
+brar102,Brazil - Acre,BRA,BR,FALSE,TRUE,FALSE
+brar103,Brazil - Amazonas,BRA,BR,FALSE,TRUE,FALSE
+brar104,Brazil - Roraima,BRA,BR,FALSE,TRUE,FALSE
+brar105,Brazil - Para,BRA,BR,FALSE,TRUE,FALSE
+brar106,Brazil - Amapa,BRA,BR,FALSE,TRUE,FALSE
+brar107,Brazil - Tocantins,BRA,BR,FALSE,TRUE,FALSE
+brar108,Brazil - Maranhao,BRA,BR,FALSE,TRUE,FALSE
+brar109,Brazil - Piaui,BRA,BR,FALSE,TRUE,FALSE
+brar110,Brazil - Ceara,BRA,BR,FALSE,TRUE,FALSE
+brar111,Brazil - Rio Grande do Norte,BRA,BR,FALSE,TRUE,FALSE
+brar112,Brazil - Paraiba,BRA,BR,FALSE,TRUE,FALSE
+brar113,Brazil - Pernambuco,BRA,BR,FALSE,TRUE,FALSE
+brar114,Brazil - Alagoas,BRA,BR,FALSE,TRUE,FALSE
+brar115,Brazil - Sergipe,BRA,BR,FALSE,TRUE,FALSE
+brar116,Brazil - Bahia,BRA,BR,FALSE,TRUE,FALSE
+brar117,Brazil - Minas Gerais,BRA,BR,FALSE,TRUE,FALSE
+brar118,Brazil - Espirito Santo,BRA,BR,FALSE,TRUE,FALSE
+brar119,Brazil - Rio de Janeiro,BRA,BR,FALSE,TRUE,FALSE
+brar120,Brazil - Sao Paulo,BRA,BR,FALSE,TRUE,FALSE
+brar121,Brazil - Parana,BRA,BR,FALSE,TRUE,FALSE
+brar122,Brazil - Santa Catarina,BRA,BR,FALSE,TRUE,FALSE
+brar123,Brazil - Rio Grande do Sul,BRA,BR,FALSE,TRUE,FALSE
+brar124,Brazil - Mato Grosso do Sul,BRA,BR,FALSE,TRUE,FALSE
+brar125,Brazil - Mato Grosso,BRA,BR,FALSE,TRUE,FALSE
+brar126,Brazil - Goias,BRA,BR,FALSE,TRUE,FALSE
+brar127,Brazil - Distrito Federal,BRA,BR,FALSE,TRUE,FALSE
+brat,Brazil - Total,BRA,BR,TRUE,,FALSE
+bratr,Brazil - Rural,BRA,BR,FALSE,,TRUE
+bratu,Brazil - Urban,BRA,BR,FALSE,,TRUE
+btnr101,Buthan - Bumthang,BTN,BT,FALSE,TRUE,FALSE
+btnr102,Buthan - Chukha,BTN,BT,FALSE,TRUE,FALSE
+btnr103,Buthan - Dagana,BTN,BT,FALSE,TRUE,FALSE
+btnr104,Buthan - Gasa,BTN,BT,FALSE,TRUE,FALSE
+btnr105,Buthan - Haa,BTN,BT,FALSE,TRUE,FALSE
+btnr106,Buthan - Lhuntse,BTN,BT,FALSE,TRUE,FALSE
+btnr107,Buthan - Mongar,BTN,BT,FALSE,TRUE,FALSE
+btnr108,Buthan - Paro,BTN,BT,FALSE,TRUE,FALSE
+btnr109,Buthan - Pemagatshel,BTN,BT,FALSE,TRUE,FALSE
+btnr110,Buthan - Punakha,BTN,BT,FALSE,TRUE,FALSE
+btnr111,Buthan - Samdrup jongkhar,BTN,BT,FALSE,TRUE,FALSE
+btnr112,Buthan - Samtse,BTN,BT,FALSE,TRUE,FALSE
+btnr113,Buthan - Sarpang,BTN,BT,FALSE,TRUE,FALSE
+btnr114,Buthan - Thimphu,BTN,BT,FALSE,TRUE,FALSE
+btnr115,Buthan - Trashigang,BTN,BT,FALSE,TRUE,FALSE
+btnr116,Buthan - Trashiyangtse,BTN,BT,FALSE,TRUE,FALSE
+btnr117,Buthan - Trongsa,BTN,BT,FALSE,TRUE,FALSE
+btnr118,Buthan - Tsirang,BTN,BT,FALSE,TRUE,FALSE
+btnr119,Buthan - Wangdi,BTN,BT,FALSE,TRUE,FALSE
+btnr120,Buthan - Zhemgang,BTN,BT,FALSE,TRUE,FALSE
+btnt,Buthan - Total,BTN,BT,TRUE,,FALSE
+btntr,Buthan - Rural,BTN,BT,FALSE,,TRUE
+btntu,Buthan - Urban,BTN,BT,FALSE,,TRUE
+bwar101,Botswana - Central,BWA,BW,FALSE,TRUE,FALSE
+bwar102,"Botswana - Ghanzi, Kgalagadi",BWA,BW,FALSE,TRUE,FALSE
+bwar103,"Botswana - Kgatleng, Kweneng",BWA,BW,FALSE,TRUE,FALSE
+bwar104,Botswana - North-East,BWA,BW,FALSE,TRUE,FALSE
+bwar105,Botswana - North-West,BWA,BW,FALSE,TRUE,FALSE
+bwar106,Botswana - South-East,BWA,BW,FALSE,TRUE,FALSE
+bwar107,Botswana - Southern,BWA,BW,FALSE,TRUE,FALSE
+bwat,Botswana - Total,BWA,BW,TRUE,,FALSE
+bwatr,Botswana - Rural,BWA,BW,FALSE,,TRUE
+bwatu,Botswana - Urban,BWA,BW,FALSE,,TRUE
+cafr101,"Central African Republic CAR - RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi)",CAF,CF,FALSE,TRUE,FALSE
+cafr102,"Central African Republic CAR - RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)",CAF,CF,FALSE,TRUE,FALSE
+cafr103,"Central African Republic CAR - RS III (Ouham Pende, Ouham)",CAF,CF,FALSE,TRUE,FALSE
+cafr104,"Central African Republic CAR - RS IV (Ouaka, Haute-Kotto, Baminigui Bangoran, Vakaga)",CAF,CF,FALSE,TRUE,FALSE
+cafr105,"Central African Republic CAR - RS V (Basse Kotto, Mbornou, Houte Mbormou)",CAF,CF,FALSE,TRUE,FALSE
+cafr106,Central African Republic CAR - Bangui,CAF,CF,FALSE,TRUE,FALSE
+caft,Central African Republic CAR - Total,CAF,CF,TRUE,,FALSE
+caftr,Central African Republic CAR - Rural,CAF,CF,FALSE,,TRUE
+caftu,Central African Republic CAR - Urban,CAF,CF,FALSE,,TRUE
+chlr101,Chili - Tarapaca (incl Arica and Parinacota),CHL,CL,FALSE,TRUE,FALSE
+chlr102,Chili - Antofagasta,CHL,CL,FALSE,TRUE,FALSE
+chlr103,Chili - Atacama,CHL,CL,FALSE,TRUE,FALSE
+chlr104,Chili - Coquimbo,CHL,CL,FALSE,TRUE,FALSE
+chlr105,Chili - Valparaiso (former Aconcagua),CHL,CL,FALSE,TRUE,FALSE
+chlr106,Chili - OHiggins,CHL,CL,FALSE,TRUE,FALSE
+chlr107,Chili - Maule,CHL,CL,FALSE,TRUE,FALSE
+chlr108,Chili - Bio Bio,CHL,CL,FALSE,TRUE,FALSE
+chlr109,Chili - Arbucania,CHL,CL,FALSE,TRUE,FALSE
+chlr110,Chili - Los Lagos (incl Los Rios),CHL,CL,FALSE,TRUE,FALSE
+chlr111,Chili - Aisen,CHL,CL,FALSE,TRUE,FALSE
+chlr112,Chili - Magallanes and La Antartica Chilena,CHL,CL,FALSE,TRUE,FALSE
+chlr113,Chili - Region Metropolitana,CHL,CL,FALSE,TRUE,FALSE
+chlt,Chili - Total,CHL,CL,TRUE,,FALSE
+chltr,Chili - Rural,CHL,CL,FALSE,,TRUE
+chltu,Chili - Urban,CHL,CL,FALSE,,TRUE
+chnr101,China - Coastal,CHN,CN,FALSE,TRUE,FALSE
+chnr102,China - Central,CHN,CN,FALSE,TRUE,FALSE
+chnr103,China - Western,CHN,CN,FALSE,TRUE,FALSE
+chnt,China - Total,CHN,CN,TRUE,,FALSE
+chntr,China - Rural,CHN,CN,FALSE,,TRUE
+chntu,China - Urban,CHN,CN,FALSE,,TRUE
+civr101,Cote d'Ivoire - Centre,CIV,CI,FALSE,TRUE,FALSE
+civr102,Cote d'Ivoire - Centre Est,CIV,CI,FALSE,TRUE,FALSE
+civr103,Cote d'Ivoire - Centre Nord,CIV,CI,FALSE,TRUE,FALSE
+civr104,Cote d'Ivoire - Centre Ouest,CIV,CI,FALSE,TRUE,FALSE
+civr105,Cote d'Ivoire - Nord,CIV,CI,FALSE,TRUE,FALSE
+civr106,Cote d'Ivoire - Nord Est,CIV,CI,FALSE,TRUE,FALSE
+civr107,Cote d'Ivoire - Nord Ouest,CIV,CI,FALSE,TRUE,FALSE
+civr108,Cote d'Ivoire - Ouest,CIV,CI,FALSE,TRUE,FALSE
+civr109,"Cote d'Ivoire - Sud, Abidjan",CIV,CI,FALSE,TRUE,FALSE
+civr110,Cote d'Ivoire - Sud Ouest,CIV,CI,FALSE,TRUE,FALSE
+civt,Cote d'Ivoire - Total,CIV,CI,TRUE,,FALSE
+civtr,Cote d'Ivoire - Rural,CIV,CI,FALSE,,TRUE
+civtu,Cote d'Ivoire - Urban,CIV,CI,FALSE,,TRUE
+cmrr101,Cameroon - Adamaoua,CMR,CM,FALSE,TRUE,FALSE
+cmrr102,Cameroon - Centre (incl Yaounde),CMR,CM,FALSE,TRUE,FALSE
+cmrr103,Cameroon - Est,CMR,CM,FALSE,TRUE,FALSE
+cmrr104,Cameroon - Extreme Nord,CMR,CM,FALSE,TRUE,FALSE
+cmrr105,Cameroon - Littoral (incl Douala),CMR,CM,FALSE,TRUE,FALSE
+cmrr106,Cameroon - Nord,CMR,CM,FALSE,TRUE,FALSE
+cmrr107,Cameroon - Nord Ouest,CMR,CM,FALSE,TRUE,FALSE
+cmrr108,Cameroon - Ouest,CMR,CM,FALSE,TRUE,FALSE
+cmrr109,Cameroon - Sud,CMR,CM,FALSE,TRUE,FALSE
+cmrr110,Cameroon - Sud Ouest,CMR,CM,FALSE,TRUE,FALSE
+cmrt,Cameroon - Total,CMR,CM,TRUE,,FALSE
+cmrtr,Cameroon - Rural,CMR,CM,FALSE,,TRUE
+cmrtu,Cameroon - Urban,CMR,CM,FALSE,,TRUE
+codr101,Congo Democratic Republic - Kinshasa,COD,CD,FALSE,TRUE,FALSE
+codr102,Congo Democratic Republic - Bas-Congo,COD,CD,FALSE,TRUE,FALSE
+codr103,Congo Democratic Republic - Bandundu,COD,CD,FALSE,TRUE,FALSE
+codr104,Congo Democratic Republic - Equateur,COD,CD,FALSE,TRUE,FALSE
+codr105,Congo Democratic Republic - Orientale,COD,CD,FALSE,TRUE,FALSE
+codr106,Congo Democratic Republic - Nord-Kivu,COD,CD,FALSE,TRUE,FALSE
+codr107,Congo Democratic Republic - Sud-Kivu,COD,CD,FALSE,TRUE,FALSE
+codr108,Congo Democratic Republic - Maniema,COD,CD,FALSE,TRUE,FALSE
+codr109,Congo Democratic Republic - Katanga,COD,CD,FALSE,TRUE,FALSE
+codr110,Congo Democratic Republic - Kasai Oriental,COD,CD,FALSE,TRUE,FALSE
+codr111,Congo Democratic Republic - Kasai Occidental,COD,CD,FALSE,TRUE,FALSE
+codt,Congo Democratic Republic - Total,COD,CD,TRUE,,FALSE
+codtr,Congo Democratic Republic - Rural,COD,CD,FALSE,,TRUE
+codtu,Congo Democratic Republic - Urban,COD,CD,FALSE,,TRUE
+cogr101,Congo Brazzaville - Brazzaville,COG,CG,FALSE,TRUE,FALSE
+cogr102,Congo Brazzaville - Pointe Norte,COG,CG,FALSE,TRUE,FALSE
+cogr103,"Congo Brazzaville - Sud (Kouilou excl Pointe Norte, Niari, Lekoumou, Bouenza, Pool)",COG,CG,FALSE,TRUE,FALSE
+cogr104,"Congo Brazzaville - Nord (Plateaux, Cuvette, Cuvette Ouest, Sangha, Likouala)",COG,CG,FALSE,TRUE,FALSE
+cogt,Congo Brazzaville - Total,COG,CG,TRUE,,FALSE
+cogtr,Congo Brazzaville - Rural,COG,CG,FALSE,,TRUE
+cogtu,Congo Brazzaville - Urban,COG,CG,FALSE,,TRUE
+colr101,Colombia - Atlantica,COL,CO,FALSE,TRUE,FALSE
+colr102,Colombia - Oriental,COL,CO,FALSE,TRUE,FALSE
+colr103,Colombia - Central,COL,CO,FALSE,TRUE,FALSE
+colr104,Colombia - Pacifica,COL,CO,FALSE,TRUE,FALSE
+colr105,Colombia - Bogota,COL,CO,FALSE,TRUE,FALSE
+colt,Colombia - Total,COL,CO,TRUE,,FALSE
+coltr,Colombia - Rural,COL,CO,FALSE,,TRUE
+coltu,Colombia - Urban,COL,CO,FALSE,,TRUE
+colr106,Colombia - Territorios Nacionales,COL,CO,FALSE,TRUE,FALSE
+comr101,Comoros - Grande Comore (Ngazidja),COM,KM,FALSE,TRUE,FALSE
+comr102,Comoros - Moheli,COM,KM,FALSE,TRUE,FALSE
+comr103,Comoros - Anjouan (Ndzouani),COM,KM,FALSE,TRUE,FALSE
+comt,Comoros - Total,COM,KM,TRUE,,FALSE
+comtr,Comoros - Rural,COM,KM,FALSE,,TRUE
+comtu,Comoros - Urban,COM,KM,FALSE,,TRUE
+cpvr101,Cape Verde - S.Antao,CPV,CV,FALSE,TRUE,FALSE
+cpvr102,Cape Verde - S.Vicente,CPV,CV,FALSE,TRUE,FALSE
+cpvr103,Cape Verde - Santiago-Interior,CPV,CV,FALSE,TRUE,FALSE
+cpvr104,Cape Verde - Santiago- Praia,CPV,CV,FALSE,TRUE,FALSE
+cpvr105,Cape Verde - Fogo,CPV,CV,FALSE,TRUE,FALSE
+cpvt,Cape Verde - Total,CPV,CV,TRUE,,FALSE
+cpvtr,Cape Verde - Rural,CPV,CV,FALSE,,TRUE
+cpvtu,Cape Verde - Urban,CPV,CV,FALSE,,TRUE
+crir101,Costa Rica - San Jose,CRI,CR,FALSE,TRUE,FALSE
+crir102,Costa Rica - Alajuela,CRI,CR,FALSE,TRUE,FALSE
+crir103,Costa Rica - Cartago,CRI,CR,FALSE,TRUE,FALSE
+crir104,Costa Rica - Heredia,CRI,CR,FALSE,TRUE,FALSE
+crir105,Costa Rica - Guanacaste,CRI,CR,FALSE,TRUE,FALSE
+crir106,Costa Rica - Puntarenas,CRI,CR,FALSE,TRUE,FALSE
+crir107,Costa Rica - Limon,CRI,CR,FALSE,TRUE,FALSE
+crit,Costa Rica - Total,CRI,CR,TRUE,,FALSE
+critr,Costa Rica - Rural,CRI,CR,FALSE,,TRUE
+critu,Costa Rica - Urban,CRI,CR,FALSE,,TRUE
+cubr101,Cuba - Occidente,CUB,CU,FALSE,TRUE,FALSE
+cubr102,Cuba - Ciudad Habana,CUB,CU,FALSE,TRUE,FALSE
+cubr103,Cuba - Centro,CUB,CU,FALSE,TRUE,FALSE
+cubr104,Cuba - Oriente,CUB,CU,FALSE,TRUE,FALSE
+cubt,Cuba - Total,CUB,CU,TRUE,,FALSE
+cubtr,Cuba - Rural,CUB,CU,FALSE,,TRUE
+cubtu,Cuba - Urban,CUB,CU,FALSE,,TRUE
+domr101,"Dominican Republic - Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",DOM,DO,FALSE,TRUE,FALSE
+domr102,"Dominican Republic - Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",DOM,DO,FALSE,TRUE,FALSE
+domr103,"Dominican Republic - Region II (Espaillat, Puerto Plata, Santiago)",DOM,DO,FALSE,TRUE,FALSE
+domr104,"Dominican Republic - Region III (Duarte, Maria Trinidad Sanchez, Salcedo, Samana)",DOM,DO,FALSE,TRUE,FALSE
+domr105,"Dominican Republic - Region IV (Independencia, Bahoruco, Barahona, Pedernales)",DOM,DO,FALSE,TRUE,FALSE
+domr106,"Dominican Republic - Region V (El Seibo, La Altagracia, La Romana, San Pedro de Macoris, Hato Mayor)",DOM,DO,FALSE,TRUE,FALSE
+domr107,"Dominican Republic - Region VI (San Juan, Elias Pina)",DOM,DO,FALSE,TRUE,FALSE
+domr108,"Dominican Republic - Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)",DOM,DO,FALSE,TRUE,FALSE
+domr109,"Dominican Republic - Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)",DOM,DO,FALSE,TRUE,FALSE
+domt,Dominican Republic - Total,DOM,DO,TRUE,,FALSE
+domtr,Dominican Republic - Rural,DOM,DO,FALSE,,TRUE
+domtu,Dominican Republic - Urban,DOM,DO,FALSE,,TRUE
+dzar101,"Algeria - South-West (Adrar, Laghouat Bechar, Tindouf (no cases), Naama)",DZA,DZ,FALSE,TRUE,FALSE
+dzar102,"Algeria - South-East (Tamanghasset, Ouargla, Illizi, El Oued, Ghardaia)",DZA,DZ,FALSE,TRUE,FALSE
+dzar103,"Algeria - North-West (Tlemcen, Saida, Sidi Bel Abbes, Mascara, Oran, Ain Temouchent)",DZA,DZ,FALSE,TRUE,FALSE
+dzar104,"Algeria - North-Center-West (Chlef, Tiaret, Mostaganem, Tissemsilt, Tipaza, Ain Defla, Relizane)",DZA,DZ,FALSE,TRUE,FALSE
+dzar105,"Algeria - North-Center (Blida, Bouira, Tizi Ouzou, Alger, Medea Boumerdes)",DZA,DZ,FALSE,TRUE,FALSE
+dzar106,"Algeria - North-Center-East (Bejaia, Jijel, Setif, Bordj Bou Arreridj, Mila)",DZA,DZ,FALSE,TRUE,FALSE
+dzar107,"Algeria - Center (Biskra, Djelfa, Msila)",DZA,DZ,FALSE,TRUE,FALSE
+dzat,Algeria - Total,DZA,DZ,TRUE,,FALSE
+dzatr,Algeria - Rural,DZA,DZ,FALSE,,TRUE
+dzatu,Algeria - Urban,DZA,DZ,FALSE,,TRUE
+egyr101,Egypt - Cairo,EGY,EG,FALSE,TRUE,FALSE
+egyr102,Egypt - Alexandria,EGY,EG,FALSE,TRUE,FALSE
+egyr103,Egypt - Port Said,EGY,EG,FALSE,TRUE,FALSE
+egyr104,Egypt - Suez,EGY,EG,FALSE,TRUE,FALSE
+egyr105,Egypt - Damietta,EGY,EG,FALSE,TRUE,FALSE
+egyr106,Egypt - Dakahlia,EGY,EG,FALSE,TRUE,FALSE
+egyr107,Egypt - Sharkia,EGY,EG,FALSE,TRUE,FALSE
+egyr108,Egypt - Kalyubia,EGY,EG,FALSE,TRUE,FALSE
+egyr109,Egypt - Kafr El-Sheikh,EGY,EG,FALSE,TRUE,FALSE
+egyr110,Egypt - Gharbia,EGY,EG,FALSE,TRUE,FALSE
+egyr111,Egypt - Menoufia,EGY,EG,FALSE,TRUE,FALSE
+egyr112,Egypt - Behera,EGY,EG,FALSE,TRUE,FALSE
+egyr113,Egypt - Ismailia,EGY,EG,FALSE,TRUE,FALSE
+egyr114,Egypt - Giza,EGY,EG,FALSE,TRUE,FALSE
+egyr115,Egypt - Beni Suef,EGY,EG,FALSE,TRUE,FALSE
+egyr116,Egypt - Fayoum,EGY,EG,FALSE,TRUE,FALSE
+egyr117,Egypt - Menya,EGY,EG,FALSE,TRUE,FALSE
+egyr118,Egypt - Assuit,EGY,EG,FALSE,TRUE,FALSE
+egyr119,Egypt - Souhag,EGY,EG,FALSE,TRUE,FALSE
+egyr120,Egypt - Qena,EGY,EG,FALSE,TRUE,FALSE
+egyr121,Egypt - Aswan,EGY,EG,FALSE,TRUE,FALSE
+egyr122,"Egypt - Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)",EGY,EG,FALSE,TRUE,FALSE
+egyt,Egypt - Total,EGY,EG,TRUE,,FALSE
+egytr,Egypt - Rural,EGY,EG,FALSE,,TRUE
+egytu,Egypt - Urban,EGY,EG,FALSE,,TRUE
+ethr101,Ethiopia - Tigray,ETH,ET,FALSE,TRUE,FALSE
+ethr102,Ethiopia - Affar,ETH,ET,FALSE,TRUE,FALSE
+ethr103,Ethiopia - Amhara,ETH,ET,FALSE,TRUE,FALSE
+ethr104,Ethiopia - Oromiya,ETH,ET,FALSE,TRUE,FALSE
+ethr105,Ethiopia - Somali,ETH,ET,FALSE,TRUE,FALSE
+ethr106,Ethiopia - Ben-Gumz,ETH,ET,FALSE,TRUE,FALSE
+ethr107,Ethiopia - SNNP,ETH,ET,FALSE,TRUE,FALSE
+ethr108,Ethiopia - Gambela,ETH,ET,FALSE,TRUE,FALSE
+ethr109,Ethiopia - Harari,ETH,ET,FALSE,TRUE,FALSE
+ethr110,Ethiopia - Addis,ETH,ET,FALSE,TRUE,FALSE
+ethr111,Ethiopia - Dire Dawa,ETH,ET,FALSE,TRUE,FALSE
+etht,Ethiopia - Total,ETH,ET,TRUE,,FALSE
+ethtr,Ethiopia - Rural,ETH,ET,FALSE,,TRUE
+ethtu,Ethiopia - Urban,ETH,ET,FALSE,,TRUE
+gabr101,Gabon - Estuaire,GAB,GA,FALSE,TRUE,FALSE
+gabr102,Gabon - Haut Ogooue,GAB,GA,FALSE,TRUE,FALSE
+gabr103,Gabon - Moyen Ogooue,GAB,GA,FALSE,TRUE,FALSE
+gabr104,Gabon - Ngounie,GAB,GA,FALSE,TRUE,FALSE
+gabr105,Gabon - Nyanga,GAB,GA,FALSE,TRUE,FALSE
+gabr106,Gabon - Ogooue Ivindo,GAB,GA,FALSE,TRUE,FALSE
+gabr107,Gabon - Ogooue Lolo,GAB,GA,FALSE,TRUE,FALSE
+gabr108,Gabon - Ogooue Maritime,GAB,GA,FALSE,TRUE,FALSE
+gabr109,Gabon - Woleu Ntem,GAB,GA,FALSE,TRUE,FALSE
+gabr110,Gabon - Libreville-Port Gentil,GAB,GA,FALSE,TRUE,FALSE
+gabt,Gabon - Total,GAB,GA,TRUE,,FALSE
+gabtr,Gabon - Rural,GAB,GA,FALSE,,TRUE
+gabtu,Gabon - Urban,GAB,GA,FALSE,,TRUE
+geor102,Georgia - Ajaria,GEO,GE,FALSE,TRUE,FALSE
+geor103,Georgia - Guria,GEO,GE,FALSE,TRUE,FALSE
+geor104,Georgia - Imereti,GEO,GE,FALSE,TRUE,FALSE
+geor105,Georgia - Kakheti,GEO,GE,FALSE,TRUE,FALSE
+geor106,Georgia - Kvemo Kartli,GEO,GE,FALSE,TRUE,FALSE
+geor107,Georgia - Mtskheta-Mtianeti,GEO,GE,FALSE,TRUE,FALSE
+geor108,Georgia - Racha-Lochkhumi-Kvemo Svaneti,GEO,GE,FALSE,TRUE,FALSE
+geor109,Georgia - Samegrelo-Zemo Svateni,GEO,GE,FALSE,TRUE,FALSE
+geor110,Georgia - Samtskhe-Javakheti,GEO,GE,FALSE,TRUE,FALSE
+geor111,Georgia - Shida Kartli,GEO,GE,FALSE,TRUE,FALSE
+geor112,Georgia - Tbilisi,GEO,GE,FALSE,TRUE,FALSE
+geot,Georgia - Total,GEO,GE,TRUE,,FALSE
+geotr,Georgia - Rural,GEO,GE,FALSE,,TRUE
+geotu,Georgia - Urban,GEO,GE,FALSE,,TRUE
+ghar101,Ghana - Western,GHA,GH,FALSE,TRUE,FALSE
+ghar102,Ghana - Central,GHA,GH,FALSE,TRUE,FALSE
+ghar103,Ghana - Greater Accra,GHA,GH,FALSE,TRUE,FALSE
+ghar104,Ghana - Volta,GHA,GH,FALSE,TRUE,FALSE
+ghar105,Ghana - Eastern,GHA,GH,FALSE,TRUE,FALSE
+ghar106,Ghana - Ashanti,GHA,GH,FALSE,TRUE,FALSE
+ghar107,Ghana - Brong Ahafo,GHA,GH,FALSE,TRUE,FALSE
+ghar108,Ghana - Northern,GHA,GH,FALSE,TRUE,FALSE
+ghar109,Ghana - Upper West,GHA,GH,FALSE,TRUE,FALSE
+ghar110,Ghana - Upper East,GHA,GH,FALSE,TRUE,FALSE
+ghat,Ghana - Total,GHA,GH,TRUE,,FALSE
+ghatr,Ghana - Rural,GHA,GH,FALSE,,TRUE
+ghatu,Ghana - Urban,GHA,GH,FALSE,,TRUE
+ginr101,Guinea - Boke,GIN,GN,FALSE,TRUE,FALSE
+ginr102,Guinea - Conakry,GIN,GN,FALSE,TRUE,FALSE
+ginr103,Guinea - Faranah,GIN,GN,FALSE,TRUE,FALSE
+ginr104,Guinea - Kankan,GIN,GN,FALSE,TRUE,FALSE
+ginr105,Guinea - Kindia,GIN,GN,FALSE,TRUE,FALSE
+ginr106,Guinea - Labe,GIN,GN,FALSE,TRUE,FALSE
+ginr107,Guinea - Mamou,GIN,GN,FALSE,TRUE,FALSE
+ginr108,Guinea - N Zerekore,GIN,GN,FALSE,TRUE,FALSE
+gint,Guinea - Total,GIN,GN,TRUE,,FALSE
+gintr,Guinea - Rural,GIN,GN,FALSE,,TRUE
+gintu,Guinea - Urban,GIN,GN,FALSE,,TRUE
+gmbr101,Gambia - Banjul,GMB,GM,FALSE,TRUE,FALSE
+gmbr102,Gambia - Kanifing,GMB,GM,FALSE,TRUE,FALSE
+gmbr103,Gambia - Brikama,GMB,GM,FALSE,TRUE,FALSE
+gmbr104,Gambia - Mansakonko,GMB,GM,FALSE,TRUE,FALSE
+gmbr105,Gambia - Kerewan,GMB,GM,FALSE,TRUE,FALSE
+gmbr106,Gambia - Kuntaur,GMB,GM,FALSE,TRUE,FALSE
+gmbr107,Gambia - Janjabureh,GMB,GM,FALSE,TRUE,FALSE
+gmbr108,Gambia - Basse,GMB,GM,FALSE,TRUE,FALSE
+gmbt,Gambia - Total,GMB,GM,TRUE,,FALSE
+gmbtr,Gambia - Rural,GMB,GM,FALSE,,TRUE
+gmbtu,Gambia - Urban,GMB,GM,FALSE,,TRUE
+gnbr101,Guinea Bissau - Tombali,GNB,GW,FALSE,TRUE,FALSE
+gnbr102,Guinea Bissau - Quinara,GNB,GW,FALSE,TRUE,FALSE
+gnbr103,Guinea Bissau - Oio,GNB,GW,FALSE,TRUE,FALSE
+gnbr104,Guinea Bissau - Biombo,GNB,GW,FALSE,TRUE,FALSE
+gnbr105,Guinea Bissau - Bolama,GNB,GW,FALSE,TRUE,FALSE
+gnbr106,Guinea Bissau - Bafata,GNB,GW,FALSE,TRUE,FALSE
+gnbr107,Guinea Bissau - Gabu,GNB,GW,FALSE,TRUE,FALSE
+gnbr108,Guinea Bissau - Cacheu,GNB,GW,FALSE,TRUE,FALSE
+gnbr109,Guinea Bissau - Bissau,GNB,GW,FALSE,TRUE,FALSE
+gnbt,Guinea Bissau - Total,GNB,GW,TRUE,,FALSE
+gnbtr,Guinea Bissau - Rural,GNB,GW,FALSE,,TRUE
+gnbtu,Guinea Bissau - Urban,GNB,GW,FALSE,,TRUE
+gtmr101,Guatemala - Metropolitan,GTM,GT,FALSE,TRUE,FALSE
+gtmr102,Guatemala - North,GTM,GT,FALSE,TRUE,FALSE
+gtmr103,Guatemala - North-Oriental,GTM,GT,FALSE,TRUE,FALSE
+gtmr104,Guatemala - South-Oriental,GTM,GT,FALSE,TRUE,FALSE
+gtmr105,Guatemala - Central,GTM,GT,FALSE,TRUE,FALSE
+gtmr106,Guatemala - South-Occidental,GTM,GT,FALSE,TRUE,FALSE
+gtmr107,Guatemala - North-Occidental,GTM,GT,FALSE,TRUE,FALSE
+gtmt,Guatemala - Total,GTM,GT,TRUE,,FALSE
+gtmtr,Guatemala - Rural,GTM,GT,FALSE,,TRUE
+gtmtu,Guatemala - Urban,GTM,GT,FALSE,,TRUE
+gtmr108,Guatemala - Peten,GTM,GT,FALSE,TRUE,FALSE
+guyr101,Guyana - Region 1,GUY,GY,FALSE,TRUE,FALSE
+guyr102,Guyana - Region 2,GUY,GY,FALSE,TRUE,FALSE
+guyr103,Guyana - Region 3,GUY,GY,FALSE,TRUE,FALSE
+guyr104,Guyana - Region 4,GUY,GY,FALSE,TRUE,FALSE
+guyr105,Guyana - Region 5,GUY,GY,FALSE,TRUE,FALSE
+guyr106,Guyana - Region 6,GUY,GY,FALSE,TRUE,FALSE
+guyr107,Guyana - Region 7,GUY,GY,FALSE,TRUE,FALSE
+guyr108,Guyana - Region 8,GUY,GY,FALSE,TRUE,FALSE
+guyr109,Guyana - Region 9,GUY,GY,FALSE,TRUE,FALSE
+guyr110,Guyana - Region 10,GUY,GY,FALSE,TRUE,FALSE
+guyt,Guyana - Total,GUY,GY,TRUE,,FALSE
+guytr,Guyana - Rural,GUY,GY,FALSE,,TRUE
+guytu,Guyana - Urban,GUY,GY,FALSE,,TRUE
+hndr101,Honduras - Atlantida,HND,HN,FALSE,TRUE,FALSE
+hndr102,Honduras - Colon,HND,HN,FALSE,TRUE,FALSE
+hndr103,Honduras - Comayagua,HND,HN,FALSE,TRUE,FALSE
+hndr104,Honduras - Copan,HND,HN,FALSE,TRUE,FALSE
+hndr105,Honduras - Cortes,HND,HN,FALSE,TRUE,FALSE
+hndr106,Honduras - Choluteca,HND,HN,FALSE,TRUE,FALSE
+hndr107,Honduras - El Paraiso,HND,HN,FALSE,TRUE,FALSE
+hndr108,Honduras - Francisco Morazan,HND,HN,FALSE,TRUE,FALSE
+hndr110,Honduras - Intibuca,HND,HN,FALSE,TRUE,FALSE
+hndr112,Honduras - La Paz,HND,HN,FALSE,TRUE,FALSE
+hndr113,Honduras - Lempira,HND,HN,FALSE,TRUE,FALSE
+hndr114,Honduras - Ocotepeque,HND,HN,FALSE,TRUE,FALSE
+hndr115,Honduras - Olancho,HND,HN,FALSE,TRUE,FALSE
+hndr116,Honduras - Santa Barbara,HND,HN,FALSE,TRUE,FALSE
+hndr117,Honduras - Valle,HND,HN,FALSE,TRUE,FALSE
+hndr118,Honduras - Yoro,HND,HN,FALSE,TRUE,FALSE
+hndt,Honduras - Total,HND,HN,TRUE,,FALSE
+hndtr,Honduras - Rural,HND,HN,FALSE,,TRUE
+hndtu,Honduras - Urban,HND,HN,FALSE,,TRUE
+hndr109,Honduras - Gracias a Dios,HND,HN,FALSE,TRUE,FALSE
+hndr111,Honduras - Islas de la Bahia,HND,HN,FALSE,TRUE,FALSE
+htir101,Haiti - West (incl Metropolitain area),HTI,HT,FALSE,TRUE,FALSE
+htir102,Haiti - South-East,HTI,HT,FALSE,TRUE,FALSE
+htir103,Haiti - North,HTI,HT,FALSE,TRUE,FALSE
+htir104,Haiti - North-East,HTI,HT,FALSE,TRUE,FALSE
+htir105,Haiti - Artibonite,HTI,HT,FALSE,TRUE,FALSE
+htir106,Haiti - Centre,HTI,HT,FALSE,TRUE,FALSE
+htir107,Haiti - South,HTI,HT,FALSE,TRUE,FALSE
+htir108,Haiti - Grande-Anse,HTI,HT,FALSE,TRUE,FALSE
+htir109,Haiti - North-West,HTI,HT,FALSE,TRUE,FALSE
+htit,Haiti - Total,HTI,HT,TRUE,,FALSE
+htitr,Haiti - Rural,HTI,HT,FALSE,,TRUE
+htitu,Haiti - Urban,HTI,HT,FALSE,,TRUE
+htir110,Haiti - Camps,HTI,HT,FALSE,TRUE,FALSE
+idnr101,Indonesia - DI Aceh,IDN,ID,FALSE,TRUE,FALSE
+idnr102,Indonesia - North Sumatra,IDN,ID,FALSE,TRUE,FALSE
+idnr103,Indonesia - West Sumatra,IDN,ID,FALSE,TRUE,FALSE
+idnr104,Indonesia - Riau (incl. Riau islands),IDN,ID,FALSE,TRUE,FALSE
+idnr105,Indonesia - Jambi,IDN,ID,FALSE,TRUE,FALSE
+idnr106,Indonesia - South Sumatra,IDN,ID,FALSE,TRUE,FALSE
+idnr107,Indonesia - Bengkulu,IDN,ID,FALSE,TRUE,FALSE
+idnr108,Indonesia - Lampung,IDN,ID,FALSE,TRUE,FALSE
+idnr110,Indonesia - DKI Jakarta,IDN,ID,FALSE,TRUE,FALSE
+idnr111,Indonesia - West Java,IDN,ID,FALSE,TRUE,FALSE
+idnr112,Indonesia - Central Java,IDN,ID,FALSE,TRUE,FALSE
+idnr113,Indonesia - DI Yogyakarta,IDN,ID,FALSE,TRUE,FALSE
+idnr114,Indonesia - East Java,IDN,ID,FALSE,TRUE,FALSE
+idnr116,Indonesia - Bali,IDN,ID,FALSE,TRUE,FALSE
+idnr117,Indonesia - West Nusa Tenggara,IDN,ID,FALSE,TRUE,FALSE
+idnr118,Indonesia - East Nusa Tenggara,IDN,ID,FALSE,TRUE,FALSE
+idnr119,Indonesia - East Timor,IDN,ID,FALSE,TRUE,FALSE
+idnr120,Indonesia - West Kalimantan,IDN,ID,FALSE,TRUE,FALSE
+idnr121,Indonesia - Central Kalimantan,IDN,ID,FALSE,TRUE,FALSE
+idnr122,Indonesia - South Kalimantan,IDN,ID,FALSE,TRUE,FALSE
+idnr123,Indonesia - East Kalimantan,IDN,ID,FALSE,TRUE,FALSE
+idnr124,Indonesia - North Sulawesi,IDN,ID,FALSE,TRUE,FALSE
+idnr125,Indonesia - Central Sulawesi,IDN,ID,FALSE,TRUE,FALSE
+idnr126,Indonesia - South Sulawesi (incl Sulawesi Barat),IDN,ID,FALSE,TRUE,FALSE
+idnr127,Indonesia - Southeast Sulawesi,IDN,ID,FALSE,TRUE,FALSE
+idnr129,Indonesia - Maluku,IDN,ID,FALSE,TRUE,FALSE
+idnr130,Indonesia - Irian Jaya (Papua and Papua Barat),IDN,ID,FALSE,TRUE,FALSE
+idnt,Indonesia - Total,IDN,ID,TRUE,,FALSE
+idntr,Indonesia - Rural,IDN,ID,FALSE,,TRUE
+idntu,Indonesia - Urban,IDN,ID,FALSE,,TRUE
+idnr109,Indonesia - Bangka Belitung,IDN,ID,FALSE,TRUE,FALSE
+idnr115,Indonesia - Banten,IDN,ID,FALSE,TRUE,FALSE
+idnr128,Indonesia - Gorontalo,IDN,ID,FALSE,TRUE,FALSE
+indr101,India - Andhra Pradesh,IND,IN,FALSE,TRUE,FALSE
+indr102,India - Assam,IND,IN,FALSE,TRUE,FALSE
+indr103,India - Bihar (incl Jharkhand),IND,IN,FALSE,TRUE,FALSE
+indr104,India - Goa,IND,IN,FALSE,TRUE,FALSE
+indr105,India - Gujarat,IND,IN,FALSE,TRUE,FALSE
+indr106,India - Haryana,IND,IN,FALSE,TRUE,FALSE
+indr107,India - Himachal Pradesh,IND,IN,FALSE,TRUE,FALSE
+indr108,India - Jammu,IND,IN,FALSE,TRUE,FALSE
+indr109,India - Karnataka,IND,IN,FALSE,TRUE,FALSE
+indr110,India - Kerala,IND,IN,FALSE,TRUE,FALSE
+indr111,India - Madhya Pradesh (incl Chhattisgarh),IND,IN,FALSE,TRUE,FALSE
+indr112,India - Maharashtra,IND,IN,FALSE,TRUE,FALSE
+indr113,India - Manipur,IND,IN,FALSE,TRUE,FALSE
+indr114,India - Meghalaya,IND,IN,FALSE,TRUE,FALSE
+indr115,India - Mizoram,IND,IN,FALSE,TRUE,FALSE
+indr116,India - Nagaland,IND,IN,FALSE,TRUE,FALSE
+indr117,India - Orissa,IND,IN,FALSE,TRUE,FALSE
+indr118,India - Punjab,IND,IN,FALSE,TRUE,FALSE
+indr119,India - Rajasthan,IND,IN,FALSE,TRUE,FALSE
+indr121,India - Tamil Nadu,IND,IN,FALSE,TRUE,FALSE
+indr122,India - West Bengal,IND,IN,FALSE,TRUE,FALSE
+indr123,India - Uttar Pradesh (incl Uttaranchal),IND,IN,FALSE,TRUE,FALSE
+indr124,India - New Delhi,IND,IN,FALSE,TRUE,FALSE
+indr125,India - Arunachal Pradesh,IND,IN,FALSE,TRUE,FALSE
+indr126,India - Tripura,IND,IN,FALSE,TRUE,FALSE
+indt,India - Total,IND,IN,TRUE,,FALSE
+indtr,India - Rural,IND,IN,FALSE,,TRUE
+indtu,India - Urban,IND,IN,FALSE,,TRUE
+indr120,India - Sikkim,IND,IN,FALSE,TRUE,FALSE
+irnr101,Iran - Markazi,IRN,IR,FALSE,TRUE,FALSE
+irnr102,Iran - Gilan,IRN,IR,FALSE,TRUE,FALSE
+irnr103,Iran - Mazandaran,IRN,IR,FALSE,TRUE,FALSE
+irnr104,Iran - EastAzarbayejan,IRN,IR,FALSE,TRUE,FALSE
+irnr105,Iran - WestAzarbayejan,IRN,IR,FALSE,TRUE,FALSE
+irnr106,Iran - Kermanshah,IRN,IR,FALSE,TRUE,FALSE
+irnr107,Iran - Khuzestan,IRN,IR,FALSE,TRUE,FALSE
+irnr108,Iran - Fars,IRN,IR,FALSE,TRUE,FALSE
+irnr109,Iran - Kerman,IRN,IR,FALSE,TRUE,FALSE
+irnr110,Iran - Khorasan-e-Razavi,IRN,IR,FALSE,TRUE,FALSE
+irnr111,Iran - Esfahan,IRN,IR,FALSE,TRUE,FALSE
+irnr112,Iran - Sistanand Baluchestan,IRN,IR,FALSE,TRUE,FALSE
+irnr113,Iran - Kordestan,IRN,IR,FALSE,TRUE,FALSE
+irnr114,Iran - Hamedan,IRN,IR,FALSE,TRUE,FALSE
+irnr115,Iran - Chaharmahal and Bakhtiyari,IRN,IR,FALSE,TRUE,FALSE
+irnr116,Iran - Lorestan,IRN,IR,FALSE,TRUE,FALSE
+irnr117,Iran - Ilam,IRN,IR,FALSE,TRUE,FALSE
+irnr118,Iran - Kohgiluyeh and Boyerahmad,IRN,IR,FALSE,TRUE,FALSE
+irnr119,Iran - Bushehr,IRN,IR,FALSE,TRUE,FALSE
+irnr120,Iran - Zanjan,IRN,IR,FALSE,TRUE,FALSE
+irnr121,Iran - Semnan,IRN,IR,FALSE,TRUE,FALSE
+irnr122,Iran - Yazd,IRN,IR,FALSE,TRUE,FALSE
+irnr123,Iran - Hormozgan,IRN,IR,FALSE,TRUE,FALSE
+irnr124,Iran - Tehran and Alborz,IRN,IR,FALSE,TRUE,FALSE
+irnr125,Iran - Ardebil,IRN,IR,FALSE,TRUE,FALSE
+irnr126,Iran - Qom,IRN,IR,FALSE,TRUE,FALSE
+irnr127,Iran - Qazvin,IRN,IR,FALSE,TRUE,FALSE
+irnr128,Iran - Golestan,IRN,IR,FALSE,TRUE,FALSE
+irnr129,Iran - North Khorasan,IRN,IR,FALSE,TRUE,FALSE
+irnr130,Iran - South Khorasan,IRN,IR,FALSE,TRUE,FALSE
+irnt,Iran - Total,IRN,IR,TRUE,,FALSE
+irntr,Iran - Rural,IRN,IR,FALSE,,TRUE
+irntu,Iran - Urban,IRN,IR,FALSE,,TRUE
+irqr101,Iraq - Dohouk,IRQ,IQ,FALSE,TRUE,FALSE
+irqr102,Iraq - Nenava,IRQ,IQ,FALSE,TRUE,FALSE
+irqr103,Iraq - Suleimaniya,IRQ,IQ,FALSE,TRUE,FALSE
+irqr104,Iraq - Ta-amem/Karkuk,IRQ,IQ,FALSE,TRUE,FALSE
+irqr105,Iraq - Erbil,IRQ,IQ,FALSE,TRUE,FALSE
+irqr106,Iraq - Diala,IRQ,IQ,FALSE,TRUE,FALSE
+irqr107,Iraq - Anbar,IRQ,IQ,FALSE,TRUE,FALSE
+irqr108,Iraq - Baghdad,IRQ,IQ,FALSE,TRUE,FALSE
+irqr109,Iraq - Babylon,IRQ,IQ,FALSE,TRUE,FALSE
+irqr110,Iraq - Kerbela,IRQ,IQ,FALSE,TRUE,FALSE
+irqr111,Iraq - Wasit,IRQ,IQ,FALSE,TRUE,FALSE
+irqr112,Iraq - Salaheldeen,IRQ,IQ,FALSE,TRUE,FALSE
+irqr113,Iraq - Najaf,IRQ,IQ,FALSE,TRUE,FALSE
+irqr114,Iraq - Qadisiya,IRQ,IQ,FALSE,TRUE,FALSE
+irqr115,Iraq - Muthanna,IRQ,IQ,FALSE,TRUE,FALSE
+irqr116,Iraq - Thi-Qar,IRQ,IQ,FALSE,TRUE,FALSE
+irqr117,Iraq - Maysan,IRQ,IQ,FALSE,TRUE,FALSE
+irqr118,Iraq - Basra,IRQ,IQ,FALSE,TRUE,FALSE
+irqt,Iraq - Total,IRQ,IQ,TRUE,,FALSE
+irqtr,Iraq - Rural,IRQ,IQ,FALSE,,TRUE
+irqtu,Iraq - Urban,IRQ,IQ,FALSE,,TRUE
+jorr101,Jordan - Amman,JOR,JO,FALSE,TRUE,FALSE
+jorr102,Jordan - Balqa,JOR,JO,FALSE,TRUE,FALSE
+jorr103,Jordan - Zarqa,JOR,JO,FALSE,TRUE,FALSE
+jorr104,Jordan - Madaba,JOR,JO,FALSE,TRUE,FALSE
+jorr105,Jordan - Irbid,JOR,JO,FALSE,TRUE,FALSE
+jorr106,Jordan - Mafraq,JOR,JO,FALSE,TRUE,FALSE
+jorr107,Jordan - Jarash,JOR,JO,FALSE,TRUE,FALSE
+jorr108,Jordan - Aljoun,JOR,JO,FALSE,TRUE,FALSE
+jorr109,Jordan - Karak,JOR,JO,FALSE,TRUE,FALSE
+jorr110,Jordan - Tafiela,JOR,JO,FALSE,TRUE,FALSE
+jorr111,Jordan - Ma'an,JOR,JO,FALSE,TRUE,FALSE
+jorr112,Jordan - Aqaba,JOR,JO,FALSE,TRUE,FALSE
+jort,Jordan - Total,JOR,JO,TRUE,,FALSE
+jortr,Jordan - Rural,JOR,JO,FALSE,,TRUE
+jortu,Jordan - Urban,JOR,JO,FALSE,,TRUE
+kazr101,Kazakhstan - Almaty city,KAZ,KZ,FALSE,TRUE,FALSE
+kazr102,"Kazakhstan - South region (Almatinskaya, Zhambylskaya, Kyzylordinskaya, South-Kazakhstanskaya)",KAZ,KZ,FALSE,TRUE,FALSE
+kazr103,"Kazakhstan - West region (Aktyubinskaya, Atyrauskaya, Mangistauskaya, West-Kazakhstanskaya)",KAZ,KZ,FALSE,TRUE,FALSE
+kazr104,Kazakhstan - Central region (Karagandinskaya),KAZ,KZ,FALSE,TRUE,FALSE
+kazr105,"Kazakhstan - North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)",KAZ,KZ,FALSE,TRUE,FALSE
+kazr106,Kazakhstan - East region (East-Kazakhstanskaya),KAZ,KZ,FALSE,TRUE,FALSE
+kazt,Kazakhstan - Total,KAZ,KZ,TRUE,,FALSE
+kaztr,Kazakhstan - Rural,KAZ,KZ,FALSE,,TRUE
+kaztu,Kazakhstan - Urban,KAZ,KZ,FALSE,,TRUE
+kenr101,Kenya - Nairobi,KEN,KE,FALSE,TRUE,FALSE
+kenr102,Kenya - Central,KEN,KE,FALSE,TRUE,FALSE
+kenr103,Kenya - Coast,KEN,KE,FALSE,TRUE,FALSE
+kenr104,Kenya - Eastern,KEN,KE,FALSE,TRUE,FALSE
+kenr105,Kenya - Nyanza,KEN,KE,FALSE,TRUE,FALSE
+kenr106,Kenya - Rift Valley,KEN,KE,FALSE,TRUE,FALSE
+kenr107,Kenya - Western,KEN,KE,FALSE,TRUE,FALSE
+kent,Kenya - Total,KEN,KE,TRUE,,FALSE
+kentr,Kenya - Rural,KEN,KE,FALSE,,TRUE
+kentu,Kenya - Urban,KEN,KE,FALSE,,TRUE
+kenr108,Kenya - North Eastern,KEN,KE,FALSE,TRUE,FALSE
+kgzr101,Kyrgyzstan - Bishkek,KGZ,KG,FALSE,TRUE,FALSE
+kgzr102,"Kyrgyzstan - North (Issyk-Kul, Chuy, Talas)",KGZ,KG,FALSE,TRUE,FALSE
+kgzr103,Kyrgyzstan - East (Naryn),KGZ,KG,FALSE,TRUE,FALSE
+kgzr104,"Kyrgyzstan - South (Osh, Batken, Jalal-Abad)",KGZ,KG,FALSE,TRUE,FALSE
+kgzt,Kyrgyzstan - Total,KGZ,KG,TRUE,,FALSE
+kgztr,Kyrgyzstan - Rural,KGZ,KG,FALSE,,TRUE
+kgztu,Kyrgyzstan - Urban,KGZ,KG,FALSE,,TRUE
+khmr101,Cambodia - Banteay Mean Chey,KHM,KH,FALSE,TRUE,FALSE
+khmr102,Cambodia - Kampong Cham (incl Tboung Khmum),KHM,KH,FALSE,TRUE,FALSE
+khmr103,Cambodia - Kampong Chhnang,KHM,KH,FALSE,TRUE,FALSE
+khmr104,Cambodia - Kampong Spueu,KHM,KH,FALSE,TRUE,FALSE
+khmr105,Cambodia - Kampong Thum,KHM,KH,FALSE,TRUE,FALSE
+khmr106,Cambodia - Kandal,KHM,KH,FALSE,TRUE,FALSE
+khmr107,Cambodia - Kaoh Kong,KHM,KH,FALSE,TRUE,FALSE
+khmr108,Cambodia - Phnom Penh,KHM,KH,FALSE,TRUE,FALSE
+khmr109,Cambodia - Prey Veaeng,KHM,KH,FALSE,TRUE,FALSE
+khmr110,Cambodia - Pousat,KHM,KH,FALSE,TRUE,FALSE
+khmr111,Cambodia - Svay Rieng,KHM,KH,FALSE,TRUE,FALSE
+khmr112,Cambodia - Takaev,KHM,KH,FALSE,TRUE,FALSE
+khmr113,Cambodia - Bat Dambang/Krong Pailin,KHM,KH,FALSE,TRUE,FALSE
+khmr114,Cambodia - Kampot/Krong Kaeb/Krong Preah Sihanouk,KHM,KH,FALSE,TRUE,FALSE
+khmr115,Cambodia - Preah Vihear/Stueng Traeng/Kracheh,KHM,KH,FALSE,TRUE,FALSE
+khmr116,Cambodia - Mondol Kiri/Rotanak Kiri,KHM,KH,FALSE,TRUE,FALSE
+khmr117,Cambodia - Siem Reab/Otdar Mean Chey,KHM,KH,FALSE,TRUE,FALSE
+khmt,Cambodia - Total,KHM,KH,TRUE,,FALSE
+khmtr,Cambodia - Rural,KHM,KH,FALSE,,TRUE
+khmtu,Cambodia - Urban,KHM,KH,FALSE,,TRUE
+laor101,Lao - Vientiane Municipality,LAO,LA,FALSE,TRUE,FALSE
+laor102,Lao - Phongsaly,LAO,LA,FALSE,TRUE,FALSE
+laor103,Lao - Luangnamtha,LAO,LA,FALSE,TRUE,FALSE
+laor104,Lao - Oudomxay,LAO,LA,FALSE,TRUE,FALSE
+laor105,Lao - Bokeo,LAO,LA,FALSE,TRUE,FALSE
+laor106,Lao - Luangprabang,LAO,LA,FALSE,TRUE,FALSE
+laor107,Lao - Huaphanh,LAO,LA,FALSE,TRUE,FALSE
+laor108,Lao - Sayabury,LAO,LA,FALSE,TRUE,FALSE
+laor109,Lao - Xiengkhuang,LAO,LA,FALSE,TRUE,FALSE
+laor110,Lao - Vientiane Province,LAO,LA,FALSE,TRUE,FALSE
+laor111,Lao - Borikhamxay,LAO,LA,FALSE,TRUE,FALSE
+laor112,Lao - Khammuane,LAO,LA,FALSE,TRUE,FALSE
+laor113,Lao - Savannakhet,LAO,LA,FALSE,TRUE,FALSE
+laor114,Lao - Saravane,LAO,LA,FALSE,TRUE,FALSE
+laor115,Lao - Sekong,LAO,LA,FALSE,TRUE,FALSE
+laor116,Lao - Champasack,LAO,LA,FALSE,TRUE,FALSE
+laor117,Lao - Attapeu,LAO,LA,FALSE,TRUE,FALSE
+laot,Lao - Total,LAO,LA,TRUE,,FALSE
+laotr,Lao - Rural,LAO,LA,FALSE,,TRUE
+laotu,Lao - Urban,LAO,LA,FALSE,,TRUE
+lbrr201,Liberia -  Monrovia,LBR,LR,FALSE,TRUE,FALSE
+lbrr202,Liberia -  North Western,LBR,LR,FALSE,TRUE,FALSE
+lbrr203,Liberia -  South Central,LBR,LR,FALSE,TRUE,FALSE
+lbrr204,Liberia -  South Eastern A,LBR,LR,FALSE,TRUE,FALSE
+lbrr205,Liberia -  South Eastern B,LBR,LR,FALSE,TRUE,FALSE
+lbrr206,Liberia -  North Central,LBR,LR,FALSE,TRUE,FALSE
+lbrt,Liberia - Total,LBR,LR,TRUE,,FALSE
+lbrtr,Liberia - Rural,LBR,LR,FALSE,,TRUE
+lbrtu,Liberia - Urban,LBR,LR,FALSE,,TRUE
+lbrr101,Liberia - Bomi,LBR,LR,FALSE,TRUE,FALSE
+lbrr102,Liberia - Bong,LBR,LR,FALSE,TRUE,FALSE
+lbrr103,Liberia - Gbarpolu,LBR,LR,FALSE,TRUE,FALSE
+lbrr104,Liberia - Grand Bassa,LBR,LR,FALSE,TRUE,FALSE
+lbrr105,Liberia - Grand Cape Mount,LBR,LR,FALSE,TRUE,FALSE
+lbrr106,Liberia - Grand Gedeh,LBR,LR,FALSE,TRUE,FALSE
+lbrr107,Liberia - Grand Kru,LBR,LR,FALSE,TRUE,FALSE
+lbrr108,Liberia - Lofa,LBR,LR,FALSE,TRUE,FALSE
+lbrr109,Liberia - Margibi,LBR,LR,FALSE,TRUE,FALSE
+lbrr110,Liberia - Maryland,LBR,LR,FALSE,TRUE,FALSE
+lbrr111,Liberia - Montserrado,LBR,LR,FALSE,TRUE,FALSE
+lbrr112,Liberia - Nimba,LBR,LR,FALSE,TRUE,FALSE
+lbrr113,Liberia - River Cess,LBR,LR,FALSE,TRUE,FALSE
+lbrr114,Liberia - River Gee,LBR,LR,FALSE,TRUE,FALSE
+lbrr115,Liberia - Sinoe,LBR,LR,FALSE,TRUE,FALSE
+lsor101,Lesotho - Butha-Buthe,LSO,LS,FALSE,TRUE,FALSE
+lsor102,Lesotho - Leribe,LSO,LS,FALSE,TRUE,FALSE
+lsor103,Lesotho - Berea,LSO,LS,FALSE,TRUE,FALSE
+lsor104,Lesotho - Maseru,LSO,LS,FALSE,TRUE,FALSE
+lsor105,Lesotho - Mafeteng,LSO,LS,FALSE,TRUE,FALSE
+lsor106,Lesotho - Mohale s Hoek,LSO,LS,FALSE,TRUE,FALSE
+lsor107,Lesotho - Quthing,LSO,LS,FALSE,TRUE,FALSE
+lsor108,Lesotho - Qasha s Nek,LSO,LS,FALSE,TRUE,FALSE
+lsor109,Lesotho - Mokhotlong,LSO,LS,FALSE,TRUE,FALSE
+lsor110,Lesotho - Thaba-Tseka,LSO,LS,FALSE,TRUE,FALSE
+lsot,Lesotho - Total,LSO,LS,TRUE,,FALSE
+lsotr,Lesotho - Rural,LSO,LS,FALSE,,TRUE
+lsotu,Lesotho - Urban,LSO,LS,FALSE,,TRUE
+marr101,Morocco - North west,MAR,MA,FALSE,TRUE,FALSE
+marr102,Morocco - Centre north,MAR,MA,FALSE,TRUE,FALSE
+marr103,Morocco - Centre,MAR,MA,FALSE,TRUE,FALSE
+marr104,Morocco - Eastern,MAR,MA,FALSE,TRUE,FALSE
+marr105,Morocco - Centre south,MAR,MA,FALSE,TRUE,FALSE
+marr106,Morocco - Tensift,MAR,MA,FALSE,TRUE,FALSE
+marr107,Morocco - South,MAR,MA,FALSE,TRUE,FALSE
+mart,Morocco - Total,MAR,MA,TRUE,,FALSE
+martr,Morocco - Rural,MAR,MA,FALSE,,TRUE
+martu,Morocco - Urban,MAR,MA,FALSE,,TRUE
+mdar101,Moldova - North,MDA,MD,FALSE,TRUE,FALSE
+mdar102,Moldova - Center,MDA,MD,FALSE,TRUE,FALSE
+mdar103,Moldova - South,MDA,MD,FALSE,TRUE,FALSE
+mdar104,Moldova - Chisinau,MDA,MD,FALSE,TRUE,FALSE
+mdat,Moldova - Total,MDA,MD,TRUE,,FALSE
+mdatr,Moldova - Rural,MDA,MD,FALSE,,TRUE
+mdatu,Moldova - Urban,MDA,MD,FALSE,,TRUE
+mdgr101,Madagascar - Antananarivo,MDG,MG,FALSE,TRUE,FALSE
+mdgr102,Madagascar - Fianarantsoa,MDG,MG,FALSE,TRUE,FALSE
+mdgr103,Madagascar - Toamasina,MDG,MG,FALSE,TRUE,FALSE
+mdgr104,Madagascar - Mahajanga,MDG,MG,FALSE,TRUE,FALSE
+mdgr105,Madagascar - Toliary,MDG,MG,FALSE,TRUE,FALSE
+mdgr106,Madagascar - Antsiranana,MDG,MG,FALSE,TRUE,FALSE
+mdgt,Madagascar - Total,MDG,MG,TRUE,,FALSE
+mdgtr,Madagascar - Rural,MDG,MG,FALSE,,TRUE
+mdgtu,Madagascar - Urban,MDG,MG,FALSE,,TRUE
+mdvr101,Maldives - Male,MDV,MV,FALSE,TRUE,FALSE
+mdvr102,Maldives - North,MDV,MV,FALSE,TRUE,FALSE
+mdvr103,Maldives - North Central,MDV,MV,FALSE,TRUE,FALSE
+mdvr104,Maldives - Central,MDV,MV,FALSE,TRUE,FALSE
+mdvr105,Maldives - South Central,MDV,MV,FALSE,TRUE,FALSE
+mdvr106,Maldives - South,MDV,MV,FALSE,TRUE,FALSE
+mdvt,Maldives - Total,MDV,MV,TRUE,,FALSE
+mdvtr,Maldives - Rural,MDV,MV,FALSE,,TRUE
+mdvtu,Maldives - Urban,MDV,MV,FALSE,,TRUE
+mexr101,Mexico - Aguascalientes,MEX,MX,FALSE,TRUE,FALSE
+mexr102,Mexico - Baja California,MEX,MX,FALSE,TRUE,FALSE
+mexr103,Mexico - Baja California Sur,MEX,MX,FALSE,TRUE,FALSE
+mexr104,Mexico - Campeche,MEX,MX,FALSE,TRUE,FALSE
+mexr105,Mexico - Coahuila,MEX,MX,FALSE,TRUE,FALSE
+mexr106,Mexico - Colima,MEX,MX,FALSE,TRUE,FALSE
+mexr107,Mexico - Chiapas,MEX,MX,FALSE,TRUE,FALSE
+mexr108,Mexico - Chihuahua,MEX,MX,FALSE,TRUE,FALSE
+mexr109,Mexico - Distrito Federal,MEX,MX,FALSE,TRUE,FALSE
+mexr110,Mexico - Durango,MEX,MX,FALSE,TRUE,FALSE
+mexr111,Mexico - Guanajuato,MEX,MX,FALSE,TRUE,FALSE
+mexr112,Mexico - Guerrero,MEX,MX,FALSE,TRUE,FALSE
+mexr113,Mexico - Hidalgo,MEX,MX,FALSE,TRUE,FALSE
+mexr114,Mexico - Jalisco,MEX,MX,FALSE,TRUE,FALSE
+mexr115,Mexico - Mexico,MEX,MX,FALSE,TRUE,FALSE
+mexr116,Mexico - Michoacan de Ocampo,MEX,MX,FALSE,TRUE,FALSE
+mexr117,Mexico - Morelos,MEX,MX,FALSE,TRUE,FALSE
+mexr118,Mexico - Nayarit,MEX,MX,FALSE,TRUE,FALSE
+mexr119,Mexico - Nuevo Leon,MEX,MX,FALSE,TRUE,FALSE
+mexr120,Mexico - Oaxaca,MEX,MX,FALSE,TRUE,FALSE
+mexr121,Mexico - Puebla,MEX,MX,FALSE,TRUE,FALSE
+mexr122,Mexico - Queretaro,MEX,MX,FALSE,TRUE,FALSE
+mexr123,Mexico - Quintana Roo,MEX,MX,FALSE,TRUE,FALSE
+mexr124,Mexico - San Luis Potosi,MEX,MX,FALSE,TRUE,FALSE
+mexr125,Mexico - Sinaloa,MEX,MX,FALSE,TRUE,FALSE
+mexr126,Mexico - Sonora,MEX,MX,FALSE,TRUE,FALSE
+mexr127,Mexico - Tabasco,MEX,MX,FALSE,TRUE,FALSE
+mexr128,Mexico - Tamaulipas,MEX,MX,FALSE,TRUE,FALSE
+mexr129,Mexico - Tlaxcala,MEX,MX,FALSE,TRUE,FALSE
+mexr130,Mexico - Veracruz,MEX,MX,FALSE,TRUE,FALSE
+mexr131,Mexico - Yucatan,MEX,MX,FALSE,TRUE,FALSE
+mexr132,Mexico - Zacatecas,MEX,MX,FALSE,TRUE,FALSE
+mext,Mexico - Total,MEX,MX,TRUE,,FALSE
+mextr,Mexico - Rural,MEX,MX,FALSE,,TRUE
+mextu,Mexico - Urban,MEX,MX,FALSE,,TRUE
+mlir101,Mali - Kayes,MLI,ML,FALSE,TRUE,FALSE
+mlir102,Mali - Koulikoro,MLI,ML,FALSE,TRUE,FALSE
+mlir103,Mali - Sikasso,MLI,ML,FALSE,TRUE,FALSE
+mlir104,Mali - Segou,MLI,ML,FALSE,TRUE,FALSE
+mlir105,Mali - Mopti,MLI,ML,FALSE,TRUE,FALSE
+mlir106,Mali - Tombouctou,MLI,ML,FALSE,TRUE,FALSE
+mlir107,Mali - Gao and Kidal,MLI,ML,FALSE,TRUE,FALSE
+mlir108,Mali - Bamako,MLI,ML,FALSE,TRUE,FALSE
+mlit,Mali - Total,MLI,ML,TRUE,,FALSE
+mlitr,Mali - Rural,MLI,ML,FALSE,,TRUE
+mlitu,Mali - Urban,MLI,ML,FALSE,,TRUE
+mngr101,"Mongolia - Western (Bayan-Ulgii, Govi-Altai, Zavkhan, Uvs, Khovd)",MNG,MN,FALSE,TRUE,FALSE
+mngr102,"Mongolia - Khangai (Arkhangai, Bayankhongor, Bulgan, Uvurkhangai, Khuvsgul, Orkhon)",MNG,MN,FALSE,TRUE,FALSE
+mngr103,"Mongolia - Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)",MNG,MN,FALSE,TRUE,FALSE
+mngr104,"Mongolia - Eastern (Dornod, Sukhbaatar, Khentii)",MNG,MN,FALSE,TRUE,FALSE
+mngr105,Mongolia - Ulaanbaatar,MNG,MN,FALSE,TRUE,FALSE
+mngt,Mongolia - Total,MNG,MN,TRUE,,FALSE
+mngtr,Mongolia - Rural,MNG,MN,FALSE,,TRUE
+mngtu,Mongolia - Urban,MNG,MN,FALSE,,TRUE
+mozr101,Mozambique - Niassa,MOZ,MZ,FALSE,TRUE,FALSE
+mozr102,Mozambique - Cabo delgado,MOZ,MZ,FALSE,TRUE,FALSE
+mozr103,Mozambique - Nampula,MOZ,MZ,FALSE,TRUE,FALSE
+mozr104,Mozambique - Zambezia,MOZ,MZ,FALSE,TRUE,FALSE
+mozr105,Mozambique - Tete,MOZ,MZ,FALSE,TRUE,FALSE
+mozr106,Mozambique - Manica,MOZ,MZ,FALSE,TRUE,FALSE
+mozr107,Mozambique - Sofala,MOZ,MZ,FALSE,TRUE,FALSE
+mozr108,Mozambique - Inhambane,MOZ,MZ,FALSE,TRUE,FALSE
+mozr109,Mozambique - Gaza,MOZ,MZ,FALSE,TRUE,FALSE
+mozr110,Mozambique - Maputo Provincia,MOZ,MZ,FALSE,TRUE,FALSE
+mozr111,Mozambique - Maputo Cidade,MOZ,MZ,FALSE,TRUE,FALSE
+mozt,Mozambique - Total,MOZ,MZ,TRUE,,FALSE
+moztr,Mozambique - Rural,MOZ,MZ,FALSE,,TRUE
+moztu,Mozambique - Urban,MOZ,MZ,FALSE,,TRUE
+mrtr101,Mauritania - Hodh Charghi,MRT,MR,FALSE,TRUE,FALSE
+mrtr102,Mauritania - Hodh Gharbi,MRT,MR,FALSE,TRUE,FALSE
+mrtr103,Mauritania - Assaba,MRT,MR,FALSE,TRUE,FALSE
+mrtr104,Mauritania - Gorgol,MRT,MR,FALSE,TRUE,FALSE
+mrtr105,Mauritania - Brakna,MRT,MR,FALSE,TRUE,FALSE
+mrtr106,Mauritania - Trarza incl Nouakchott,MRT,MR,FALSE,TRUE,FALSE
+mrtr107,Mauritania - Adrar,MRT,MR,FALSE,TRUE,FALSE
+mrtr108,Mauritania - Nouadhibou,MRT,MR,FALSE,TRUE,FALSE
+mrtr109,Mauritania - Tagant,MRT,MR,FALSE,TRUE,FALSE
+mrtr110,Mauritania - Guidimagha,MRT,MR,FALSE,TRUE,FALSE
+mrtr111,Mauritania - Tiris-Zemmour,MRT,MR,FALSE,TRUE,FALSE
+mrtr112,Mauritania - Inchiri,MRT,MR,FALSE,TRUE,FALSE
+mrtt,Mauritania - Total,MRT,MR,TRUE,,FALSE
+mrttr,Mauritania - Rural,MRT,MR,FALSE,,TRUE
+mrttu,Mauritania - Urban,MRT,MR,FALSE,,TRUE
+musr101,"Mauritius - North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",MUS,MU,FALSE,TRUE,FALSE
+musr102,"Mauritius - South (Grand Port, Savanne, Plaines Wilhems, Black River)",MUS,MU,FALSE,TRUE,FALSE
+musr103,Mauritius - Rodrigues,MUS,MU,FALSE,TRUE,FALSE
+must,Mauritius - Total,MUS,MU,TRUE,,FALSE
+mustr,Mauritius - Rural,MUS,MU,FALSE,,TRUE
+mustu,Mauritius - Urban,MUS,MU,FALSE,,TRUE
+mwir101,Malawi - Blantyre,MWI,MW,FALSE,TRUE,FALSE
+mwir102,Malawi - Kasungu,MWI,MW,FALSE,TRUE,FALSE
+mwir103,Malawi - Machinga,MWI,MW,FALSE,TRUE,FALSE
+mwir104,Malawi - Mangochi,MWI,MW,FALSE,TRUE,FALSE
+mwir105,Malawi - Mzimba,MWI,MW,FALSE,TRUE,FALSE
+mwir106,Malawi - Salima,MWI,MW,FALSE,TRUE,FALSE
+mwir107,Malawi - Thyolo,MWI,MW,FALSE,TRUE,FALSE
+mwir108,Malawi - Zomba,MWI,MW,FALSE,TRUE,FALSE
+mwir109,Malawi - Lilongwe,MWI,MW,FALSE,TRUE,FALSE
+mwir110,Malawi - Mulanje,MWI,MW,FALSE,TRUE,FALSE
+mwir111,"Malawi - Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",MWI,MW,FALSE,TRUE,FALSE
+mwir112,"Malawi - Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)",MWI,MW,FALSE,TRUE,FALSE
+mwir113,"Malawi - Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)",MWI,MW,FALSE,TRUE,FALSE
+mwit,Malawi - Total,MWI,MW,TRUE,,FALSE
+mwitr,Malawi - Rural,MWI,MW,FALSE,,TRUE
+mwitu,Malawi - Urban,MWI,MW,FALSE,,TRUE
+mysr101,Malaysia - Johor,MYS,MY,FALSE,TRUE,FALSE
+mysr102,Malaysia - Kedah,MYS,MY,FALSE,TRUE,FALSE
+mysr103,Malaysia - Kelantan,MYS,MY,FALSE,TRUE,FALSE
+mysr104,Malaysia - Melaka,MYS,MY,FALSE,TRUE,FALSE
+mysr105,Malaysia - Negeri Sembilan,MYS,MY,FALSE,TRUE,FALSE
+mysr106,Malaysia - Pahang,MYS,MY,FALSE,TRUE,FALSE
+mysr107,Malaysia - Pulau Pinang,MYS,MY,FALSE,TRUE,FALSE
+mysr108,Malaysia - Perak,MYS,MY,FALSE,TRUE,FALSE
+mysr109,Malaysia - Perlis,MYS,MY,FALSE,TRUE,FALSE
+mysr110,Malaysia - Selangor,MYS,MY,FALSE,TRUE,FALSE
+mysr111,Malaysia - Terengganu,MYS,MY,FALSE,TRUE,FALSE
+mysr112,Malaysia - Sabah,MYS,MY,FALSE,TRUE,FALSE
+mysr113,Malaysia - Sarawak,MYS,MY,FALSE,TRUE,FALSE
+mysr114,Malaysia - Kuala Lumpur Federal Territory,MYS,MY,FALSE,TRUE,FALSE
+mysr115,Malaysia - Labuan Federal Territory,MYS,MY,FALSE,TRUE,FALSE
+myst,Malaysia - Total,MYS,MY,TRUE,,FALSE
+mystr,Malaysia - Rural,MYS,MY,FALSE,,TRUE
+mystu,Malaysia - Urban,MYS,MY,FALSE,,TRUE
+namr201,Namibia -  Northwest,NAM,,FALSE,TRUE,FALSE
+namr202,Namibia -  Northeast,NAM,,FALSE,TRUE,FALSE
+namr203,Namibia -  Central,NAM,,FALSE,TRUE,FALSE
+namr204,Namibia -  South,NAM,,FALSE,TRUE,FALSE
+namt,Namibia - Total,NAM,,TRUE,,FALSE
+namtr,Namibia - Rural,NAM,,FALSE,,TRUE
+namtu,Namibia - Urban,NAM,,FALSE,,TRUE
+namr101,Namibia - Caprivi,NAM,,FALSE,TRUE,FALSE
+namr102,Namibia - Erongo,NAM,,FALSE,TRUE,FALSE
+namr103,Namibia - Hardap,NAM,,FALSE,TRUE,FALSE
+namr104,Namibia - Karas,NAM,,FALSE,TRUE,FALSE
+namr105,Namibia - Khomas,NAM,,FALSE,TRUE,FALSE
+namr106,Namibia - Kunene,NAM,,FALSE,TRUE,FALSE
+namr107,Namibia - Ohangwena,NAM,,FALSE,TRUE,FALSE
+namr108,Namibia - Kavango,NAM,,FALSE,TRUE,FALSE
+namr109,Namibia - Omaheke,NAM,,FALSE,TRUE,FALSE
+namr110,Namibia - Omusati,NAM,,FALSE,TRUE,FALSE
+namr111,Namibia - Oshana,NAM,,FALSE,TRUE,FALSE
+namr112,Namibia - Oshikoto,NAM,,FALSE,TRUE,FALSE
+namr113,Namibia - Otjozondjupa,NAM,,FALSE,TRUE,FALSE
+nerr101,Niger - Agadez,NER,NE,FALSE,TRUE,FALSE
+nerr102,Niger - Diffa,NER,NE,FALSE,TRUE,FALSE
+nerr103,Niger - Dosso,NER,NE,FALSE,TRUE,FALSE
+nerr104,Niger - Maradi,NER,NE,FALSE,TRUE,FALSE
+nerr105,Niger - Tillabery (incl Niamey),NER,NE,FALSE,TRUE,FALSE
+nerr106,Niger - Tahoua,NER,NE,FALSE,TRUE,FALSE
+nerr107,Niger - Zinder,NER,NE,FALSE,TRUE,FALSE
+nert,Niger - Total,NER,NE,TRUE,,FALSE
+nertr,Niger - Rural,NER,NE,FALSE,,TRUE
+nertu,Niger - Urban,NER,NE,FALSE,,TRUE
+ngar101,"Nigeria - North Central (Benue, Kwara, Niger, Plateau, Kogi, Nassarawa, Abuja (FCT))",NGA,NG,FALSE,TRUE,FALSE
+ngar102,"Nigeria - North East (Bauchi, Borno, Adamawa, Taraba, Yobe, Gombe)",NGA,NG,FALSE,TRUE,FALSE
+ngar103,"Nigeria - North West (Kaduna, Kano, Katsina, Sokoto, Jigawa, Kebbi, Zamfora)",NGA,NG,FALSE,TRUE,FALSE
+ngar104,"Nigeria - South East (Anambra, Imo, Abia, Enugu, Ebonyi)",NGA,NG,FALSE,TRUE,FALSE
+ngar105,"Nigeria - South South (Akwa Ibom, Edo, Cross River, Rivers, Delta, Bayelsa)",NGA,NG,FALSE,TRUE,FALSE
+ngar106,"Nigeria - South West (Lagos, Ogun, Ondo, Oyo, Osun, Ekiti)",NGA,NG,FALSE,TRUE,FALSE
+ngat,Nigeria - Total,NGA,NG,TRUE,,FALSE
+ngatr,Nigeria - Rural,NGA,NG,FALSE,,TRUE
+ngatu,Nigeria - Urban,NGA,NG,FALSE,,TRUE
+nicr101,"Nicaragua - Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)",NIC,NI,FALSE,TRUE,FALSE
+nicr102,"Nicaragua - Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)",NIC,NI,FALSE,TRUE,FALSE
+nicr103,"Nicaragua - Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))",NIC,NI,FALSE,TRUE,FALSE
+nict,Nicaragua - Total,NIC,NI,TRUE,,FALSE
+nictr,Nicaragua - Rural,NIC,NI,FALSE,,TRUE
+nictu,Nicaragua - Urban,NIC,NI,FALSE,,TRUE
+nplr101,Nepal - Eastern,NPL,NP,FALSE,TRUE,FALSE
+nplr102,Nepal - Central,NPL,NP,FALSE,TRUE,FALSE
+nplr103,Nepal - Western,NPL,NP,FALSE,TRUE,FALSE
+nplr104,Nepal - Mid-western,NPL,NP,FALSE,TRUE,FALSE
+nplr105,Nepal - Far-western,NPL,NP,FALSE,TRUE,FALSE
+nplt,Nepal - Total,NPL,NP,TRUE,,FALSE
+npltr,Nepal - Rural,NPL,NP,FALSE,,TRUE
+npltu,Nepal - Urban,NPL,NP,FALSE,,TRUE
+pakr101,Pakistan - Punjab (incl Islamabad),PAK,PK,FALSE,TRUE,FALSE
+pakr102,Pakistan - Sindh,PAK,PK,FALSE,TRUE,FALSE
+pakr103,Pakistan - Khyber Pakhtunkhwa (NWFrontier),PAK,PK,FALSE,TRUE,FALSE
+pakr104,Pakistan - Balochistan,PAK,PK,FALSE,TRUE,FALSE
+pakt,Pakistan - Total,PAK,PK,TRUE,,FALSE
+paktr,Pakistan - Rural,PAK,PK,FALSE,,TRUE
+paktu,Pakistan - Urban,PAK,PK,FALSE,,TRUE
+pakr105,Pakistan - Gilgit Baltistan,PAK,PK,FALSE,TRUE,FALSE
+panr101,Panama - Bocas del Toro,PAN,PA,FALSE,TRUE,FALSE
+panr102,Panama - Cocle,PAN,PA,FALSE,TRUE,FALSE
+panr103,Panama - Colon,PAN,PA,FALSE,TRUE,FALSE
+panr104,Panama - Chiriqui,PAN,PA,FALSE,TRUE,FALSE
+panr105,Panama - Darien,PAN,PA,FALSE,TRUE,FALSE
+panr106,Panama - Herrera,PAN,PA,FALSE,TRUE,FALSE
+panr107,Panama - Los Santos,PAN,PA,FALSE,TRUE,FALSE
+panr108,Panama - Panama,PAN,PA,FALSE,TRUE,FALSE
+panr109,Panama - Veraguas,PAN,PA,FALSE,TRUE,FALSE
+panr110,Panama - Kuna Yala,PAN,PA,FALSE,TRUE,FALSE
+panr111,Panama - Embera Wounaan,PAN,PA,FALSE,TRUE,FALSE
+panr112,Panama - Ngobe Bugle,PAN,PA,FALSE,TRUE,FALSE
+pant,Panama - Total,PAN,PA,TRUE,,FALSE
+pantr,Panama - Rural,PAN,PA,FALSE,,TRUE
+pantu,Panama - Urban,PAN,PA,FALSE,,TRUE
+perr101,"Peru - North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",PER,PE,FALSE,TRUE,FALSE
+perr102,"Peru - North East (Amazonas, Loreto, San Martin, Ucayali)",PER,PE,FALSE,TRUE,FALSE
+perr103,"Peru - East (Madre de Dios, Cusco, Puno, Apurimac)",PER,PE,FALSE,TRUE,FALSE
+perr104,"Peru - South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",PER,PE,FALSE,TRUE,FALSE
+perr105,"Peru - West (Ancash, Lima, Callao)",PER,PE,FALSE,TRUE,FALSE
+perr106,"Peru - Central (Huancavelica, Huanuco, Junin, Pasco)",PER,PE,FALSE,TRUE,FALSE
+pert,Peru - Total,PER,PE,TRUE,,FALSE
+pertr,Peru - Rural,PER,PE,FALSE,,TRUE
+pertu,Peru - Urban,PER,PE,FALSE,,TRUE
+phlr101,Philippines - National Capital Region,PHL,PH,FALSE,TRUE,FALSE
+phlr102,Philippines - Cordillera Admin Region,PHL,PH,FALSE,TRUE,FALSE
+phlr103,Philippines - I-Ilocos,PHL,PH,FALSE,TRUE,FALSE
+phlr104,Philippines - II-Cagayan Valley,PHL,PH,FALSE,TRUE,FALSE
+phlr105,Philippines - III-Central Luzon,PHL,PH,FALSE,TRUE,FALSE
+phlr106,Philippines - IVA-CALABARZON,PHL,PH,FALSE,TRUE,FALSE
+phlr107,Philippines - IVB-MIMAROPA,PHL,PH,FALSE,TRUE,FALSE
+phlr108,Philippines - V-Bicol,PHL,PH,FALSE,TRUE,FALSE
+phlr109,Philippines - VI-Western Visayas,PHL,PH,FALSE,TRUE,FALSE
+phlr110,Philippines - VII-Central Visayas,PHL,PH,FALSE,TRUE,FALSE
+phlr111,Philippines - VIII-Eastern Visayas,PHL,PH,FALSE,TRUE,FALSE
+phlr112,Philippines - IX-Zamboanga Peninsula,PHL,PH,FALSE,TRUE,FALSE
+phlr113,Philippines - X-Northern Mindanao,PHL,PH,FALSE,TRUE,FALSE
+phlr114,Philippines - XI-Davao,PHL,PH,FALSE,TRUE,FALSE
+phlr115,Philippines - XII-SOCCSKSARGEN,PHL,PH,FALSE,TRUE,FALSE
+phlr116,Philippines - XIII-Caraga,PHL,PH,FALSE,TRUE,FALSE
+phlt,Philippines - Total,PHL,PH,TRUE,,FALSE
+phltr,Philippines - Rural,PHL,PH,FALSE,,TRUE
+phltu,Philippines - Urban,PHL,PH,FALSE,,TRUE
+phlr117,Philippines - ARMM,PHL,PH,FALSE,TRUE,FALSE
+pryr101,"Paraguay - North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)",PRY,PY,FALSE,TRUE,FALSE
+pryr102,"Paraguay - North-East (Caaguazu, Alto Parana, Canideyu)",PRY,PY,FALSE,TRUE,FALSE
+pryr103,"Paraguay - South-West (Caazapa, Itapua)",PRY,PY,FALSE,TRUE,FALSE
+pryr104,"Paraguay - South-East (Guaira, Misiones, Paraguari, Neembucu)",PRY,PY,FALSE,TRUE,FALSE
+pryr105,"Paraguay - Central (Asuncion, Central)",PRY,PY,FALSE,TRUE,FALSE
+pryt,Paraguay - Total,PRY,PY,TRUE,,FALSE
+prytr,Paraguay - Rural,PRY,PY,FALSE,,TRUE
+prytu,Paraguay - Urban,PRY,PY,FALSE,,TRUE
+rwar101,Rwanda - City of Kigali,RWA,RW,FALSE,TRUE,FALSE
+rwar102,Rwanda - South,RWA,RW,FALSE,TRUE,FALSE
+rwar103,Rwanda - West,RWA,RW,FALSE,TRUE,FALSE
+rwar104,Rwanda - North,RWA,RW,FALSE,TRUE,FALSE
+rwar105,Rwanda - East,RWA,RW,FALSE,TRUE,FALSE
+rwat,Rwanda - Total,RWA,RW,TRUE,,FALSE
+rwatr,Rwanda - Rural,RWA,RW,FALSE,,TRUE
+rwatu,Rwanda - Urban,RWA,RW,FALSE,,TRUE
+sdnr101,Sudan - Northern,SDN,SD,FALSE,TRUE,FALSE
+sdnr102,Sudan - Nahr El Nil,SDN,SD,FALSE,TRUE,FALSE
+sdnr103,Sudan - Red Sea,SDN,SD,FALSE,TRUE,FALSE
+sdnr104,Sudan - Kassala,SDN,SD,FALSE,TRUE,FALSE
+sdnr105,Sudan - Al Gedarif,SDN,SD,FALSE,TRUE,FALSE
+sdnr106,Sudan - Khartoum,SDN,SD,FALSE,TRUE,FALSE
+sdnr107,Sudan - Al Gezira,SDN,SD,FALSE,TRUE,FALSE
+sdnr108,Sudan - White Nile,SDN,SD,FALSE,TRUE,FALSE
+sdnr109,Sudan - Sinnar,SDN,SD,FALSE,TRUE,FALSE
+sdnr110,Sudan - Blue Nile,SDN,SD,FALSE,TRUE,FALSE
+sdnr111,Sudan - North Kordofan,SDN,SD,FALSE,TRUE,FALSE
+sdnr112,Sudan - South Kordofan,SDN,SD,FALSE,TRUE,FALSE
+sdnr113,Sudan - North Darfur,SDN,SD,FALSE,TRUE,FALSE
+sdnr114,Sudan - West Darfur,SDN,SD,FALSE,TRUE,FALSE
+sdnr115,Sudan - South Darfur,SDN,SD,FALSE,TRUE,FALSE
+sdnt,Sudan - Total,SDN,SD,TRUE,,FALSE
+sdntr,Sudan - Rural,SDN,SD,FALSE,,TRUE
+sdntu,Sudan - Urban,SDN,SD,FALSE,,TRUE
+senr101,Senegal - Dakar,SEN,SN,FALSE,TRUE,FALSE
+senr102,Senegal - Ziguinchor,SEN,SN,FALSE,TRUE,FALSE
+senr103,Senegal - Diourbel,SEN,SN,FALSE,TRUE,FALSE
+senr104,Senegal - Saint Louis,SEN,SN,FALSE,TRUE,FALSE
+senr105,Senegal - Tambacounda,SEN,SN,FALSE,TRUE,FALSE
+senr106,Senegal - Kaolack,SEN,SN,FALSE,TRUE,FALSE
+senr107,Senegal - Thies,SEN,SN,FALSE,TRUE,FALSE
+senr108,Senegal - Louga,SEN,SN,FALSE,TRUE,FALSE
+senr109,Senegal - Fatick,SEN,SN,FALSE,TRUE,FALSE
+senr110,Senegal - Kolda,SEN,SN,FALSE,TRUE,FALSE
+sent,Senegal - Total,SEN,SN,TRUE,,FALSE
+sentr,Senegal - Rural,SEN,SN,FALSE,,TRUE
+sentu,Senegal - Urban,SEN,SN,FALSE,,TRUE
+sler101,Sierra Leone - Bombali,SLE,SL,FALSE,TRUE,FALSE
+sler102,Sierra Leone - Kambia,SLE,SL,FALSE,TRUE,FALSE
+sler103,Sierra Leone - Koinadugu,SLE,SL,FALSE,TRUE,FALSE
+sler104,Sierra Leone - Port Loko,SLE,SL,FALSE,TRUE,FALSE
+sler105,Sierra Leone - Tonkolili,SLE,SL,FALSE,TRUE,FALSE
+sler106,Sierra Leone - Kailahun,SLE,SL,FALSE,TRUE,FALSE
+sler107,Sierra Leone - Kenema,SLE,SL,FALSE,TRUE,FALSE
+sler108,Sierra Leone - Kono,SLE,SL,FALSE,TRUE,FALSE
+sler109,Sierra Leone - Bo,SLE,SL,FALSE,TRUE,FALSE
+sler110,Sierra Leone - Bonthe,SLE,SL,FALSE,TRUE,FALSE
+sler111,Sierra Leone - Moyamba,SLE,SL,FALSE,TRUE,FALSE
+sler112,Sierra Leone - Pujehun,SLE,SL,FALSE,TRUE,FALSE
+sler113,Sierra Leone - Western Rural,SLE,SL,FALSE,TRUE,FALSE
+sler114,Sierra Leone - Western Urban,SLE,SL,FALSE,TRUE,FALSE
+slet,Sierra Leone - Total,SLE,SL,TRUE,,FALSE
+sletr,Sierra Leone - Rural,SLE,SL,FALSE,,TRUE
+sletu,Sierra Leone - Urban,SLE,SL,FALSE,,TRUE
+somr101,"Somalia - W Galbeed, Awdal",SOM,SO,FALSE,TRUE,FALSE
+somr102,"Somalia - Sanaag, Sool, Togdhere",SOM,SO,FALSE,TRUE,FALSE
+somr103,"Somalia - Mudug, Nugal",SOM,SO,FALSE,TRUE,FALSE
+somr104,Somalia - Bari,SOM,SO,FALSE,TRUE,FALSE
+somr105,"Somalia - Bakool, Bay",SOM,SO,FALSE,TRUE,FALSE
+somr106,"Somalia - Gedo, Middle Juba, Lower Juba",SOM,SO,FALSE,TRUE,FALSE
+somr107,"Somalia - Hiran, Galguduud",SOM,SO,FALSE,TRUE,FALSE
+somr108,Somalia - Middle Shabelle,SOM,SO,FALSE,TRUE,FALSE
+somr109,Somalia - Lower Shabelle,SOM,SO,FALSE,TRUE,FALSE
+somr110,Somalia - Banadir,SOM,SO,FALSE,TRUE,FALSE
+somt,Somalia - Total,SOM,SO,TRUE,,FALSE
+somtr,Somalia - Rural,SOM,SO,FALSE,,TRUE
+somtu,Somalia - Urban,SOM,SO,FALSE,,TRUE
+ssdr101,South Sudan - Upper Nile,SSD,SS,FALSE,TRUE,FALSE
+ssdr102,South Sudan - Jonglei,SSD,SS,FALSE,TRUE,FALSE
+ssdr103,South Sudan - Unity,SSD,SS,FALSE,TRUE,FALSE
+ssdr104,South Sudan - Warrap,SSD,SS,FALSE,TRUE,FALSE
+ssdr105,South Sudan - Northern Bahr El Ghazal,SSD,SS,FALSE,TRUE,FALSE
+ssdr106,South Sudan - Western Bahr El Ghazal,SSD,SS,FALSE,TRUE,FALSE
+ssdr107,South Sudan - Lakes,SSD,SS,FALSE,TRUE,FALSE
+ssdr108,South Sudan - Western Equatoria,SSD,SS,FALSE,TRUE,FALSE
+ssdr109,South Sudan - Central Equatoria,SSD,SS,FALSE,TRUE,FALSE
+ssdr110,South Sudan - Eastern Equatoria,SSD,SS,FALSE,TRUE,FALSE
+ssdt,South Sudan - Total,SSD,SS,TRUE,,FALSE
+ssdtr,South Sudan - Rural,SSD,SS,FALSE,,TRUE
+ssdtu,South Sudan - Urban,SSD,SS,FALSE,,TRUE
+stpr101,Sao Tome & Principe - Regiao Centro,STP,ST,FALSE,TRUE,FALSE
+stpr102,Sao Tome & Principe - Regiao Sul,STP,ST,FALSE,TRUE,FALSE
+stpr103,Sao Tome & Principe - Regiao Norte,STP,ST,FALSE,TRUE,FALSE
+stpr104,Sao Tome & Principe - Regiao do Principe,STP,ST,FALSE,TRUE,FALSE
+stpt,Sao Tome & Principe - Total,STP,ST,TRUE,,FALSE
+stptr,Sao Tome & Principe - Rural,STP,ST,FALSE,,TRUE
+stptu,Sao Tome & Principe - Urban,STP,ST,FALSE,,TRUE
+surr101,Suriname - Paramaribo,SUR,SR,FALSE,TRUE,FALSE
+surr102,Suriname - Wanica and Para,SUR,SR,FALSE,TRUE,FALSE
+surr103,"Suriname - Nickerie, Coronie and Saramacca",SUR,SR,FALSE,TRUE,FALSE
+surr104,Suriname - Commewijne and Marowijne,SUR,SR,FALSE,TRUE,FALSE
+surr105,Suriname - Brokopondo and Sipaliwini,SUR,SR,FALSE,TRUE,FALSE
+surt,Suriname - Total,SUR,SR,TRUE,,FALSE
+surtr,Suriname - Rural,SUR,SR,FALSE,,TRUE
+surtu,Suriname - Urban,SUR,SR,FALSE,,TRUE
+swzr101,Swaziland - Hhohho,SWZ,SZ,FALSE,TRUE,FALSE
+swzr102,Swaziland - Manzini,SWZ,SZ,FALSE,TRUE,FALSE
+swzr103,Swaziland - Shiselweni,SWZ,SZ,FALSE,TRUE,FALSE
+swzr104,Swaziland - Lubombo,SWZ,SZ,FALSE,TRUE,FALSE
+swzt,Swaziland - Total,SWZ,SZ,TRUE,,FALSE
+swztr,Swaziland - Rural,SWZ,SZ,FALSE,,TRUE
+swztu,Swaziland - Urban,SWZ,SZ,FALSE,,TRUE
+syrr101,Syria - Damascus,SYR,SY,FALSE,TRUE,FALSE
+syrr102,Syria - Rural Damascus,SYR,SY,FALSE,TRUE,FALSE
+syrr103,Syria - Homs,SYR,SY,FALSE,TRUE,FALSE
+syrr104,Syria - Hamaa,SYR,SY,FALSE,TRUE,FALSE
+syrr105,Syria - Tartous,SYR,SY,FALSE,TRUE,FALSE
+syrr106,Syria - Al Latakia,SYR,SY,FALSE,TRUE,FALSE
+syrr107,Syria - Edlab Idleb,SYR,SY,FALSE,TRUE,FALSE
+syrr108,Syria - Halab - Aleppo,SYR,SY,FALSE,TRUE,FALSE
+syrr109,Syria - Al Raka-Raqqa,SYR,SY,FALSE,TRUE,FALSE
+syrr110,Syria - Der El Zour - Deir Ezzor,SYR,SY,FALSE,TRUE,FALSE
+syrr111,Syria - Al Hasaka,SYR,SY,FALSE,TRUE,FALSE
+syrr112,Syria - Al Swida - Sweida,SYR,SY,FALSE,TRUE,FALSE
+syrr113,Syria - Daraa,SYR,SY,FALSE,TRUE,FALSE
+syrr114,Syria - Al Qunitara - Quneitra,SYR,SY,FALSE,TRUE,FALSE
+syrt,Syria - Total,SYR,SY,TRUE,,FALSE
+syrtr,Syria - Rural,SYR,SY,FALSE,,TRUE
+syrtu,Syria - Urban,SYR,SY,FALSE,,TRUE
+tcdr101,Chad - Zone 1 (N'Djamena),TCD,TD,FALSE,TRUE,FALSE
+tcdr102,"Chad - Zone 2 (BET (Borkou, Ennedi, Tibesti), Kanem (incl Barh El Gazal), Lac)",TCD,TD,FALSE,TRUE,FALSE
+tcdr103,"Chad - Zone 3 (Guera, Batha Est & Ouest, Salamat)",TCD,TD,FALSE,TRUE,FALSE
+tcdr104,"Chad - Zone 4 (Ouaddai (incl Assongha, Sili), Biltine (new name Wad Fira))",TCD,TD,FALSE,TRUE,FALSE
+tcdr105,"Chad - Zone 5 (Chari-Baguirmi (Dababa, Baguirmi, Hadjer Lamis))",TCD,TD,FALSE,TRUE,FALSE
+tcdr106,"Chad - Zone 6 (Mayo-Kebbi (Kabia, Mayo Boneye & Mayo Dala))",TCD,TD,FALSE,TRUE,FALSE
+tcdr107,"Chad - Zone 7 (Logone Occidental, Logone Oriental (incl Monts de Lam), Tandjile Est & Ouest)",TCD,TD,FALSE,TRUE,FALSE
+tcdr108,"Chad - Zone 8 (Moyen-Chari (Barh Koh, Mandoul, Lac Iro))",TCD,TD,FALSE,TRUE,FALSE
+tcdt,Chad - Total,TCD,TD,TRUE,,FALSE
+tcdtr,Chad - Rural,TCD,TD,FALSE,,TRUE
+tcdtu,Chad - Urban,TCD,TD,FALSE,,TRUE
+tgor101,Togo - Lome,TGO,TG,FALSE,TRUE,FALSE
+tgor102,Togo - Maritime,TGO,TG,FALSE,TRUE,FALSE
+tgor103,Togo - Plateaux,TGO,TG,FALSE,TRUE,FALSE
+tgor104,Togo - Centrale,TGO,TG,FALSE,TRUE,FALSE
+tgor105,Togo - Kara,TGO,TG,FALSE,TRUE,FALSE
+tgor106,Togo - Savanes,TGO,TG,FALSE,TRUE,FALSE
+tgot,Togo - Total,TGO,TG,TRUE,,FALSE
+tgotr,Togo - Rural,TGO,TG,FALSE,,TRUE
+tgotu,Togo - Urban,TGO,TG,FALSE,,TRUE
+thar101,"Thailand - Central, incl Bangkok",THA,TH,FALSE,TRUE,FALSE
+thar102,Thailand - North,THA,TH,FALSE,TRUE,FALSE
+thar103,Thailand - Northeast,THA,TH,FALSE,TRUE,FALSE
+thar104,Thailand - South,THA,TH,FALSE,TRUE,FALSE
+that,Thailand - Total,THA,TH,TRUE,,FALSE
+thatr,Thailand - Rural,THA,TH,FALSE,,TRUE
+thatu,Thailand - Urban,THA,TH,FALSE,,TRUE
+tjkr101,Tajikistan - Duchanbe,TJK,TJ,FALSE,TRUE,FALSE
+tjkr102,Tajikistan - Khatlon,TJK,TJ,FALSE,TRUE,FALSE
+tjkr103,Tajikistan - Sughd (formerly Leninabad),TJK,TJ,FALSE,TRUE,FALSE
+tjkr104,Tajikistan - DRS,TJK,TJ,FALSE,TRUE,FALSE
+tjkr105,Tajikistan - GBAO,TJK,TJ,FALSE,TRUE,FALSE
+tjkt,Tajikistan - Total,TJK,TJ,TRUE,,FALSE
+tjktr,Tajikistan - Rural,TJK,TJ,FALSE,,TRUE
+tjktu,Tajikistan - Urban,TJK,TJ,FALSE,,TRUE
+tkmr101,Turkmenistan - Ashgabat City,TKM,TM,FALSE,TRUE,FALSE
+tkmr102,Turkmenistan - Akhal,TKM,TM,FALSE,TRUE,FALSE
+tkmr103,Turkmenistan - Balkan,TKM,TM,FALSE,TRUE,FALSE
+tkmr104,Turkmenistan - Dashoguz,TKM,TM,FALSE,TRUE,FALSE
+tkmr105,Turkmenistan - Lebap,TKM,TM,FALSE,TRUE,FALSE
+tkmr106,Turkmenistan - Mary,TKM,TM,FALSE,TRUE,FALSE
+tkmt,Turkmenistan - Total,TKM,TM,TRUE,,FALSE
+tkmtr,Turkmenistan - Rural,TKM,TM,FALSE,,TRUE
+tkmtu,Turkmenistan - Urban,TKM,TM,FALSE,,TRUE
+tlsr101,Timor Leste - Aileu,TLS,TL,FALSE,TRUE,FALSE
+tlsr102,Timor Leste - Ainaro,TLS,TL,FALSE,TRUE,FALSE
+tlsr103,Timor Leste - Baucau,TLS,TL,FALSE,TRUE,FALSE
+tlsr104,Timor Leste - Bobonaro,TLS,TL,FALSE,TRUE,FALSE
+tlsr105,Timor Leste - Cova Lima,TLS,TL,FALSE,TRUE,FALSE
+tlsr106,Timor Leste - Dili,TLS,TL,FALSE,TRUE,FALSE
+tlsr107,Timor Leste - Ermera,TLS,TL,FALSE,TRUE,FALSE
+tlsr108,Timor Leste - Liquica,TLS,TL,FALSE,TRUE,FALSE
+tlsr109,Timor Leste - Lautem,TLS,TL,FALSE,TRUE,FALSE
+tlsr110,Timor Leste - Manufahi,TLS,TL,FALSE,TRUE,FALSE
+tlsr111,Timor Leste - Manatuto,TLS,TL,FALSE,TRUE,FALSE
+tlsr112,Timor Leste - Oecussi,TLS,TL,FALSE,TRUE,FALSE
+tlsr113,Timor Leste - Viqueque,TLS,TL,FALSE,TRUE,FALSE
+tlst,Timor Leste - Total,TLS,TL,TRUE,,FALSE
+tlstr,Timor Leste - Rural,TLS,TL,FALSE,,TRUE
+tlstu,Timor Leste - Urban,TLS,TL,FALSE,,TRUE
+tunr101,"Tunisia - Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)",TUN,TN,FALSE,TRUE,FALSE
+tunr102,"Tunisia - Nord Est (Nabeul, Zaghouan, Bizerte)",TUN,TN,FALSE,TRUE,FALSE
+tunr103,"Tunisia - Nord Ouest (Beja, Jendouba, Kef, Siliana)",TUN,TN,FALSE,TRUE,FALSE
+tunr104,"Tunisia - Centre Ouest (Kairouan, Kasserine, Sidi Bouzid)",TUN,TN,FALSE,TRUE,FALSE
+tunr105,"Tunisia - Centre Est (Sousse, Monastir, Mahdia, Sfax)",TUN,TN,FALSE,TRUE,FALSE
+tunr106,"Tunisia - Sud Ouest (Gafsa, Tozeur, Kebili)",TUN,TN,FALSE,TRUE,FALSE
+tunr107,"Tunisia - Sud Est (Gabes, Medinine, Tataouine)",TUN,TN,FALSE,TRUE,FALSE
+tunt,Tunisia - Total,TUN,TN,TRUE,,FALSE
+tuntr,Tunisia - Rural,TUN,TN,FALSE,,TRUE
+tuntu,Tunisia - Urban,TUN,TN,FALSE,,TRUE
+turr101,Turkey - Istanbul,TUR,TR,FALSE,TRUE,FALSE
+turr102,"Turkey - West Marmara (Balikesir, Canakkale, Edirne, Kirklareli, Tekirdag)",TUR,TR,FALSE,TRUE,FALSE
+turr103,"Turkey - Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Manisa, Mugla, Usak)",TUR,TR,FALSE,TRUE,FALSE
+turr104,"Turkey - East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskisehir, Kocaeli, Sakarya, Yalova)",TUR,TR,FALSE,TRUE,FALSE
+turr105,"Turkey - West Anatolia (Ankara, Konya, Karaman)",TUR,TR,FALSE,TRUE,FALSE
+turr106,"Turkey - Mediterranean (Adana, Antalya, Burdur, Hatay, Isparta, Icel, K Maras, Osmaniye)",TUR,TR,FALSE,TRUE,FALSE
+turr107,"Turkey - Central Anatolia (Kayseri, Kirsehir, Nevsehir, Nigde, Sivas, Yozgat, Aksaray, Kirikkale)",TUR,TR,FALSE,TRUE,FALSE
+turr108,"Turkey - West Black Sea (Amasya, Cankiri, Corum, Kastamonu, Samsun, Sinop, Tokat, Zonguldak, Bartin, Karabuk)",TUR,TR,FALSE,TRUE,FALSE
+turr109,"Turkey - East Black Sea (Artvin, Giresun, Gumushane, Ordu, Rize, Trabzon)",TUR,TR,FALSE,TRUE,FALSE
+turr110,"Turkey - North East Anatolia (Agri, Erzincan, Erzurum, Kars, Bayburt, Ardahan, Igdir)",TUR,TR,FALSE,TRUE,FALSE
+turr111,"Turkey - Central East Anatolia (Bingol, Bitlis, Elazig, Hakkari, Malatya, Mus, Tunceli, Van)",TUR,TR,FALSE,TRUE,FALSE
+turr112,"Turkey - South East Anatolia (Adiyaman, Diyarbakir, Gaziantep, Mardin, Siirt, Sanliurfa, Batman, Sirnak, Kili",TUR,TR,FALSE,TRUE,FALSE
+turt,Turkey - Total,TUR,TR,TRUE,,FALSE
+turtr,Turkey - Rural,TUR,TR,FALSE,,TRUE
+turtu,Turkey - Urban,TUR,TR,FALSE,,TRUE
+tzar101,"Tanzania - Western (Tabora, Kigoma, Shinyanga)",TZA,TZ,FALSE,TRUE,FALSE
+tzar102,"Tanzania - Northern (Arusha, Kilimanjaro, Tanga, Manyara)",TZA,TZ,FALSE,TRUE,FALSE
+tzar103,"Tanzania - Central (Dodoma, Singida)",TZA,TZ,FALSE,TRUE,FALSE
+tzar104,"Tanzania - Southern Highlands (Iringa, Mbeya, Rukwa)",TZA,TZ,FALSE,TRUE,FALSE
+tzar105,"Tanzania - Lake (Kagera, Mwanza, Mara)",TZA,TZ,FALSE,TRUE,FALSE
+tzar106,"Tanzania - Eastern (Morogoro, Pwani, Dar Es Salam)",TZA,TZ,FALSE,TRUE,FALSE
+tzar107,"Tanzania - Southern (Lindi, Mtwara, Ruvuma)",TZA,TZ,FALSE,TRUE,FALSE
+tzar108,"Tanzania - Zanzibar (Zanzibar North, Zanziba South, Town West, Pemba North, Pemba South)",TZA,TZ,FALSE,TRUE,FALSE
+tzat,Tanzania - Total,TZA,TZ,TRUE,,FALSE
+tzatr,Tanzania - Rural,TZA,TZ,FALSE,,TRUE
+tzatu,Tanzania - Urban,TZA,TZ,FALSE,,TRUE
+ugar101,"Uganda - Central (Central 1, Central 2, Kampala)",UGA,UG,FALSE,TRUE,FALSE
+ugar102,"Uganda - Eastern (Eastern, East Central)",UGA,UG,FALSE,TRUE,FALSE
+ugar103,"Uganda - Northern (North, Karamoja, West Nile)",UGA,UG,FALSE,TRUE,FALSE
+ugar104,"Uganda - Western (Western, Southwest)",UGA,UG,FALSE,TRUE,FALSE
+ugat,Uganda - Total,UGA,UG,TRUE,,FALSE
+ugatr,Uganda - Rural,UGA,UG,FALSE,,TRUE
+ugatu,Uganda - Urban,UGA,UG,FALSE,,TRUE
+ukrr101,Ukraine - North,UKR,UA,FALSE,TRUE,FALSE
+ukrr102,Ukraine - Central,UKR,UA,FALSE,TRUE,FALSE
+ukrr103,Ukraine - East,UKR,UA,FALSE,TRUE,FALSE
+ukrr104,Ukraine - South,UKR,UA,FALSE,TRUE,FALSE
+ukrr105,Ukraine - West,UKR,UA,FALSE,TRUE,FALSE
+ukrt,Ukraine - Total,UKR,UA,TRUE,,FALSE
+ukrtr,Ukraine - Rural,UKR,UA,FALSE,,TRUE
+ukrtu,Ukraine - Urban,UKR,UA,FALSE,,TRUE
+uryr101,Uruguay - Montevideo and Metropolitan area,URY,UY,FALSE,TRUE,FALSE
+uryr102,"Uruguay - Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)",URY,UY,FALSE,TRUE,FALSE
+uryr103,"Uruguay - Costa Este (Canelones, Maldonado and Rocha)",URY,UY,FALSE,TRUE,FALSE
+uryr104,"Uruguay - Litoral Sur (Soriano, Colonia and San Jose)",URY,UY,FALSE,TRUE,FALSE
+uryr105,Uruguay - Centro (Durazno and Tacuarembo),URY,UY,FALSE,TRUE,FALSE
+uryr106,"Uruguay - Centro Sur (Flores, Florida and Lavalleja)",URY,UY,FALSE,TRUE,FALSE
+uryr107,"Uruguay - Litoral Norte (Paysandu, Salto and Río Negro)",URY,UY,FALSE,TRUE,FALSE
+uryt,Uruguay - Total,URY,UY,TRUE,,FALSE
+urytr,Uruguay - Rural,URY,UY,FALSE,,TRUE
+urytu,Uruguay - Urban,URY,UY,FALSE,,TRUE
+uzbr101,Uzbekistan - Western,UZB,UZ,FALSE,TRUE,FALSE
+uzbr102,Uzbekistan - Central,UZB,UZ,FALSE,TRUE,FALSE
+uzbr103,Uzbekistan - Southern,UZB,UZ,FALSE,TRUE,FALSE
+uzbr104,Uzbekistan - Central East,UZB,UZ,FALSE,TRUE,FALSE
+uzbr105,Uzbekistan - East,UZB,UZ,FALSE,TRUE,FALSE
+uzbt,Uzbekistan - Total,UZB,UZ,TRUE,,FALSE
+uzbtr,Uzbekistan - Rural,UZB,UZ,FALSE,,TRUE
+uzbtu,Uzbekistan - Urban,UZB,UZ,FALSE,,TRUE
+uzbr106,Uzbekistan - Tashkent,UZB,UZ,FALSE,TRUE,FALSE
+venr101,Venezuela - Federal District,VEN,VE,FALSE,TRUE,FALSE
+venr102,Venezuela - Amazonas Federal Territory,VEN,VE,FALSE,TRUE,FALSE
+venr103,Venezuela - Anzoategui,VEN,VE,FALSE,TRUE,FALSE
+venr104,Venezuela - Apure,VEN,VE,FALSE,TRUE,FALSE
+venr105,Venezuela - Aragua,VEN,VE,FALSE,TRUE,FALSE
+venr106,Venezuela - Barinas,VEN,VE,FALSE,TRUE,FALSE
+venr107,Venezuela - Bolivar,VEN,VE,FALSE,TRUE,FALSE
+venr108,Venezuela - Carabobo,VEN,VE,FALSE,TRUE,FALSE
+venr109,Venezuela - Cojedes,VEN,VE,FALSE,TRUE,FALSE
+venr110,Venezuela - Amacuros Delta Federal Territory,VEN,VE,FALSE,TRUE,FALSE
+venr111,Venezuela - Falcon,VEN,VE,FALSE,TRUE,FALSE
+venr112,Venezuela - Guarico,VEN,VE,FALSE,TRUE,FALSE
+venr113,Venezuela - Lara,VEN,VE,FALSE,TRUE,FALSE
+venr114,Venezuela - Merida,VEN,VE,FALSE,TRUE,FALSE
+venr115,Venezuela - Miranda,VEN,VE,FALSE,TRUE,FALSE
+venr116,Venezuela - Monagas,VEN,VE,FALSE,TRUE,FALSE
+venr117,Venezuela - Nueva Esparta,VEN,VE,FALSE,TRUE,FALSE
+venr118,Venezuela - Portuguesa,VEN,VE,FALSE,TRUE,FALSE
+venr119,Venezuela - Sucre,VEN,VE,FALSE,TRUE,FALSE
+venr120,Venezuela - Tachira,VEN,VE,FALSE,TRUE,FALSE
+venr121,Venezuela - Trujillo,VEN,VE,FALSE,TRUE,FALSE
+venr122,Venezuela - Yaracuy,VEN,VE,FALSE,TRUE,FALSE
+venr123,Venezuela - Zulia,VEN,VE,FALSE,TRUE,FALSE
+venr124,Venezuela - Vargas,VEN,VE,FALSE,TRUE,FALSE
+vent,Venezuela - Total,VEN,VE,TRUE,,FALSE
+ventr,Venezuela - Rural,VEN,VE,FALSE,,TRUE
+ventu,Venezuela - Urban,VEN,VE,FALSE,,TRUE
+vnmr101,Vietnam - Red River Delta,VNM,VN,FALSE,TRUE,FALSE
+vnmr102,"Vietnam - North East, North West",VNM,VN,FALSE,TRUE,FALSE
+vnmr103,Vietnam - North Central Coast and South Central Coast,VNM,VN,FALSE,TRUE,FALSE
+vnmr104,Vietnam - Central Highlands,VNM,VN,FALSE,TRUE,FALSE
+vnmr105,Vietnam - South East,VNM,VN,FALSE,TRUE,FALSE
+vnmr106,Vietnam - Mekong River Delta,VNM,VN,FALSE,TRUE,FALSE
+vnmt,Vietnam - Total,VNM,VN,TRUE,,FALSE
+vnmtr,Vietnam - Rural,VNM,VN,FALSE,,TRUE
+vnmtu,Vietnam - Urban,VNM,VN,FALSE,,TRUE
+vutr101,Vanuatu - Tafea,VUT,VU,FALSE,TRUE,FALSE
+vutr102,Vanuatu - Shefa,VUT,VU,FALSE,TRUE,FALSE
+vutr103,Vanuatu - Malampa,VUT,VU,FALSE,TRUE,FALSE
+vutr104,Vanuatu - Penama,VUT,VU,FALSE,TRUE,FALSE
+vutr105,Vanuatu - Sanma,VUT,VU,FALSE,TRUE,FALSE
+vutr106,Vanuatu - Torba,VUT,VU,FALSE,TRUE,FALSE
+vutr107,Vanuatu - Port Vila,VUT,VU,FALSE,TRUE,FALSE
+vutr108,Vanuatu - Luganville,VUT,VU,FALSE,TRUE,FALSE
+vutt,Vanuatu - Total,VUT,VU,TRUE,,FALSE
+vuttr,Vanuatu - Rural,VUT,VU,FALSE,,TRUE
+vuttu,Vanuatu - Urban,VUT,VU,FALSE,,TRUE
+yemr101,Yemen - Ibb,YEM,YE,FALSE,TRUE,FALSE
+yemr102,"Yemen - Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",YEM,YE,FALSE,TRUE,FALSE
+yemr103,"Yemen - Sana a (capital; Al Amana), Sana a (governorate)",YEM,YE,FALSE,TRUE,FALSE
+yemr104,"Yemen - Beida (Al Bayda), Dhamar, Raimah",YEM,YE,FALSE,TRUE,FALSE
+yemr105,Yemen - Taiz,YEM,YE,FALSE,TRUE,FALSE
+yemr106,"Yemen - Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",YEM,YE,FALSE,TRUE,FALSE
+yemr107,"Yemen - Hajja, Sada, Amran (Omran)",YEM,YE,FALSE,TRUE,FALSE
+yemr108,"Yemen - Hodeida (Al Hudaydah), Mahweit (Al Mahwit)",YEM,YE,FALSE,TRUE,FALSE
+yemt,Yemen - Total,YEM,YE,TRUE,,FALSE
+yemtr,Yemen - Rural,YEM,YE,FALSE,,TRUE
+yemtu,Yemen - Urban,YEM,YE,FALSE,,TRUE
+zafr101,South Africa - Western Cape,ZAF,ZA,FALSE,TRUE,FALSE
+zafr102,South Africa - Eastern Cape,ZAF,ZA,FALSE,TRUE,FALSE
+zafr103,South Africa - Northern Cape,ZAF,ZA,FALSE,TRUE,FALSE
+zafr104,South Africa - Free State,ZAF,ZA,FALSE,TRUE,FALSE
+zafr105,South Africa - KwaZulu Natal,ZAF,ZA,FALSE,TRUE,FALSE
+zafr106,South Africa - North West,ZAF,ZA,FALSE,TRUE,FALSE
+zafr107,South Africa - Gauteng,ZAF,ZA,FALSE,TRUE,FALSE
+zafr108,South Africa - Mpumalanga,ZAF,ZA,FALSE,TRUE,FALSE
+zafr109,South Africa - Northern Province,ZAF,ZA,FALSE,TRUE,FALSE
+zaft,South Africa - Total,ZAF,ZA,TRUE,,FALSE
+zaftr,South Africa - Rural,ZAF,ZA,FALSE,,TRUE
+zaftu,South Africa - Urban,ZAF,ZA,FALSE,,TRUE
+zmbr101,Zambia - Central,ZMB,ZM,FALSE,TRUE,FALSE
+zmbr102,Zambia - Copperbelt,ZMB,ZM,FALSE,TRUE,FALSE
+zmbr103,Zambia - Eastern,ZMB,ZM,FALSE,TRUE,FALSE
+zmbr104,Zambia - Luapula,ZMB,ZM,FALSE,TRUE,FALSE
+zmbr105,Zambia - Lusaka,ZMB,ZM,FALSE,TRUE,FALSE
+zmbr106,Zambia - Northern,ZMB,ZM,FALSE,TRUE,FALSE
+zmbr107,Zambia - North-Western,ZMB,ZM,FALSE,TRUE,FALSE
+zmbr108,Zambia - Southern,ZMB,ZM,FALSE,TRUE,FALSE
+zmbr109,Zambia - Western,ZMB,ZM,FALSE,TRUE,FALSE
+zmbt,Zambia - Total,ZMB,ZM,TRUE,,FALSE
+zmbtr,Zambia - Rural,ZMB,ZM,FALSE,,TRUE
+zmbtu,Zambia - Urban,ZMB,ZM,FALSE,,TRUE
+zwer101,Zimbabwe - Manicaland,ZWE,ZW,FALSE,TRUE,FALSE
+zwer102,Zimbabwe - Mashonaland Central,ZWE,ZW,FALSE,TRUE,FALSE
+zwer103,Zimbabwe - Mashonaland East,ZWE,ZW,FALSE,TRUE,FALSE
+zwer104,Zimbabwe - Mashonaland West,ZWE,ZW,FALSE,TRUE,FALSE
+zwer105,Zimbabwe - Matebeleland North,ZWE,ZW,FALSE,TRUE,FALSE
+zwer106,Zimbabwe - Matebeleland South,ZWE,ZW,FALSE,TRUE,FALSE
+zwer107,Zimbabwe - Midlands,ZWE,ZW,FALSE,TRUE,FALSE
+zwer108,Zimbabwe - Masvingo,ZWE,ZW,FALSE,TRUE,FALSE
+zwer109,Zimbabwe - Harare,ZWE,ZW,FALSE,TRUE,FALSE
+zwer110,Zimbabwe - Bulawayo,ZWE,ZW,FALSE,TRUE,FALSE
+zwet,Zimbabwe - Total,ZWE,ZW,TRUE,,FALSE
+zwetr,Zimbabwe - Rural,ZWE,ZW,FALSE,,TRUE
+zwetu,Zimbabwe - Urban,ZWE,ZW,FALSE,,TRUE
