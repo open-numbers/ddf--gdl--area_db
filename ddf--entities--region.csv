@@ -7,18 +7,18 @@ afgr105,Afghanistan - North East (Baghlan Takhar Badakhshan Kunduz),AFG,AF,0,1,0
 afgr106,Afghanistan - South (Uruzgan Helmand Zabul Nimroz Kandahar),AFG,AF,0,1,0
 afgr107,Afghanistan - South East (Ghazni Paktya Paktika Khost),AFG,AF,0,1,0
 afgr108,Afghanistan - West (Ghor Herat Badghis Farah),AFG,AF,0,1,0
-afgt,Afghanistan - Total,AFG,AF,1,,0
-afgtr,Afghanistan - Rural,AFG,AF,0,,1
-afgtu,Afghanistan - Urban,AFG,AF,0,,1
+afgt,Afghanistan - Total,AFG,AF,1,0,0
+afgtr,Afghanistan - Rural,AFG,AF,0,0,1
+afgtu,Afghanistan - Urban,AFG,AF,0,0,1
 agor101,"Angola - Capital (Cabinda, Luanda, Kuanza Norte, Bengo)",AGO,AO,0,1,0
 agor102,"Angola - Norte (Zaire, Uige, Malange)",AGO,AO,0,1,0
 agor103,"Angola - Este (Lunda Norte, Moxico, Lunda Sul)",AGO,AO,0,1,0
 agor104,"Angola - Oeste (Kuanza Sul, Benguela)",AGO,AO,0,1,0
 agor105,"Angola - Centro Sul (Huambo, Bie, Kuando Kubango)",AGO,AO,0,1,0
 agor106,"Angola - Sul (Namibe, Huila, Cunene)",AGO,AO,0,1,0
-agot,Angola - Total,AGO,AO,1,,0
-agotr,Angola - Rural,AGO,AO,0,,1
-agotu,Angola - Urban,AGO,AO,0,,1
+agot,Angola - Total,AGO,AO,1,0,0
+agotr,Angola - Rural,AGO,AO,0,0,1
+agotu,Angola - Urban,AGO,AO,0,0,1
 argr101,Argentina - City of Buenos Aires,ARG,AR,0,1,0
 argr102,Argentina - Rest of Buenos Aires,ARG,AR,0,1,0
 argr103,"Argentina - Catamarca, La Rioja, San Juan",ARG,AR,0,1,0
@@ -30,7 +30,7 @@ argr108,"Argentina - Jujuy, Salta",ARG,AR,0,1,0
 argr109,"Argentina - La Pampa, San Luis, Mendoza",ARG,AR,0,1,0
 argr110,Argentina - Santa Fe,ARG,AR,0,1,0
 argr111,"Argentina - Santiago del Estero, Tucuman",ARG,AR,0,1,0
-argtu,Argentina - Urban,ARG,AR,0,,1
+argtu,Argentina - Urban,ARG,AR,0,0,1
 armr101,Armenia - Aragatsotn,ARM,AM,0,1,0
 armr102,Armenia - Ararat,ARM,AM,0,1,0
 armr103,Armenia - Armavir,ARM,AM,0,1,0
@@ -42,9 +42,9 @@ armr108,Armenia - Syunik,ARM,AM,0,1,0
 armr109,Armenia - Vayots Dzor,ARM,AM,0,1,0
 armr110,Armenia - Tavush,ARM,AM,0,1,0
 armr111,Armenia - Yerevan,ARM,AM,0,1,0
-armt,Armenia - Total,ARM,AM,1,,0
-armtr,Armenia - Rural,ARM,AM,0,,1
-armtu,Armenia - Urban,ARM,AM,0,,1
+armt,Armenia - Total,ARM,AM,1,0,0
+armtr,Armenia - Rural,ARM,AM,0,0,1
+armtu,Armenia - Urban,ARM,AM,0,0,1
 azer101,Azerbaijan - Baku,AZE,AZ,0,1,0
 azer102,Azerbaijan - Absheron,AZE,AZ,0,1,0
 azer103,Azerbaijan - Ganja Gazakh,AZE,AZ,0,1,0
@@ -54,27 +54,27 @@ azer106,Azerbaijan - Guba Khachmaz,AZE,AZ,0,1,0
 azer107,Azerbaijan - Aran,AZE,AZ,0,1,0
 azer109,Azerbaijan - Dakhlik Shirvan,AZE,AZ,0,1,0
 azer110,"Azerbaijan - Region 9 (Yevlakh, Mingechevir, Agdash, Ujar, Zardab, Kurdamir, Imishli, Saatly, Sabirabad, Hajigabu",AZE,AZ,0,1,0
-azet,Azerbaijan - Total,AZE,AZ,1,,0
-azetr,Azerbaijan - Rural,AZE,AZ,0,,1
-azetu,Azerbaijan - Urban,AZE,AZ,0,,1
+azet,Azerbaijan - Total,AZE,AZ,1,0,0
+azetr,Azerbaijan - Rural,AZE,AZ,0,0,1
+azetu,Azerbaijan - Urban,AZE,AZ,0,0,1
 azer108,Azerbaijan - Yukhari Karabakh,AZE,AZ,0,1,0
 bdir101,"Burundi - North (Kayanza, Kirundo, Muyinga, Ngozi)",BDI,BI,0,1,0
 bdir102,"Burundi - South (Bururi, Makamba)",BDI,BI,0,1,0
 bdir103,"Burundi - East (Cankuzo, Rutana, Ruyigi )",BDI,BI,0,1,0
 bdir104,"Burundi - West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",BDI,BI,0,1,0
 bdir105,"Burundi - Middle (Gitega, Karuzi, Muramvya, Mwaro)",BDI,BI,0,1,0
-bdit,Burundi - Total,BDI,BI,1,,0
-bditr,Burundi - Rural,BDI,BI,0,,1
-bditu,Burundi - Urban,BDI,BI,0,,1
+bdit,Burundi - Total,BDI,BI,1,0,0
+bditr,Burundi - Rural,BDI,BI,0,0,1
+bditu,Burundi - Urban,BDI,BI,0,0,1
 benr101,Benin - Atacora (incl Donga),BEN,BJ,0,1,0
 benr102,Benin - Atlantique (incl Littoral (Cotonou)),BEN,BJ,0,1,0
 benr103,Benin - Borgou (incl Alibori),BEN,BJ,0,1,0
 benr104,Benin - Mono (incl Couffo),BEN,BJ,0,1,0
 benr105,Benin - Queme (incl Plateau),BEN,BJ,0,1,0
 benr106,Benin - Zou (incl Collines),BEN,BJ,0,1,0
-bent,Benin - Total,BEN,BJ,1,,0
-bentr,Benin - Rural,BEN,BJ,0,,1
-bentu,Benin - Urban,BEN,BJ,0,,1
+bent,Benin - Total,BEN,BJ,1,0,0
+bentr,Benin - Rural,BEN,BJ,0,0,1
+bentu,Benin - Urban,BEN,BJ,0,0,1
 bfar101,Burkina Faso - Boucle de Mouhoun,BFA,BF,0,1,0
 bfar102,Burkina Faso - Cascades,BFA,BF,0,1,0
 bfar103,Burkina Faso - Centre (incl Ouagadougou),BFA,BF,0,1,0
@@ -88,25 +88,25 @@ bfar110,Burkina Faso - Nord,BFA,BF,0,1,0
 bfar111,Burkina Faso - Plateau Central,BFA,BF,0,1,0
 bfar112,Burkina Faso - Sahel,BFA,BF,0,1,0
 bfar113,Burkina Faso - Sud-Ouest,BFA,BF,0,1,0
-bfat,Burkina Faso - Total,BFA,BF,1,,0
-bfatr,Burkina Faso - Rural,BFA,BF,0,,1
-bfatu,Burkina Faso - Urban,BFA,BF,0,,1
+bfat,Burkina Faso - Total,BFA,BF,1,0,0
+bfatr,Burkina Faso - Rural,BFA,BF,0,0,1
+bfatu,Burkina Faso - Urban,BFA,BF,0,0,1
 bgdr101,Bangladesh - Barisal,BGD,BD,0,1,0
 bgdr102,Bangladesh - Chittagong,BGD,BD,0,1,0
 bgdr103,Bangladesh - Dhaka,BGD,BD,0,1,0
 bgdr104,Bangladesh - Khulna,BGD,BD,0,1,0
 bgdr105,Bangladesh - Rajshahi,BGD,BD,0,1,0
 bgdr106,Bangladesh - Sylhet,BGD,BD,0,1,0
-bgdt,Bangladesh - Total,BGD,BD,1,,0
-bgdtr,Bangladesh - Rural,BGD,BD,0,,1
-bgdtu,Bangladesh - Urban,BGD,BD,0,,1
+bgdt,Bangladesh - Total,BGD,BD,1,0,0
+bgdtr,Bangladesh - Rural,BGD,BD,0,0,1
+bgdtu,Bangladesh - Urban,BGD,BD,0,0,1
 blzr101,"Belize - Corozal, Orange Walk",BLZ,BZ,0,1,0
 blzr102,Belize - Belize,BLZ,BZ,0,1,0
 blzr103,Belize - Cayo,BLZ,BZ,0,1,0
 blzr104,"Belize - Stann Creek, Toledo",BLZ,BZ,0,1,0
-blzt,Belize - Total,BLZ,BZ,1,,0
-blztr,Belize - Rural,BLZ,BZ,0,,1
-blztu,Belize - Urban,BLZ,BZ,0,,1
+blzt,Belize - Total,BLZ,BZ,1,0,0
+blztr,Belize - Rural,BLZ,BZ,0,0,1
+blztu,Belize - Urban,BLZ,BZ,0,0,1
 bolr101,Bolivia - Chuquisaca,BOL,BO,0,1,0
 bolr102,Bolivia - La Paz,BOL,BO,0,1,0
 bolr103,Bolivia - Cochabamba,BOL,BO,0,1,0
@@ -116,9 +116,9 @@ bolr106,Bolivia - Tarija,BOL,BO,0,1,0
 bolr107,Bolivia - Santa Cruz,BOL,BO,0,1,0
 bolr108,Bolivia - Beni,BOL,BO,0,1,0
 bolr109,Bolivia - Pando,BOL,BO,0,1,0
-bolt,Bolivia - Total,BOL,BO,1,,0
-boltr,Bolivia - Rural,BOL,BO,0,,1
-boltu,Bolivia - Urban,BOL,BO,0,,1
+bolt,Bolivia - Total,BOL,BO,1,0,0
+boltr,Bolivia - Rural,BOL,BO,0,0,1
+boltu,Bolivia - Urban,BOL,BO,0,0,1
 brar101,Brazil - Rondonia,BRA,BR,0,1,0
 brar102,Brazil - Acre,BRA,BR,0,1,0
 brar103,Brazil - Amazonas,BRA,BR,0,1,0
@@ -146,9 +146,9 @@ brar124,Brazil - Mato Grosso do Sul,BRA,BR,0,1,0
 brar125,Brazil - Mato Grosso,BRA,BR,0,1,0
 brar126,Brazil - Goias,BRA,BR,0,1,0
 brar127,Brazil - Distrito Federal,BRA,BR,0,1,0
-brat,Brazil - Total,BRA,BR,1,,0
-bratr,Brazil - Rural,BRA,BR,0,,1
-bratu,Brazil - Urban,BRA,BR,0,,1
+brat,Brazil - Total,BRA,BR,1,0,0
+bratr,Brazil - Rural,BRA,BR,0,0,1
+bratu,Brazil - Urban,BRA,BR,0,0,1
 btnr101,Buthan - Bumthang,BTN,BT,0,1,0
 btnr102,Buthan - Chukha,BTN,BT,0,1,0
 btnr103,Buthan - Dagana,BTN,BT,0,1,0
@@ -169,9 +169,9 @@ btnr117,Buthan - Trongsa,BTN,BT,0,1,0
 btnr118,Buthan - Tsirang,BTN,BT,0,1,0
 btnr119,Buthan - Wangdi,BTN,BT,0,1,0
 btnr120,Buthan - Zhemgang,BTN,BT,0,1,0
-btnt,Buthan - Total,BTN,BT,1,,0
-btntr,Buthan - Rural,BTN,BT,0,,1
-btntu,Buthan - Urban,BTN,BT,0,,1
+btnt,Buthan - Total,BTN,BT,1,0,0
+btntr,Buthan - Rural,BTN,BT,0,0,1
+btntu,Buthan - Urban,BTN,BT,0,0,1
 bwar101,Botswana - Central,BWA,BW,0,1,0
 bwar102,"Botswana - Ghanzi, Kgalagadi",BWA,BW,0,1,0
 bwar103,"Botswana - Kgatleng, Kweneng",BWA,BW,0,1,0
@@ -179,18 +179,18 @@ bwar104,Botswana - North-East,BWA,BW,0,1,0
 bwar105,Botswana - North-West,BWA,BW,0,1,0
 bwar106,Botswana - South-East,BWA,BW,0,1,0
 bwar107,Botswana - Southern,BWA,BW,0,1,0
-bwat,Botswana - Total,BWA,BW,1,,0
-bwatr,Botswana - Rural,BWA,BW,0,,1
-bwatu,Botswana - Urban,BWA,BW,0,,1
+bwat,Botswana - Total,BWA,BW,1,0,0
+bwatr,Botswana - Rural,BWA,BW,0,0,1
+bwatu,Botswana - Urban,BWA,BW,0,0,1
 cafr101,"Central African Republic CAR - RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi)",CAF,CF,0,1,0
 cafr102,"Central African Republic CAR - RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)",CAF,CF,0,1,0
 cafr103,"Central African Republic CAR - RS III (Ouham Pende, Ouham)",CAF,CF,0,1,0
 cafr104,"Central African Republic CAR - RS IV (Ouaka, Haute-Kotto, Baminigui Bangoran, Vakaga)",CAF,CF,0,1,0
 cafr105,"Central African Republic CAR - RS V (Basse Kotto, Mbornou, Houte Mbormou)",CAF,CF,0,1,0
 cafr106,Central African Republic CAR - Bangui,CAF,CF,0,1,0
-caft,Central African Republic CAR - Total,CAF,CF,1,,0
-caftr,Central African Republic CAR - Rural,CAF,CF,0,,1
-caftu,Central African Republic CAR - Urban,CAF,CF,0,,1
+caft,Central African Republic CAR - Total,CAF,CF,1,0,0
+caftr,Central African Republic CAR - Rural,CAF,CF,0,0,1
+caftu,Central African Republic CAR - Urban,CAF,CF,0,0,1
 chlr101,Chili - Tarapaca (incl Arica and Parinacota),CHL,CL,0,1,0
 chlr102,Chili - Antofagasta,CHL,CL,0,1,0
 chlr103,Chili - Atacama,CHL,CL,0,1,0
@@ -204,15 +204,15 @@ chlr110,Chili - Los Lagos (incl Los Rios),CHL,CL,0,1,0
 chlr111,Chili - Aisen,CHL,CL,0,1,0
 chlr112,Chili - Magallanes and La Antartica Chilena,CHL,CL,0,1,0
 chlr113,Chili - Region Metropolitana,CHL,CL,0,1,0
-chlt,Chili - Total,CHL,CL,1,,0
-chltr,Chili - Rural,CHL,CL,0,,1
-chltu,Chili - Urban,CHL,CL,0,,1
+chlt,Chili - Total,CHL,CL,1,0,0
+chltr,Chili - Rural,CHL,CL,0,0,1
+chltu,Chili - Urban,CHL,CL,0,0,1
 chnr101,China - Coastal,CHN,CN,0,1,0
 chnr102,China - Central,CHN,CN,0,1,0
 chnr103,China - Western,CHN,CN,0,1,0
-chnt,China - Total,CHN,CN,1,,0
-chntr,China - Rural,CHN,CN,0,,1
-chntu,China - Urban,CHN,CN,0,,1
+chnt,China - Total,CHN,CN,1,0,0
+chntr,China - Rural,CHN,CN,0,0,1
+chntu,China - Urban,CHN,CN,0,0,1
 civr101,Cote d'Ivoire - Centre,CIV,CI,0,1,0
 civr102,Cote d'Ivoire - Centre Est,CIV,CI,0,1,0
 civr103,Cote d'Ivoire - Centre Nord,CIV,CI,0,1,0
@@ -223,9 +223,9 @@ civr107,Cote d'Ivoire - Nord Ouest,CIV,CI,0,1,0
 civr108,Cote d'Ivoire - Ouest,CIV,CI,0,1,0
 civr109,"Cote d'Ivoire - Sud, Abidjan",CIV,CI,0,1,0
 civr110,Cote d'Ivoire - Sud Ouest,CIV,CI,0,1,0
-civt,Cote d'Ivoire - Total,CIV,CI,1,,0
-civtr,Cote d'Ivoire - Rural,CIV,CI,0,,1
-civtu,Cote d'Ivoire - Urban,CIV,CI,0,,1
+civt,Cote d'Ivoire - Total,CIV,CI,1,0,0
+civtr,Cote d'Ivoire - Rural,CIV,CI,0,0,1
+civtu,Cote d'Ivoire - Urban,CIV,CI,0,0,1
 cmrr101,Cameroon - Adamaoua,CMR,CM,0,1,0
 cmrr102,Cameroon - Centre (incl Yaounde),CMR,CM,0,1,0
 cmrr103,Cameroon - Est,CMR,CM,0,1,0
@@ -236,9 +236,9 @@ cmrr107,Cameroon - Nord Ouest,CMR,CM,0,1,0
 cmrr108,Cameroon - Ouest,CMR,CM,0,1,0
 cmrr109,Cameroon - Sud,CMR,CM,0,1,0
 cmrr110,Cameroon - Sud Ouest,CMR,CM,0,1,0
-cmrt,Cameroon - Total,CMR,CM,1,,0
-cmrtr,Cameroon - Rural,CMR,CM,0,,1
-cmrtu,Cameroon - Urban,CMR,CM,0,,1
+cmrt,Cameroon - Total,CMR,CM,1,0,0
+cmrtr,Cameroon - Rural,CMR,CM,0,0,1
+cmrtu,Cameroon - Urban,CMR,CM,0,0,1
 codr101,Congo Democratic Republic - Kinshasa,COD,CD,0,1,0
 codr102,Congo Democratic Republic - Bas-Congo,COD,CD,0,1,0
 codr103,Congo Democratic Republic - Bandundu,COD,CD,0,1,0
@@ -250,39 +250,39 @@ codr108,Congo Democratic Republic - Maniema,COD,CD,0,1,0
 codr109,Congo Democratic Republic - Katanga,COD,CD,0,1,0
 codr110,Congo Democratic Republic - Kasai Oriental,COD,CD,0,1,0
 codr111,Congo Democratic Republic - Kasai Occidental,COD,CD,0,1,0
-codt,Congo Democratic Republic - Total,COD,CD,1,,0
-codtr,Congo Democratic Republic - Rural,COD,CD,0,,1
-codtu,Congo Democratic Republic - Urban,COD,CD,0,,1
+codt,Congo Democratic Republic - Total,COD,CD,1,0,0
+codtr,Congo Democratic Republic - Rural,COD,CD,0,0,1
+codtu,Congo Democratic Republic - Urban,COD,CD,0,0,1
 cogr101,Congo Brazzaville - Brazzaville,COG,CG,0,1,0
 cogr102,Congo Brazzaville - Pointe Norte,COG,CG,0,1,0
 cogr103,"Congo Brazzaville - Sud (Kouilou excl Pointe Norte, Niari, Lekoumou, Bouenza, Pool)",COG,CG,0,1,0
 cogr104,"Congo Brazzaville - Nord (Plateaux, Cuvette, Cuvette Ouest, Sangha, Likouala)",COG,CG,0,1,0
-cogt,Congo Brazzaville - Total,COG,CG,1,,0
-cogtr,Congo Brazzaville - Rural,COG,CG,0,,1
-cogtu,Congo Brazzaville - Urban,COG,CG,0,,1
+cogt,Congo Brazzaville - Total,COG,CG,1,0,0
+cogtr,Congo Brazzaville - Rural,COG,CG,0,0,1
+cogtu,Congo Brazzaville - Urban,COG,CG,0,0,1
 colr101,Colombia - Atlantica,COL,CO,0,1,0
 colr102,Colombia - Oriental,COL,CO,0,1,0
 colr103,Colombia - Central,COL,CO,0,1,0
 colr104,Colombia - Pacifica,COL,CO,0,1,0
 colr105,Colombia - Bogota,COL,CO,0,1,0
-colt,Colombia - Total,COL,CO,1,,0
-coltr,Colombia - Rural,COL,CO,0,,1
-coltu,Colombia - Urban,COL,CO,0,,1
+colt,Colombia - Total,COL,CO,1,0,0
+coltr,Colombia - Rural,COL,CO,0,0,1
+coltu,Colombia - Urban,COL,CO,0,0,1
 colr106,Colombia - Territorios Nacionales,COL,CO,0,1,0
 comr101,Comoros - Grande Comore (Ngazidja),COM,KM,0,1,0
 comr102,Comoros - Moheli,COM,KM,0,1,0
 comr103,Comoros - Anjouan (Ndzouani),COM,KM,0,1,0
-comt,Comoros - Total,COM,KM,1,,0
-comtr,Comoros - Rural,COM,KM,0,,1
-comtu,Comoros - Urban,COM,KM,0,,1
+comt,Comoros - Total,COM,KM,1,0,0
+comtr,Comoros - Rural,COM,KM,0,0,1
+comtu,Comoros - Urban,COM,KM,0,0,1
 cpvr101,Cape Verde - S.Antao,CPV,CV,0,1,0
 cpvr102,Cape Verde - S.Vicente,CPV,CV,0,1,0
 cpvr103,Cape Verde - Santiago-Interior,CPV,CV,0,1,0
 cpvr104,Cape Verde - Santiago- Praia,CPV,CV,0,1,0
 cpvr105,Cape Verde - Fogo,CPV,CV,0,1,0
-cpvt,Cape Verde - Total,CPV,CV,1,,0
-cpvtr,Cape Verde - Rural,CPV,CV,0,,1
-cpvtu,Cape Verde - Urban,CPV,CV,0,,1
+cpvt,Cape Verde - Total,CPV,CV,1,0,0
+cpvtr,Cape Verde - Rural,CPV,CV,0,0,1
+cpvtu,Cape Verde - Urban,CPV,CV,0,0,1
 crir101,Costa Rica - San Jose,CRI,CR,0,1,0
 crir102,Costa Rica - Alajuela,CRI,CR,0,1,0
 crir103,Costa Rica - Cartago,CRI,CR,0,1,0
@@ -290,16 +290,16 @@ crir104,Costa Rica - Heredia,CRI,CR,0,1,0
 crir105,Costa Rica - Guanacaste,CRI,CR,0,1,0
 crir106,Costa Rica - Puntarenas,CRI,CR,0,1,0
 crir107,Costa Rica - Limon,CRI,CR,0,1,0
-crit,Costa Rica - Total,CRI,CR,1,,0
-critr,Costa Rica - Rural,CRI,CR,0,,1
-critu,Costa Rica - Urban,CRI,CR,0,,1
+crit,Costa Rica - Total,CRI,CR,1,0,0
+critr,Costa Rica - Rural,CRI,CR,0,0,1
+critu,Costa Rica - Urban,CRI,CR,0,0,1
 cubr101,Cuba - Occidente,CUB,CU,0,1,0
 cubr102,Cuba - Ciudad Habana,CUB,CU,0,1,0
 cubr103,Cuba - Centro,CUB,CU,0,1,0
 cubr104,Cuba - Oriente,CUB,CU,0,1,0
-cubt,Cuba - Total,CUB,CU,1,,0
-cubtr,Cuba - Rural,CUB,CU,0,,1
-cubtu,Cuba - Urban,CUB,CU,0,,1
+cubt,Cuba - Total,CUB,CU,1,0,0
+cubtr,Cuba - Rural,CUB,CU,0,0,1
+cubtu,Cuba - Urban,CUB,CU,0,0,1
 domr101,"Dominican Republic - Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",DOM,DO,0,1,0
 domr102,"Dominican Republic - Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",DOM,DO,0,1,0
 domr103,"Dominican Republic - Region II (Espaillat, Puerto Plata, Santiago)",DOM,DO,0,1,0
@@ -309,9 +309,9 @@ domr106,"Dominican Republic - Region V (El Seibo, La Altagracia, La Romana, San 
 domr107,"Dominican Republic - Region VI (San Juan, Elias Pina)",DOM,DO,0,1,0
 domr108,"Dominican Republic - Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)",DOM,DO,0,1,0
 domr109,"Dominican Republic - Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)",DOM,DO,0,1,0
-domt,Dominican Republic - Total,DOM,DO,1,,0
-domtr,Dominican Republic - Rural,DOM,DO,0,,1
-domtu,Dominican Republic - Urban,DOM,DO,0,,1
+domt,Dominican Republic - Total,DOM,DO,1,0,0
+domtr,Dominican Republic - Rural,DOM,DO,0,0,1
+domtu,Dominican Republic - Urban,DOM,DO,0,0,1
 dzar101,"Algeria - South-West (Adrar, Laghouat Bechar, Tindouf (no cases), Naama)",DZA,DZ,0,1,0
 dzar102,"Algeria - South-East (Tamanghasset, Ouargla, Illizi, El Oued, Ghardaia)",DZA,DZ,0,1,0
 dzar103,"Algeria - North-West (Tlemcen, Saida, Sidi Bel Abbes, Mascara, Oran, Ain Temouchent)",DZA,DZ,0,1,0
@@ -319,9 +319,9 @@ dzar104,"Algeria - North-Center-West (Chlef, Tiaret, Mostaganem, Tissemsilt, Tip
 dzar105,"Algeria - North-Center (Blida, Bouira, Tizi Ouzou, Alger, Medea Boumerdes)",DZA,DZ,0,1,0
 dzar106,"Algeria - North-Center-East (Bejaia, Jijel, Setif, Bordj Bou Arreridj, Mila)",DZA,DZ,0,1,0
 dzar107,"Algeria - Center (Biskra, Djelfa, Msila)",DZA,DZ,0,1,0
-dzat,Algeria - Total,DZA,DZ,1,,0
-dzatr,Algeria - Rural,DZA,DZ,0,,1
-dzatu,Algeria - Urban,DZA,DZ,0,,1
+dzat,Algeria - Total,DZA,DZ,1,0,0
+dzatr,Algeria - Rural,DZA,DZ,0,0,1
+dzatu,Algeria - Urban,DZA,DZ,0,0,1
 egyr101,Egypt - Cairo,EGY,EG,0,1,0
 egyr102,Egypt - Alexandria,EGY,EG,0,1,0
 egyr103,Egypt - Port Said,EGY,EG,0,1,0
@@ -344,9 +344,9 @@ egyr119,Egypt - Souhag,EGY,EG,0,1,0
 egyr120,Egypt - Qena,EGY,EG,0,1,0
 egyr121,Egypt - Aswan,EGY,EG,0,1,0
 egyr122,"Egypt - Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)",EGY,EG,0,1,0
-egyt,Egypt - Total,EGY,EG,1,,0
-egytr,Egypt - Rural,EGY,EG,0,,1
-egytu,Egypt - Urban,EGY,EG,0,,1
+egyt,Egypt - Total,EGY,EG,1,0,0
+egytr,Egypt - Rural,EGY,EG,0,0,1
+egytu,Egypt - Urban,EGY,EG,0,0,1
 ethr101,Ethiopia - Tigray,ETH,ET,0,1,0
 ethr102,Ethiopia - Affar,ETH,ET,0,1,0
 ethr103,Ethiopia - Amhara,ETH,ET,0,1,0
@@ -358,9 +358,9 @@ ethr108,Ethiopia - Gambela,ETH,ET,0,1,0
 ethr109,Ethiopia - Harari,ETH,ET,0,1,0
 ethr110,Ethiopia - Addis,ETH,ET,0,1,0
 ethr111,Ethiopia - Dire Dawa,ETH,ET,0,1,0
-etht,Ethiopia - Total,ETH,ET,1,,0
-ethtr,Ethiopia - Rural,ETH,ET,0,,1
-ethtu,Ethiopia - Urban,ETH,ET,0,,1
+etht,Ethiopia - Total,ETH,ET,1,0,0
+ethtr,Ethiopia - Rural,ETH,ET,0,0,1
+ethtu,Ethiopia - Urban,ETH,ET,0,0,1
 gabr101,Gabon - Estuaire,GAB,GA,0,1,0
 gabr102,Gabon - Haut Ogooue,GAB,GA,0,1,0
 gabr103,Gabon - Moyen Ogooue,GAB,GA,0,1,0
@@ -371,9 +371,9 @@ gabr107,Gabon - Ogooue Lolo,GAB,GA,0,1,0
 gabr108,Gabon - Ogooue Maritime,GAB,GA,0,1,0
 gabr109,Gabon - Woleu Ntem,GAB,GA,0,1,0
 gabr110,Gabon - Libreville-Port Gentil,GAB,GA,0,1,0
-gabt,Gabon - Total,GAB,GA,1,,0
-gabtr,Gabon - Rural,GAB,GA,0,,1
-gabtu,Gabon - Urban,GAB,GA,0,,1
+gabt,Gabon - Total,GAB,GA,1,0,0
+gabtr,Gabon - Rural,GAB,GA,0,0,1
+gabtu,Gabon - Urban,GAB,GA,0,0,1
 geor102,Georgia - Ajaria,GEO,GE,0,1,0
 geor103,Georgia - Guria,GEO,GE,0,1,0
 geor104,Georgia - Imereti,GEO,GE,0,1,0
@@ -385,9 +385,9 @@ geor109,Georgia - Samegrelo-Zemo Svateni,GEO,GE,0,1,0
 geor110,Georgia - Samtskhe-Javakheti,GEO,GE,0,1,0
 geor111,Georgia - Shida Kartli,GEO,GE,0,1,0
 geor112,Georgia - Tbilisi,GEO,GE,0,1,0
-geot,Georgia - Total,GEO,GE,1,,0
-geotr,Georgia - Rural,GEO,GE,0,,1
-geotu,Georgia - Urban,GEO,GE,0,,1
+geot,Georgia - Total,GEO,GE,1,0,0
+geotr,Georgia - Rural,GEO,GE,0,0,1
+geotu,Georgia - Urban,GEO,GE,0,0,1
 ghar101,Ghana - Western,GHA,GH,0,1,0
 ghar102,Ghana - Central,GHA,GH,0,1,0
 ghar103,Ghana - Greater Accra,GHA,GH,0,1,0
@@ -398,9 +398,9 @@ ghar107,Ghana - Brong Ahafo,GHA,GH,0,1,0
 ghar108,Ghana - Northern,GHA,GH,0,1,0
 ghar109,Ghana - Upper West,GHA,GH,0,1,0
 ghar110,Ghana - Upper East,GHA,GH,0,1,0
-ghat,Ghana - Total,GHA,GH,1,,0
-ghatr,Ghana - Rural,GHA,GH,0,,1
-ghatu,Ghana - Urban,GHA,GH,0,,1
+ghat,Ghana - Total,GHA,GH,1,0,0
+ghatr,Ghana - Rural,GHA,GH,0,0,1
+ghatu,Ghana - Urban,GHA,GH,0,0,1
 ginr101,Guinea - Boke,GIN,GN,0,1,0
 ginr102,Guinea - Conakry,GIN,GN,0,1,0
 ginr103,Guinea - Faranah,GIN,GN,0,1,0
@@ -409,9 +409,9 @@ ginr105,Guinea - Kindia,GIN,GN,0,1,0
 ginr106,Guinea - Labe,GIN,GN,0,1,0
 ginr107,Guinea - Mamou,GIN,GN,0,1,0
 ginr108,Guinea - N Zerekore,GIN,GN,0,1,0
-gint,Guinea - Total,GIN,GN,1,,0
-gintr,Guinea - Rural,GIN,GN,0,,1
-gintu,Guinea - Urban,GIN,GN,0,,1
+gint,Guinea - Total,GIN,GN,1,0,0
+gintr,Guinea - Rural,GIN,GN,0,0,1
+gintu,Guinea - Urban,GIN,GN,0,0,1
 gmbr101,Gambia - Banjul,GMB,GM,0,1,0
 gmbr102,Gambia - Kanifing,GMB,GM,0,1,0
 gmbr103,Gambia - Brikama,GMB,GM,0,1,0
@@ -420,9 +420,9 @@ gmbr105,Gambia - Kerewan,GMB,GM,0,1,0
 gmbr106,Gambia - Kuntaur,GMB,GM,0,1,0
 gmbr107,Gambia - Janjabureh,GMB,GM,0,1,0
 gmbr108,Gambia - Basse,GMB,GM,0,1,0
-gmbt,Gambia - Total,GMB,GM,1,,0
-gmbtr,Gambia - Rural,GMB,GM,0,,1
-gmbtu,Gambia - Urban,GMB,GM,0,,1
+gmbt,Gambia - Total,GMB,GM,1,0,0
+gmbtr,Gambia - Rural,GMB,GM,0,0,1
+gmbtu,Gambia - Urban,GMB,GM,0,0,1
 gnbr101,Guinea Bissau - Tombali,GNB,GW,0,1,0
 gnbr102,Guinea Bissau - Quinara,GNB,GW,0,1,0
 gnbr103,Guinea Bissau - Oio,GNB,GW,0,1,0
@@ -432,9 +432,9 @@ gnbr106,Guinea Bissau - Bafata,GNB,GW,0,1,0
 gnbr107,Guinea Bissau - Gabu,GNB,GW,0,1,0
 gnbr108,Guinea Bissau - Cacheu,GNB,GW,0,1,0
 gnbr109,Guinea Bissau - Bissau,GNB,GW,0,1,0
-gnbt,Guinea Bissau - Total,GNB,GW,1,,0
-gnbtr,Guinea Bissau - Rural,GNB,GW,0,,1
-gnbtu,Guinea Bissau - Urban,GNB,GW,0,,1
+gnbt,Guinea Bissau - Total,GNB,GW,1,0,0
+gnbtr,Guinea Bissau - Rural,GNB,GW,0,0,1
+gnbtu,Guinea Bissau - Urban,GNB,GW,0,0,1
 gtmr101,Guatemala - Metropolitan,GTM,GT,0,1,0
 gtmr102,Guatemala - North,GTM,GT,0,1,0
 gtmr103,Guatemala - North-Oriental,GTM,GT,0,1,0
@@ -442,9 +442,9 @@ gtmr104,Guatemala - South-Oriental,GTM,GT,0,1,0
 gtmr105,Guatemala - Central,GTM,GT,0,1,0
 gtmr106,Guatemala - South-Occidental,GTM,GT,0,1,0
 gtmr107,Guatemala - North-Occidental,GTM,GT,0,1,0
-gtmt,Guatemala - Total,GTM,GT,1,,0
-gtmtr,Guatemala - Rural,GTM,GT,0,,1
-gtmtu,Guatemala - Urban,GTM,GT,0,,1
+gtmt,Guatemala - Total,GTM,GT,1,0,0
+gtmtr,Guatemala - Rural,GTM,GT,0,0,1
+gtmtu,Guatemala - Urban,GTM,GT,0,0,1
 gtmr108,Guatemala - Peten,GTM,GT,0,1,0
 guyr101,Guyana - Region 1,GUY,GY,0,1,0
 guyr102,Guyana - Region 2,GUY,GY,0,1,0
@@ -456,9 +456,9 @@ guyr107,Guyana - Region 7,GUY,GY,0,1,0
 guyr108,Guyana - Region 8,GUY,GY,0,1,0
 guyr109,Guyana - Region 9,GUY,GY,0,1,0
 guyr110,Guyana - Region 10,GUY,GY,0,1,0
-guyt,Guyana - Total,GUY,GY,1,,0
-guytr,Guyana - Rural,GUY,GY,0,,1
-guytu,Guyana - Urban,GUY,GY,0,,1
+guyt,Guyana - Total,GUY,GY,1,0,0
+guytr,Guyana - Rural,GUY,GY,0,0,1
+guytu,Guyana - Urban,GUY,GY,0,0,1
 hndr101,Honduras - Atlantida,HND,HN,0,1,0
 hndr102,Honduras - Colon,HND,HN,0,1,0
 hndr103,Honduras - Comayagua,HND,HN,0,1,0
@@ -475,9 +475,9 @@ hndr115,Honduras - Olancho,HND,HN,0,1,0
 hndr116,Honduras - Santa Barbara,HND,HN,0,1,0
 hndr117,Honduras - Valle,HND,HN,0,1,0
 hndr118,Honduras - Yoro,HND,HN,0,1,0
-hndt,Honduras - Total,HND,HN,1,,0
-hndtr,Honduras - Rural,HND,HN,0,,1
-hndtu,Honduras - Urban,HND,HN,0,,1
+hndt,Honduras - Total,HND,HN,1,0,0
+hndtr,Honduras - Rural,HND,HN,0,0,1
+hndtu,Honduras - Urban,HND,HN,0,0,1
 hndr109,Honduras - Gracias a Dios,HND,HN,0,1,0
 hndr111,Honduras - Islas de la Bahia,HND,HN,0,1,0
 htir101,Haiti - West (incl Metropolitain area),HTI,HT,0,1,0
@@ -489,9 +489,9 @@ htir106,Haiti - Centre,HTI,HT,0,1,0
 htir107,Haiti - South,HTI,HT,0,1,0
 htir108,Haiti - Grande-Anse,HTI,HT,0,1,0
 htir109,Haiti - North-West,HTI,HT,0,1,0
-htit,Haiti - Total,HTI,HT,1,,0
-htitr,Haiti - Rural,HTI,HT,0,,1
-htitu,Haiti - Urban,HTI,HT,0,,1
+htit,Haiti - Total,HTI,HT,1,0,0
+htitr,Haiti - Rural,HTI,HT,0,0,1
+htitu,Haiti - Urban,HTI,HT,0,0,1
 htir110,Haiti - Camps,HTI,HT,0,1,0
 idnr101,Indonesia - DI Aceh,IDN,ID,0,1,0
 idnr102,Indonesia - North Sumatra,IDN,ID,0,1,0
@@ -520,9 +520,9 @@ idnr126,Indonesia - South Sulawesi (incl Sulawesi Barat),IDN,ID,0,1,0
 idnr127,Indonesia - Southeast Sulawesi,IDN,ID,0,1,0
 idnr129,Indonesia - Maluku,IDN,ID,0,1,0
 idnr130,Indonesia - Irian Jaya (Papua and Papua Barat),IDN,ID,0,1,0
-idnt,Indonesia - Total,IDN,ID,1,,0
-idntr,Indonesia - Rural,IDN,ID,0,,1
-idntu,Indonesia - Urban,IDN,ID,0,,1
+idnt,Indonesia - Total,IDN,ID,1,0,0
+idntr,Indonesia - Rural,IDN,ID,0,0,1
+idntu,Indonesia - Urban,IDN,ID,0,0,1
 idnr109,Indonesia - Bangka Belitung,IDN,ID,0,1,0
 idnr115,Indonesia - Banten,IDN,ID,0,1,0
 idnr128,Indonesia - Gorontalo,IDN,ID,0,1,0
@@ -551,9 +551,9 @@ indr123,India - Uttar Pradesh (incl Uttaranchal),IND,IN,0,1,0
 indr124,India - New Delhi,IND,IN,0,1,0
 indr125,India - Arunachal Pradesh,IND,IN,0,1,0
 indr126,India - Tripura,IND,IN,0,1,0
-indt,India - Total,IND,IN,1,,0
-indtr,India - Rural,IND,IN,0,,1
-indtu,India - Urban,IND,IN,0,,1
+indt,India - Total,IND,IN,1,0,0
+indtr,India - Rural,IND,IN,0,0,1
+indtu,India - Urban,IND,IN,0,0,1
 indr120,India - Sikkim,IND,IN,0,1,0
 irnr101,Iran - Markazi,IRN,IR,0,1,0
 irnr102,Iran - Gilan,IRN,IR,0,1,0
@@ -585,9 +585,9 @@ irnr127,Iran - Qazvin,IRN,IR,0,1,0
 irnr128,Iran - Golestan,IRN,IR,0,1,0
 irnr129,Iran - North Khorasan,IRN,IR,0,1,0
 irnr130,Iran - South Khorasan,IRN,IR,0,1,0
-irnt,Iran - Total,IRN,IR,1,,0
-irntr,Iran - Rural,IRN,IR,0,,1
-irntu,Iran - Urban,IRN,IR,0,,1
+irnt,Iran - Total,IRN,IR,1,0,0
+irntr,Iran - Rural,IRN,IR,0,0,1
+irntu,Iran - Urban,IRN,IR,0,0,1
 irqr101,Iraq - Dohouk,IRQ,IQ,0,1,0
 irqr102,Iraq - Nenava,IRQ,IQ,0,1,0
 irqr103,Iraq - Suleimaniya,IRQ,IQ,0,1,0
@@ -606,9 +606,9 @@ irqr115,Iraq - Muthanna,IRQ,IQ,0,1,0
 irqr116,Iraq - Thi-Qar,IRQ,IQ,0,1,0
 irqr117,Iraq - Maysan,IRQ,IQ,0,1,0
 irqr118,Iraq - Basra,IRQ,IQ,0,1,0
-irqt,Iraq - Total,IRQ,IQ,1,,0
-irqtr,Iraq - Rural,IRQ,IQ,0,,1
-irqtu,Iraq - Urban,IRQ,IQ,0,,1
+irqt,Iraq - Total,IRQ,IQ,1,0,0
+irqtr,Iraq - Rural,IRQ,IQ,0,0,1
+irqtu,Iraq - Urban,IRQ,IQ,0,0,1
 jorr101,Jordan - Amman,JOR,JO,0,1,0
 jorr102,Jordan - Balqa,JOR,JO,0,1,0
 jorr103,Jordan - Zarqa,JOR,JO,0,1,0
@@ -621,18 +621,18 @@ jorr109,Jordan - Karak,JOR,JO,0,1,0
 jorr110,Jordan - Tafiela,JOR,JO,0,1,0
 jorr111,Jordan - Ma'an,JOR,JO,0,1,0
 jorr112,Jordan - Aqaba,JOR,JO,0,1,0
-jort,Jordan - Total,JOR,JO,1,,0
-jortr,Jordan - Rural,JOR,JO,0,,1
-jortu,Jordan - Urban,JOR,JO,0,,1
+jort,Jordan - Total,JOR,JO,1,0,0
+jortr,Jordan - Rural,JOR,JO,0,0,1
+jortu,Jordan - Urban,JOR,JO,0,0,1
 kazr101,Kazakhstan - Almaty city,KAZ,KZ,0,1,0
 kazr102,"Kazakhstan - South region (Almatinskaya, Zhambylskaya, Kyzylordinskaya, South-Kazakhstanskaya)",KAZ,KZ,0,1,0
 kazr103,"Kazakhstan - West region (Aktyubinskaya, Atyrauskaya, Mangistauskaya, West-Kazakhstanskaya)",KAZ,KZ,0,1,0
 kazr104,Kazakhstan - Central region (Karagandinskaya),KAZ,KZ,0,1,0
 kazr105,"Kazakhstan - North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)",KAZ,KZ,0,1,0
 kazr106,Kazakhstan - East region (East-Kazakhstanskaya),KAZ,KZ,0,1,0
-kazt,Kazakhstan - Total,KAZ,KZ,1,,0
-kaztr,Kazakhstan - Rural,KAZ,KZ,0,,1
-kaztu,Kazakhstan - Urban,KAZ,KZ,0,,1
+kazt,Kazakhstan - Total,KAZ,KZ,1,0,0
+kaztr,Kazakhstan - Rural,KAZ,KZ,0,0,1
+kaztu,Kazakhstan - Urban,KAZ,KZ,0,0,1
 kenr101,Kenya - Nairobi,KEN,KE,0,1,0
 kenr102,Kenya - Central,KEN,KE,0,1,0
 kenr103,Kenya - Coast,KEN,KE,0,1,0
@@ -640,17 +640,17 @@ kenr104,Kenya - Eastern,KEN,KE,0,1,0
 kenr105,Kenya - Nyanza,KEN,KE,0,1,0
 kenr106,Kenya - Rift Valley,KEN,KE,0,1,0
 kenr107,Kenya - Western,KEN,KE,0,1,0
-kent,Kenya - Total,KEN,KE,1,,0
-kentr,Kenya - Rural,KEN,KE,0,,1
-kentu,Kenya - Urban,KEN,KE,0,,1
+kent,Kenya - Total,KEN,KE,1,0,0
+kentr,Kenya - Rural,KEN,KE,0,0,1
+kentu,Kenya - Urban,KEN,KE,0,0,1
 kenr108,Kenya - North Eastern,KEN,KE,0,1,0
 kgzr101,Kyrgyzstan - Bishkek,KGZ,KG,0,1,0
 kgzr102,"Kyrgyzstan - North (Issyk-Kul, Chuy, Talas)",KGZ,KG,0,1,0
 kgzr103,Kyrgyzstan - East (Naryn),KGZ,KG,0,1,0
 kgzr104,"Kyrgyzstan - South (Osh, Batken, Jalal-Abad)",KGZ,KG,0,1,0
-kgzt,Kyrgyzstan - Total,KGZ,KG,1,,0
-kgztr,Kyrgyzstan - Rural,KGZ,KG,0,,1
-kgztu,Kyrgyzstan - Urban,KGZ,KG,0,,1
+kgzt,Kyrgyzstan - Total,KGZ,KG,1,0,0
+kgztr,Kyrgyzstan - Rural,KGZ,KG,0,0,1
+kgztu,Kyrgyzstan - Urban,KGZ,KG,0,0,1
 khmr101,Cambodia - Banteay Mean Chey,KHM,KH,0,1,0
 khmr102,Cambodia - Kampong Cham (incl Tboung Khmum),KHM,KH,0,1,0
 khmr103,Cambodia - Kampong Chhnang,KHM,KH,0,1,0
@@ -668,9 +668,9 @@ khmr114,Cambodia - Kampot/Krong Kaeb/Krong Preah Sihanouk,KHM,KH,0,1,0
 khmr115,Cambodia - Preah Vihear/Stueng Traeng/Kracheh,KHM,KH,0,1,0
 khmr116,Cambodia - Mondol Kiri/Rotanak Kiri,KHM,KH,0,1,0
 khmr117,Cambodia - Siem Reab/Otdar Mean Chey,KHM,KH,0,1,0
-khmt,Cambodia - Total,KHM,KH,1,,0
-khmtr,Cambodia - Rural,KHM,KH,0,,1
-khmtu,Cambodia - Urban,KHM,KH,0,,1
+khmt,Cambodia - Total,KHM,KH,1,0,0
+khmtr,Cambodia - Rural,KHM,KH,0,0,1
+khmtu,Cambodia - Urban,KHM,KH,0,0,1
 laor101,Lao - Vientiane Municipality,LAO,LA,0,1,0
 laor102,Lao - Phongsaly,LAO,LA,0,1,0
 laor103,Lao - Luangnamtha,LAO,LA,0,1,0
@@ -688,18 +688,18 @@ laor114,Lao - Saravane,LAO,LA,0,1,0
 laor115,Lao - Sekong,LAO,LA,0,1,0
 laor116,Lao - Champasack,LAO,LA,0,1,0
 laor117,Lao - Attapeu,LAO,LA,0,1,0
-laot,Lao - Total,LAO,LA,1,,0
-laotr,Lao - Rural,LAO,LA,0,,1
-laotu,Lao - Urban,LAO,LA,0,,1
+laot,Lao - Total,LAO,LA,1,0,0
+laotr,Lao - Rural,LAO,LA,0,0,1
+laotu,Lao - Urban,LAO,LA,0,0,1
 lbrr201,Liberia -  Monrovia,LBR,LR,0,1,0
 lbrr202,Liberia -  North Western,LBR,LR,0,1,0
 lbrr203,Liberia -  South Central,LBR,LR,0,1,0
 lbrr204,Liberia -  South Eastern A,LBR,LR,0,1,0
 lbrr205,Liberia -  South Eastern B,LBR,LR,0,1,0
 lbrr206,Liberia -  North Central,LBR,LR,0,1,0
-lbrt,Liberia - Total,LBR,LR,1,,0
-lbrtr,Liberia - Rural,LBR,LR,0,,1
-lbrtu,Liberia - Urban,LBR,LR,0,,1
+lbrt,Liberia - Total,LBR,LR,1,0,0
+lbrtr,Liberia - Rural,LBR,LR,0,0,1
+lbrtu,Liberia - Urban,LBR,LR,0,0,1
 lbrr101,Liberia - Bomi,LBR,LR,0,1,0
 lbrr102,Liberia - Bong,LBR,LR,0,1,0
 lbrr103,Liberia - Gbarpolu,LBR,LR,0,1,0
@@ -725,9 +725,9 @@ lsor107,Lesotho - Quthing,LSO,LS,0,1,0
 lsor108,Lesotho - Qasha s Nek,LSO,LS,0,1,0
 lsor109,Lesotho - Mokhotlong,LSO,LS,0,1,0
 lsor110,Lesotho - Thaba-Tseka,LSO,LS,0,1,0
-lsot,Lesotho - Total,LSO,LS,1,,0
-lsotr,Lesotho - Rural,LSO,LS,0,,1
-lsotu,Lesotho - Urban,LSO,LS,0,,1
+lsot,Lesotho - Total,LSO,LS,1,0,0
+lsotr,Lesotho - Rural,LSO,LS,0,0,1
+lsotu,Lesotho - Urban,LSO,LS,0,0,1
 marr101,Morocco - North west,MAR,MA,0,1,0
 marr102,Morocco - Centre north,MAR,MA,0,1,0
 marr103,Morocco - Centre,MAR,MA,0,1,0
@@ -735,34 +735,34 @@ marr104,Morocco - Eastern,MAR,MA,0,1,0
 marr105,Morocco - Centre south,MAR,MA,0,1,0
 marr106,Morocco - Tensift,MAR,MA,0,1,0
 marr107,Morocco - South,MAR,MA,0,1,0
-mart,Morocco - Total,MAR,MA,1,,0
-martr,Morocco - Rural,MAR,MA,0,,1
-martu,Morocco - Urban,MAR,MA,0,,1
+mart,Morocco - Total,MAR,MA,1,0,0
+martr,Morocco - Rural,MAR,MA,0,0,1
+martu,Morocco - Urban,MAR,MA,0,0,1
 mdar101,Moldova - North,MDA,MD,0,1,0
 mdar102,Moldova - Center,MDA,MD,0,1,0
 mdar103,Moldova - South,MDA,MD,0,1,0
 mdar104,Moldova - Chisinau,MDA,MD,0,1,0
-mdat,Moldova - Total,MDA,MD,1,,0
-mdatr,Moldova - Rural,MDA,MD,0,,1
-mdatu,Moldova - Urban,MDA,MD,0,,1
+mdat,Moldova - Total,MDA,MD,1,0,0
+mdatr,Moldova - Rural,MDA,MD,0,0,1
+mdatu,Moldova - Urban,MDA,MD,0,0,1
 mdgr101,Madagascar - Antananarivo,MDG,MG,0,1,0
 mdgr102,Madagascar - Fianarantsoa,MDG,MG,0,1,0
 mdgr103,Madagascar - Toamasina,MDG,MG,0,1,0
 mdgr104,Madagascar - Mahajanga,MDG,MG,0,1,0
 mdgr105,Madagascar - Toliary,MDG,MG,0,1,0
 mdgr106,Madagascar - Antsiranana,MDG,MG,0,1,0
-mdgt,Madagascar - Total,MDG,MG,1,,0
-mdgtr,Madagascar - Rural,MDG,MG,0,,1
-mdgtu,Madagascar - Urban,MDG,MG,0,,1
+mdgt,Madagascar - Total,MDG,MG,1,0,0
+mdgtr,Madagascar - Rural,MDG,MG,0,0,1
+mdgtu,Madagascar - Urban,MDG,MG,0,0,1
 mdvr101,Maldives - Male,MDV,MV,0,1,0
 mdvr102,Maldives - North,MDV,MV,0,1,0
 mdvr103,Maldives - North Central,MDV,MV,0,1,0
 mdvr104,Maldives - Central,MDV,MV,0,1,0
 mdvr105,Maldives - South Central,MDV,MV,0,1,0
 mdvr106,Maldives - South,MDV,MV,0,1,0
-mdvt,Maldives - Total,MDV,MV,1,,0
-mdvtr,Maldives - Rural,MDV,MV,0,,1
-mdvtu,Maldives - Urban,MDV,MV,0,,1
+mdvt,Maldives - Total,MDV,MV,1,0,0
+mdvtr,Maldives - Rural,MDV,MV,0,0,1
+mdvtu,Maldives - Urban,MDV,MV,0,0,1
 mexr101,Mexico - Aguascalientes,MEX,MX,0,1,0
 mexr102,Mexico - Baja California,MEX,MX,0,1,0
 mexr103,Mexico - Baja California Sur,MEX,MX,0,1,0
@@ -795,9 +795,9 @@ mexr129,Mexico - Tlaxcala,MEX,MX,0,1,0
 mexr130,Mexico - Veracruz,MEX,MX,0,1,0
 mexr131,Mexico - Yucatan,MEX,MX,0,1,0
 mexr132,Mexico - Zacatecas,MEX,MX,0,1,0
-mext,Mexico - Total,MEX,MX,1,,0
-mextr,Mexico - Rural,MEX,MX,0,,1
-mextu,Mexico - Urban,MEX,MX,0,,1
+mext,Mexico - Total,MEX,MX,1,0,0
+mextr,Mexico - Rural,MEX,MX,0,0,1
+mextu,Mexico - Urban,MEX,MX,0,0,1
 mlir101,Mali - Kayes,MLI,ML,0,1,0
 mlir102,Mali - Koulikoro,MLI,ML,0,1,0
 mlir103,Mali - Sikasso,MLI,ML,0,1,0
@@ -806,17 +806,17 @@ mlir105,Mali - Mopti,MLI,ML,0,1,0
 mlir106,Mali - Tombouctou,MLI,ML,0,1,0
 mlir107,Mali - Gao and Kidal,MLI,ML,0,1,0
 mlir108,Mali - Bamako,MLI,ML,0,1,0
-mlit,Mali - Total,MLI,ML,1,,0
-mlitr,Mali - Rural,MLI,ML,0,,1
-mlitu,Mali - Urban,MLI,ML,0,,1
+mlit,Mali - Total,MLI,ML,1,0,0
+mlitr,Mali - Rural,MLI,ML,0,0,1
+mlitu,Mali - Urban,MLI,ML,0,0,1
 mngr101,"Mongolia - Western (Bayan-Ulgii, Govi-Altai, Zavkhan, Uvs, Khovd)",MNG,MN,0,1,0
 mngr102,"Mongolia - Khangai (Arkhangai, Bayankhongor, Bulgan, Uvurkhangai, Khuvsgul, Orkhon)",MNG,MN,0,1,0
 mngr103,"Mongolia - Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)",MNG,MN,0,1,0
 mngr104,"Mongolia - Eastern (Dornod, Sukhbaatar, Khentii)",MNG,MN,0,1,0
 mngr105,Mongolia - Ulaanbaatar,MNG,MN,0,1,0
-mngt,Mongolia - Total,MNG,MN,1,,0
-mngtr,Mongolia - Rural,MNG,MN,0,,1
-mngtu,Mongolia - Urban,MNG,MN,0,,1
+mngt,Mongolia - Total,MNG,MN,1,0,0
+mngtr,Mongolia - Rural,MNG,MN,0,0,1
+mngtu,Mongolia - Urban,MNG,MN,0,0,1
 mozr101,Mozambique - Niassa,MOZ,MZ,0,1,0
 mozr102,Mozambique - Cabo delgado,MOZ,MZ,0,1,0
 mozr103,Mozambique - Nampula,MOZ,MZ,0,1,0
@@ -828,9 +828,9 @@ mozr108,Mozambique - Inhambane,MOZ,MZ,0,1,0
 mozr109,Mozambique - Gaza,MOZ,MZ,0,1,0
 mozr110,Mozambique - Maputo Provincia,MOZ,MZ,0,1,0
 mozr111,Mozambique - Maputo Cidade,MOZ,MZ,0,1,0
-mozt,Mozambique - Total,MOZ,MZ,1,,0
-moztr,Mozambique - Rural,MOZ,MZ,0,,1
-moztu,Mozambique - Urban,MOZ,MZ,0,,1
+mozt,Mozambique - Total,MOZ,MZ,1,0,0
+moztr,Mozambique - Rural,MOZ,MZ,0,0,1
+moztu,Mozambique - Urban,MOZ,MZ,0,0,1
 mrtr101,Mauritania - Hodh Charghi,MRT,MR,0,1,0
 mrtr102,Mauritania - Hodh Gharbi,MRT,MR,0,1,0
 mrtr103,Mauritania - Assaba,MRT,MR,0,1,0
@@ -843,15 +843,15 @@ mrtr109,Mauritania - Tagant,MRT,MR,0,1,0
 mrtr110,Mauritania - Guidimagha,MRT,MR,0,1,0
 mrtr111,Mauritania - Tiris-Zemmour,MRT,MR,0,1,0
 mrtr112,Mauritania - Inchiri,MRT,MR,0,1,0
-mrtt,Mauritania - Total,MRT,MR,1,,0
-mrttr,Mauritania - Rural,MRT,MR,0,,1
-mrttu,Mauritania - Urban,MRT,MR,0,,1
+mrtt,Mauritania - Total,MRT,MR,1,0,0
+mrttr,Mauritania - Rural,MRT,MR,0,0,1
+mrttu,Mauritania - Urban,MRT,MR,0,0,1
 musr101,"Mauritius - North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",MUS,MU,0,1,0
 musr102,"Mauritius - South (Grand Port, Savanne, Plaines Wilhems, Black River)",MUS,MU,0,1,0
 musr103,Mauritius - Rodrigues,MUS,MU,0,1,0
-must,Mauritius - Total,MUS,MU,1,,0
-mustr,Mauritius - Rural,MUS,MU,0,,1
-mustu,Mauritius - Urban,MUS,MU,0,,1
+must,Mauritius - Total,MUS,MU,1,0,0
+mustr,Mauritius - Rural,MUS,MU,0,0,1
+mustu,Mauritius - Urban,MUS,MU,0,0,1
 mwir101,Malawi - Blantyre,MWI,MW,0,1,0
 mwir102,Malawi - Kasungu,MWI,MW,0,1,0
 mwir103,Malawi - Machinga,MWI,MW,0,1,0
@@ -865,9 +865,9 @@ mwir110,Malawi - Mulanje,MWI,MW,0,1,0
 mwir111,"Malawi - Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",MWI,MW,0,1,0
 mwir112,"Malawi - Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)",MWI,MW,0,1,0
 mwir113,"Malawi - Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)",MWI,MW,0,1,0
-mwit,Malawi - Total,MWI,MW,1,,0
-mwitr,Malawi - Rural,MWI,MW,0,,1
-mwitu,Malawi - Urban,MWI,MW,0,,1
+mwit,Malawi - Total,MWI,MW,1,0,0
+mwitr,Malawi - Rural,MWI,MW,0,0,1
+mwitu,Malawi - Urban,MWI,MW,0,0,1
 mysr101,Malaysia - Johor,MYS,MY,0,1,0
 mysr102,Malaysia - Kedah,MYS,MY,0,1,0
 mysr103,Malaysia - Kelantan,MYS,MY,0,1,0
@@ -883,16 +883,16 @@ mysr112,Malaysia - Sabah,MYS,MY,0,1,0
 mysr113,Malaysia - Sarawak,MYS,MY,0,1,0
 mysr114,Malaysia - Kuala Lumpur Federal Territory,MYS,MY,0,1,0
 mysr115,Malaysia - Labuan Federal Territory,MYS,MY,0,1,0
-myst,Malaysia - Total,MYS,MY,1,,0
-mystr,Malaysia - Rural,MYS,MY,0,,1
-mystu,Malaysia - Urban,MYS,MY,0,,1
+myst,Malaysia - Total,MYS,MY,1,0,0
+mystr,Malaysia - Rural,MYS,MY,0,0,1
+mystu,Malaysia - Urban,MYS,MY,0,0,1
 namr201,Namibia -  Northwest,NAM,,0,1,0
 namr202,Namibia -  Northeast,NAM,,0,1,0
 namr203,Namibia -  Central,NAM,,0,1,0
 namr204,Namibia -  South,NAM,,0,1,0
-namt,Namibia - Total,NAM,,1,,0
-namtr,Namibia - Rural,NAM,,0,,1
-namtu,Namibia - Urban,NAM,,0,,1
+namt,Namibia - Total,NAM,,1,0,0
+namtr,Namibia - Rural,NAM,,0,0,1
+namtu,Namibia - Urban,NAM,,0,0,1
 namr101,Namibia - Caprivi,NAM,,0,1,0
 namr102,Namibia - Erongo,NAM,,0,1,0
 namr103,Namibia - Hardap,NAM,,0,1,0
@@ -913,39 +913,39 @@ nerr104,Niger - Maradi,NER,NE,0,1,0
 nerr105,Niger - Tillabery (incl Niamey),NER,NE,0,1,0
 nerr106,Niger - Tahoua,NER,NE,0,1,0
 nerr107,Niger - Zinder,NER,NE,0,1,0
-nert,Niger - Total,NER,NE,1,,0
-nertr,Niger - Rural,NER,NE,0,,1
-nertu,Niger - Urban,NER,NE,0,,1
+nert,Niger - Total,NER,NE,1,0,0
+nertr,Niger - Rural,NER,NE,0,0,1
+nertu,Niger - Urban,NER,NE,0,0,1
 ngar101,"Nigeria - North Central (Benue, Kwara, Niger, Plateau, Kogi, Nassarawa, Abuja (FCT))",NGA,NG,0,1,0
 ngar102,"Nigeria - North East (Bauchi, Borno, Adamawa, Taraba, Yobe, Gombe)",NGA,NG,0,1,0
 ngar103,"Nigeria - North West (Kaduna, Kano, Katsina, Sokoto, Jigawa, Kebbi, Zamfora)",NGA,NG,0,1,0
 ngar104,"Nigeria - South East (Anambra, Imo, Abia, Enugu, Ebonyi)",NGA,NG,0,1,0
 ngar105,"Nigeria - South South (Akwa Ibom, Edo, Cross River, Rivers, Delta, Bayelsa)",NGA,NG,0,1,0
 ngar106,"Nigeria - South West (Lagos, Ogun, Ondo, Oyo, Osun, Ekiti)",NGA,NG,0,1,0
-ngat,Nigeria - Total,NGA,NG,1,,0
-ngatr,Nigeria - Rural,NGA,NG,0,,1
-ngatu,Nigeria - Urban,NGA,NG,0,,1
+ngat,Nigeria - Total,NGA,NG,1,0,0
+ngatr,Nigeria - Rural,NGA,NG,0,0,1
+ngatu,Nigeria - Urban,NGA,NG,0,0,1
 nicr101,"Nicaragua - Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)",NIC,NI,0,1,0
 nicr102,"Nicaragua - Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)",NIC,NI,0,1,0
 nicr103,"Nicaragua - Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))",NIC,NI,0,1,0
-nict,Nicaragua - Total,NIC,NI,1,,0
-nictr,Nicaragua - Rural,NIC,NI,0,,1
-nictu,Nicaragua - Urban,NIC,NI,0,,1
+nict,Nicaragua - Total,NIC,NI,1,0,0
+nictr,Nicaragua - Rural,NIC,NI,0,0,1
+nictu,Nicaragua - Urban,NIC,NI,0,0,1
 nplr101,Nepal - Eastern,NPL,NP,0,1,0
 nplr102,Nepal - Central,NPL,NP,0,1,0
 nplr103,Nepal - Western,NPL,NP,0,1,0
 nplr104,Nepal - Mid-western,NPL,NP,0,1,0
 nplr105,Nepal - Far-western,NPL,NP,0,1,0
-nplt,Nepal - Total,NPL,NP,1,,0
-npltr,Nepal - Rural,NPL,NP,0,,1
-npltu,Nepal - Urban,NPL,NP,0,,1
+nplt,Nepal - Total,NPL,NP,1,0,0
+npltr,Nepal - Rural,NPL,NP,0,0,1
+npltu,Nepal - Urban,NPL,NP,0,0,1
 pakr101,Pakistan - Punjab (incl Islamabad),PAK,PK,0,1,0
 pakr102,Pakistan - Sindh,PAK,PK,0,1,0
 pakr103,Pakistan - Khyber Pakhtunkhwa (NWFrontier),PAK,PK,0,1,0
 pakr104,Pakistan - Balochistan,PAK,PK,0,1,0
-pakt,Pakistan - Total,PAK,PK,1,,0
-paktr,Pakistan - Rural,PAK,PK,0,,1
-paktu,Pakistan - Urban,PAK,PK,0,,1
+pakt,Pakistan - Total,PAK,PK,1,0,0
+paktr,Pakistan - Rural,PAK,PK,0,0,1
+paktu,Pakistan - Urban,PAK,PK,0,0,1
 pakr105,Pakistan - Gilgit Baltistan,PAK,PK,0,1,0
 panr101,Panama - Bocas del Toro,PAN,PA,0,1,0
 panr102,Panama - Cocle,PAN,PA,0,1,0
@@ -959,18 +959,18 @@ panr109,Panama - Veraguas,PAN,PA,0,1,0
 panr110,Panama - Kuna Yala,PAN,PA,0,1,0
 panr111,Panama - Embera Wounaan,PAN,PA,0,1,0
 panr112,Panama - Ngobe Bugle,PAN,PA,0,1,0
-pant,Panama - Total,PAN,PA,1,,0
-pantr,Panama - Rural,PAN,PA,0,,1
-pantu,Panama - Urban,PAN,PA,0,,1
+pant,Panama - Total,PAN,PA,1,0,0
+pantr,Panama - Rural,PAN,PA,0,0,1
+pantu,Panama - Urban,PAN,PA,0,0,1
 perr101,"Peru - North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",PER,PE,0,1,0
 perr102,"Peru - North East (Amazonas, Loreto, San Martin, Ucayali)",PER,PE,0,1,0
 perr103,"Peru - East (Madre de Dios, Cusco, Puno, Apurimac)",PER,PE,0,1,0
 perr104,"Peru - South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",PER,PE,0,1,0
 perr105,"Peru - West (Ancash, Lima, Callao)",PER,PE,0,1,0
 perr106,"Peru - Central (Huancavelica, Huanuco, Junin, Pasco)",PER,PE,0,1,0
-pert,Peru - Total,PER,PE,1,,0
-pertr,Peru - Rural,PER,PE,0,,1
-pertu,Peru - Urban,PER,PE,0,,1
+pert,Peru - Total,PER,PE,1,0,0
+pertr,Peru - Rural,PER,PE,0,0,1
+pertu,Peru - Urban,PER,PE,0,0,1
 phlr101,Philippines - National Capital Region,PHL,PH,0,1,0
 phlr102,Philippines - Cordillera Admin Region,PHL,PH,0,1,0
 phlr103,Philippines - I-Ilocos,PHL,PH,0,1,0
@@ -987,26 +987,26 @@ phlr113,Philippines - X-Northern Mindanao,PHL,PH,0,1,0
 phlr114,Philippines - XI-Davao,PHL,PH,0,1,0
 phlr115,Philippines - XII-SOCCSKSARGEN,PHL,PH,0,1,0
 phlr116,Philippines - XIII-Caraga,PHL,PH,0,1,0
-phlt,Philippines - Total,PHL,PH,1,,0
-phltr,Philippines - Rural,PHL,PH,0,,1
-phltu,Philippines - Urban,PHL,PH,0,,1
+phlt,Philippines - Total,PHL,PH,1,0,0
+phltr,Philippines - Rural,PHL,PH,0,0,1
+phltu,Philippines - Urban,PHL,PH,0,0,1
 phlr117,Philippines - ARMM,PHL,PH,0,1,0
 pryr101,"Paraguay - North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)",PRY,PY,0,1,0
 pryr102,"Paraguay - North-East (Caaguazu, Alto Parana, Canideyu)",PRY,PY,0,1,0
 pryr103,"Paraguay - South-West (Caazapa, Itapua)",PRY,PY,0,1,0
 pryr104,"Paraguay - South-East (Guaira, Misiones, Paraguari, Neembucu)",PRY,PY,0,1,0
 pryr105,"Paraguay - Central (Asuncion, Central)",PRY,PY,0,1,0
-pryt,Paraguay - Total,PRY,PY,1,,0
-prytr,Paraguay - Rural,PRY,PY,0,,1
-prytu,Paraguay - Urban,PRY,PY,0,,1
+pryt,Paraguay - Total,PRY,PY,1,0,0
+prytr,Paraguay - Rural,PRY,PY,0,0,1
+prytu,Paraguay - Urban,PRY,PY,0,0,1
 rwar101,Rwanda - City of Kigali,RWA,RW,0,1,0
 rwar102,Rwanda - South,RWA,RW,0,1,0
 rwar103,Rwanda - West,RWA,RW,0,1,0
 rwar104,Rwanda - North,RWA,RW,0,1,0
 rwar105,Rwanda - East,RWA,RW,0,1,0
-rwat,Rwanda - Total,RWA,RW,1,,0
-rwatr,Rwanda - Rural,RWA,RW,0,,1
-rwatu,Rwanda - Urban,RWA,RW,0,,1
+rwat,Rwanda - Total,RWA,RW,1,0,0
+rwatr,Rwanda - Rural,RWA,RW,0,0,1
+rwatu,Rwanda - Urban,RWA,RW,0,0,1
 sdnr101,Sudan - Northern,SDN,SD,0,1,0
 sdnr102,Sudan - Nahr El Nil,SDN,SD,0,1,0
 sdnr103,Sudan - Red Sea,SDN,SD,0,1,0
@@ -1022,9 +1022,9 @@ sdnr112,Sudan - South Kordofan,SDN,SD,0,1,0
 sdnr113,Sudan - North Darfur,SDN,SD,0,1,0
 sdnr114,Sudan - West Darfur,SDN,SD,0,1,0
 sdnr115,Sudan - South Darfur,SDN,SD,0,1,0
-sdnt,Sudan - Total,SDN,SD,1,,0
-sdntr,Sudan - Rural,SDN,SD,0,,1
-sdntu,Sudan - Urban,SDN,SD,0,,1
+sdnt,Sudan - Total,SDN,SD,1,0,0
+sdntr,Sudan - Rural,SDN,SD,0,0,1
+sdntu,Sudan - Urban,SDN,SD,0,0,1
 senr101,Senegal - Dakar,SEN,SN,0,1,0
 senr102,Senegal - Ziguinchor,SEN,SN,0,1,0
 senr103,Senegal - Diourbel,SEN,SN,0,1,0
@@ -1035,9 +1035,9 @@ senr107,Senegal - Thies,SEN,SN,0,1,0
 senr108,Senegal - Louga,SEN,SN,0,1,0
 senr109,Senegal - Fatick,SEN,SN,0,1,0
 senr110,Senegal - Kolda,SEN,SN,0,1,0
-sent,Senegal - Total,SEN,SN,1,,0
-sentr,Senegal - Rural,SEN,SN,0,,1
-sentu,Senegal - Urban,SEN,SN,0,,1
+sent,Senegal - Total,SEN,SN,1,0,0
+sentr,Senegal - Rural,SEN,SN,0,0,1
+sentu,Senegal - Urban,SEN,SN,0,0,1
 sler101,Sierra Leone - Bombali,SLE,SL,0,1,0
 sler102,Sierra Leone - Kambia,SLE,SL,0,1,0
 sler103,Sierra Leone - Koinadugu,SLE,SL,0,1,0
@@ -1052,9 +1052,9 @@ sler111,Sierra Leone - Moyamba,SLE,SL,0,1,0
 sler112,Sierra Leone - Pujehun,SLE,SL,0,1,0
 sler113,Sierra Leone - Western Rural,SLE,SL,0,1,0
 sler114,Sierra Leone - Western Urban,SLE,SL,0,1,0
-slet,Sierra Leone - Total,SLE,SL,1,,0
-sletr,Sierra Leone - Rural,SLE,SL,0,,1
-sletu,Sierra Leone - Urban,SLE,SL,0,,1
+slet,Sierra Leone - Total,SLE,SL,1,0,0
+sletr,Sierra Leone - Rural,SLE,SL,0,0,1
+sletu,Sierra Leone - Urban,SLE,SL,0,0,1
 somr101,"Somalia - W Galbeed, Awdal",SOM,SO,0,1,0
 somr102,"Somalia - Sanaag, Sool, Togdhere",SOM,SO,0,1,0
 somr103,"Somalia - Mudug, Nugal",SOM,SO,0,1,0
@@ -1065,9 +1065,9 @@ somr107,"Somalia - Hiran, Galguduud",SOM,SO,0,1,0
 somr108,Somalia - Middle Shabelle,SOM,SO,0,1,0
 somr109,Somalia - Lower Shabelle,SOM,SO,0,1,0
 somr110,Somalia - Banadir,SOM,SO,0,1,0
-somt,Somalia - Total,SOM,SO,1,,0
-somtr,Somalia - Rural,SOM,SO,0,,1
-somtu,Somalia - Urban,SOM,SO,0,,1
+somt,Somalia - Total,SOM,SO,1,0,0
+somtr,Somalia - Rural,SOM,SO,0,0,1
+somtu,Somalia - Urban,SOM,SO,0,0,1
 ssdr101,South Sudan - Upper Nile,SSD,SS,0,1,0
 ssdr102,South Sudan - Jonglei,SSD,SS,0,1,0
 ssdr103,South Sudan - Unity,SSD,SS,0,1,0
@@ -1078,31 +1078,31 @@ ssdr107,South Sudan - Lakes,SSD,SS,0,1,0
 ssdr108,South Sudan - Western Equatoria,SSD,SS,0,1,0
 ssdr109,South Sudan - Central Equatoria,SSD,SS,0,1,0
 ssdr110,South Sudan - Eastern Equatoria,SSD,SS,0,1,0
-ssdt,South Sudan - Total,SSD,SS,1,,0
-ssdtr,South Sudan - Rural,SSD,SS,0,,1
-ssdtu,South Sudan - Urban,SSD,SS,0,,1
+ssdt,South Sudan - Total,SSD,SS,1,0,0
+ssdtr,South Sudan - Rural,SSD,SS,0,0,1
+ssdtu,South Sudan - Urban,SSD,SS,0,0,1
 stpr101,Sao Tome & Principe - Regiao Centro,STP,ST,0,1,0
 stpr102,Sao Tome & Principe - Regiao Sul,STP,ST,0,1,0
 stpr103,Sao Tome & Principe - Regiao Norte,STP,ST,0,1,0
 stpr104,Sao Tome & Principe - Regiao do Principe,STP,ST,0,1,0
-stpt,Sao Tome & Principe - Total,STP,ST,1,,0
-stptr,Sao Tome & Principe - Rural,STP,ST,0,,1
-stptu,Sao Tome & Principe - Urban,STP,ST,0,,1
+stpt,Sao Tome & Principe - Total,STP,ST,1,0,0
+stptr,Sao Tome & Principe - Rural,STP,ST,0,0,1
+stptu,Sao Tome & Principe - Urban,STP,ST,0,0,1
 surr101,Suriname - Paramaribo,SUR,SR,0,1,0
 surr102,Suriname - Wanica and Para,SUR,SR,0,1,0
 surr103,"Suriname - Nickerie, Coronie and Saramacca",SUR,SR,0,1,0
 surr104,Suriname - Commewijne and Marowijne,SUR,SR,0,1,0
 surr105,Suriname - Brokopondo and Sipaliwini,SUR,SR,0,1,0
-surt,Suriname - Total,SUR,SR,1,,0
-surtr,Suriname - Rural,SUR,SR,0,,1
-surtu,Suriname - Urban,SUR,SR,0,,1
+surt,Suriname - Total,SUR,SR,1,0,0
+surtr,Suriname - Rural,SUR,SR,0,0,1
+surtu,Suriname - Urban,SUR,SR,0,0,1
 swzr101,Swaziland - Hhohho,SWZ,SZ,0,1,0
 swzr102,Swaziland - Manzini,SWZ,SZ,0,1,0
 swzr103,Swaziland - Shiselweni,SWZ,SZ,0,1,0
 swzr104,Swaziland - Lubombo,SWZ,SZ,0,1,0
-swzt,Swaziland - Total,SWZ,SZ,1,,0
-swztr,Swaziland - Rural,SWZ,SZ,0,,1
-swztu,Swaziland - Urban,SWZ,SZ,0,,1
+swzt,Swaziland - Total,SWZ,SZ,1,0,0
+swztr,Swaziland - Rural,SWZ,SZ,0,0,1
+swztu,Swaziland - Urban,SWZ,SZ,0,0,1
 syrr101,Syria - Damascus,SYR,SY,0,1,0
 syrr102,Syria - Rural Damascus,SYR,SY,0,1,0
 syrr103,Syria - Homs,SYR,SY,0,1,0
@@ -1117,9 +1117,9 @@ syrr111,Syria - Al Hasaka,SYR,SY,0,1,0
 syrr112,Syria - Al Swida - Sweida,SYR,SY,0,1,0
 syrr113,Syria - Daraa,SYR,SY,0,1,0
 syrr114,Syria - Al Qunitara - Quneitra,SYR,SY,0,1,0
-syrt,Syria - Total,SYR,SY,1,,0
-syrtr,Syria - Rural,SYR,SY,0,,1
-syrtu,Syria - Urban,SYR,SY,0,,1
+syrt,Syria - Total,SYR,SY,1,0,0
+syrtr,Syria - Rural,SYR,SY,0,0,1
+syrtu,Syria - Urban,SYR,SY,0,0,1
 tcdr101,Chad - Zone 1 (N'Djamena),TCD,TD,0,1,0
 tcdr102,"Chad - Zone 2 (BET (Borkou, Ennedi, Tibesti), Kanem (incl Barh El Gazal), Lac)",TCD,TD,0,1,0
 tcdr103,"Chad - Zone 3 (Guera, Batha Est & Ouest, Salamat)",TCD,TD,0,1,0
@@ -1128,42 +1128,42 @@ tcdr105,"Chad - Zone 5 (Chari-Baguirmi (Dababa, Baguirmi, Hadjer Lamis))",TCD,TD
 tcdr106,"Chad - Zone 6 (Mayo-Kebbi (Kabia, Mayo Boneye & Mayo Dala))",TCD,TD,0,1,0
 tcdr107,"Chad - Zone 7 (Logone Occidental, Logone Oriental (incl Monts de Lam), Tandjile Est & Ouest)",TCD,TD,0,1,0
 tcdr108,"Chad - Zone 8 (Moyen-Chari (Barh Koh, Mandoul, Lac Iro))",TCD,TD,0,1,0
-tcdt,Chad - Total,TCD,TD,1,,0
-tcdtr,Chad - Rural,TCD,TD,0,,1
-tcdtu,Chad - Urban,TCD,TD,0,,1
+tcdt,Chad - Total,TCD,TD,1,0,0
+tcdtr,Chad - Rural,TCD,TD,0,0,1
+tcdtu,Chad - Urban,TCD,TD,0,0,1
 tgor101,Togo - Lome,TGO,TG,0,1,0
 tgor102,Togo - Maritime,TGO,TG,0,1,0
 tgor103,Togo - Plateaux,TGO,TG,0,1,0
 tgor104,Togo - Centrale,TGO,TG,0,1,0
 tgor105,Togo - Kara,TGO,TG,0,1,0
 tgor106,Togo - Savanes,TGO,TG,0,1,0
-tgot,Togo - Total,TGO,TG,1,,0
-tgotr,Togo - Rural,TGO,TG,0,,1
-tgotu,Togo - Urban,TGO,TG,0,,1
+tgot,Togo - Total,TGO,TG,1,0,0
+tgotr,Togo - Rural,TGO,TG,0,0,1
+tgotu,Togo - Urban,TGO,TG,0,0,1
 thar101,"Thailand - Central, incl Bangkok",THA,TH,0,1,0
 thar102,Thailand - North,THA,TH,0,1,0
 thar103,Thailand - Northeast,THA,TH,0,1,0
 thar104,Thailand - South,THA,TH,0,1,0
-that,Thailand - Total,THA,TH,1,,0
-thatr,Thailand - Rural,THA,TH,0,,1
-thatu,Thailand - Urban,THA,TH,0,,1
+that,Thailand - Total,THA,TH,1,0,0
+thatr,Thailand - Rural,THA,TH,0,0,1
+thatu,Thailand - Urban,THA,TH,0,0,1
 tjkr101,Tajikistan - Duchanbe,TJK,TJ,0,1,0
 tjkr102,Tajikistan - Khatlon,TJK,TJ,0,1,0
 tjkr103,Tajikistan - Sughd (formerly Leninabad),TJK,TJ,0,1,0
 tjkr104,Tajikistan - DRS,TJK,TJ,0,1,0
 tjkr105,Tajikistan - GBAO,TJK,TJ,0,1,0
-tjkt,Tajikistan - Total,TJK,TJ,1,,0
-tjktr,Tajikistan - Rural,TJK,TJ,0,,1
-tjktu,Tajikistan - Urban,TJK,TJ,0,,1
+tjkt,Tajikistan - Total,TJK,TJ,1,0,0
+tjktr,Tajikistan - Rural,TJK,TJ,0,0,1
+tjktu,Tajikistan - Urban,TJK,TJ,0,0,1
 tkmr101,Turkmenistan - Ashgabat City,TKM,TM,0,1,0
 tkmr102,Turkmenistan - Akhal,TKM,TM,0,1,0
 tkmr103,Turkmenistan - Balkan,TKM,TM,0,1,0
 tkmr104,Turkmenistan - Dashoguz,TKM,TM,0,1,0
 tkmr105,Turkmenistan - Lebap,TKM,TM,0,1,0
 tkmr106,Turkmenistan - Mary,TKM,TM,0,1,0
-tkmt,Turkmenistan - Total,TKM,TM,1,,0
-tkmtr,Turkmenistan - Rural,TKM,TM,0,,1
-tkmtu,Turkmenistan - Urban,TKM,TM,0,,1
+tkmt,Turkmenistan - Total,TKM,TM,1,0,0
+tkmtr,Turkmenistan - Rural,TKM,TM,0,0,1
+tkmtu,Turkmenistan - Urban,TKM,TM,0,0,1
 tlsr101,Timor Leste - Aileu,TLS,TL,0,1,0
 tlsr102,Timor Leste - Ainaro,TLS,TL,0,1,0
 tlsr103,Timor Leste - Baucau,TLS,TL,0,1,0
@@ -1177,9 +1177,9 @@ tlsr110,Timor Leste - Manufahi,TLS,TL,0,1,0
 tlsr111,Timor Leste - Manatuto,TLS,TL,0,1,0
 tlsr112,Timor Leste - Oecussi,TLS,TL,0,1,0
 tlsr113,Timor Leste - Viqueque,TLS,TL,0,1,0
-tlst,Timor Leste - Total,TLS,TL,1,,0
-tlstr,Timor Leste - Rural,TLS,TL,0,,1
-tlstu,Timor Leste - Urban,TLS,TL,0,,1
+tlst,Timor Leste - Total,TLS,TL,1,0,0
+tlstr,Timor Leste - Rural,TLS,TL,0,0,1
+tlstu,Timor Leste - Urban,TLS,TL,0,0,1
 tunr101,"Tunisia - Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)",TUN,TN,0,1,0
 tunr102,"Tunisia - Nord Est (Nabeul, Zaghouan, Bizerte)",TUN,TN,0,1,0
 tunr103,"Tunisia - Nord Ouest (Beja, Jendouba, Kef, Siliana)",TUN,TN,0,1,0
@@ -1187,9 +1187,9 @@ tunr104,"Tunisia - Centre Ouest (Kairouan, Kasserine, Sidi Bouzid)",TUN,TN,0,1,0
 tunr105,"Tunisia - Centre Est (Sousse, Monastir, Mahdia, Sfax)",TUN,TN,0,1,0
 tunr106,"Tunisia - Sud Ouest (Gafsa, Tozeur, Kebili)",TUN,TN,0,1,0
 tunr107,"Tunisia - Sud Est (Gabes, Medinine, Tataouine)",TUN,TN,0,1,0
-tunt,Tunisia - Total,TUN,TN,1,,0
-tuntr,Tunisia - Rural,TUN,TN,0,,1
-tuntu,Tunisia - Urban,TUN,TN,0,,1
+tunt,Tunisia - Total,TUN,TN,1,0,0
+tuntr,Tunisia - Rural,TUN,TN,0,0,1
+tuntu,Tunisia - Urban,TUN,TN,0,0,1
 turr101,Turkey - Istanbul,TUR,TR,0,1,0
 turr102,"Turkey - West Marmara (Balikesir, Canakkale, Edirne, Kirklareli, Tekirdag)",TUR,TR,0,1,0
 turr103,"Turkey - Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Manisa, Mugla, Usak)",TUR,TR,0,1,0
@@ -1202,9 +1202,9 @@ turr109,"Turkey - East Black Sea (Artvin, Giresun, Gumushane, Ordu, Rize, Trabzo
 turr110,"Turkey - North East Anatolia (Agri, Erzincan, Erzurum, Kars, Bayburt, Ardahan, Igdir)",TUR,TR,0,1,0
 turr111,"Turkey - Central East Anatolia (Bingol, Bitlis, Elazig, Hakkari, Malatya, Mus, Tunceli, Van)",TUR,TR,0,1,0
 turr112,"Turkey - South East Anatolia (Adiyaman, Diyarbakir, Gaziantep, Mardin, Siirt, Sanliurfa, Batman, Sirnak, Kili",TUR,TR,0,1,0
-turt,Turkey - Total,TUR,TR,1,,0
-turtr,Turkey - Rural,TUR,TR,0,,1
-turtu,Turkey - Urban,TUR,TR,0,,1
+turt,Turkey - Total,TUR,TR,1,0,0
+turtr,Turkey - Rural,TUR,TR,0,0,1
+turtu,Turkey - Urban,TUR,TR,0,0,1
 tzar101,"Tanzania - Western (Tabora, Kigoma, Shinyanga)",TZA,TZ,0,1,0
 tzar102,"Tanzania - Northern (Arusha, Kilimanjaro, Tanga, Manyara)",TZA,TZ,0,1,0
 tzar103,"Tanzania - Central (Dodoma, Singida)",TZA,TZ,0,1,0
@@ -1213,24 +1213,24 @@ tzar105,"Tanzania - Lake (Kagera, Mwanza, Mara)",TZA,TZ,0,1,0
 tzar106,"Tanzania - Eastern (Morogoro, Pwani, Dar Es Salam)",TZA,TZ,0,1,0
 tzar107,"Tanzania - Southern (Lindi, Mtwara, Ruvuma)",TZA,TZ,0,1,0
 tzar108,"Tanzania - Zanzibar (Zanzibar North, Zanziba South, Town West, Pemba North, Pemba South)",TZA,TZ,0,1,0
-tzat,Tanzania - Total,TZA,TZ,1,,0
-tzatr,Tanzania - Rural,TZA,TZ,0,,1
-tzatu,Tanzania - Urban,TZA,TZ,0,,1
+tzat,Tanzania - Total,TZA,TZ,1,0,0
+tzatr,Tanzania - Rural,TZA,TZ,0,0,1
+tzatu,Tanzania - Urban,TZA,TZ,0,0,1
 ugar101,"Uganda - Central (Central 1, Central 2, Kampala)",UGA,UG,0,1,0
 ugar102,"Uganda - Eastern (Eastern, East Central)",UGA,UG,0,1,0
 ugar103,"Uganda - Northern (North, Karamoja, West Nile)",UGA,UG,0,1,0
 ugar104,"Uganda - Western (Western, Southwest)",UGA,UG,0,1,0
-ugat,Uganda - Total,UGA,UG,1,,0
-ugatr,Uganda - Rural,UGA,UG,0,,1
-ugatu,Uganda - Urban,UGA,UG,0,,1
+ugat,Uganda - Total,UGA,UG,1,0,0
+ugatr,Uganda - Rural,UGA,UG,0,0,1
+ugatu,Uganda - Urban,UGA,UG,0,0,1
 ukrr101,Ukraine - North,UKR,UA,0,1,0
 ukrr102,Ukraine - Central,UKR,UA,0,1,0
 ukrr103,Ukraine - East,UKR,UA,0,1,0
 ukrr104,Ukraine - South,UKR,UA,0,1,0
 ukrr105,Ukraine - West,UKR,UA,0,1,0
-ukrt,Ukraine - Total,UKR,UA,1,,0
-ukrtr,Ukraine - Rural,UKR,UA,0,,1
-ukrtu,Ukraine - Urban,UKR,UA,0,,1
+ukrt,Ukraine - Total,UKR,UA,1,0,0
+ukrtr,Ukraine - Rural,UKR,UA,0,0,1
+ukrtu,Ukraine - Urban,UKR,UA,0,0,1
 uryr101,Uruguay - Montevideo and Metropolitan area,URY,UY,0,1,0
 uryr102,"Uruguay - Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)",URY,UY,0,1,0
 uryr103,"Uruguay - Costa Este (Canelones, Maldonado and Rocha)",URY,UY,0,1,0
@@ -1238,17 +1238,17 @@ uryr104,"Uruguay - Litoral Sur (Soriano, Colonia and San Jose)",URY,UY,0,1,0
 uryr105,Uruguay - Centro (Durazno and Tacuarembo),URY,UY,0,1,0
 uryr106,"Uruguay - Centro Sur (Flores, Florida and Lavalleja)",URY,UY,0,1,0
 uryr107,"Uruguay - Litoral Norte (Paysandu, Salto and Río Negro)",URY,UY,0,1,0
-uryt,Uruguay - Total,URY,UY,1,,0
-urytr,Uruguay - Rural,URY,UY,0,,1
-urytu,Uruguay - Urban,URY,UY,0,,1
+uryt,Uruguay - Total,URY,UY,1,0,0
+urytr,Uruguay - Rural,URY,UY,0,0,1
+urytu,Uruguay - Urban,URY,UY,0,0,1
 uzbr101,Uzbekistan - Western,UZB,UZ,0,1,0
 uzbr102,Uzbekistan - Central,UZB,UZ,0,1,0
 uzbr103,Uzbekistan - Southern,UZB,UZ,0,1,0
 uzbr104,Uzbekistan - Central East,UZB,UZ,0,1,0
 uzbr105,Uzbekistan - East,UZB,UZ,0,1,0
-uzbt,Uzbekistan - Total,UZB,UZ,1,,0
-uzbtr,Uzbekistan - Rural,UZB,UZ,0,,1
-uzbtu,Uzbekistan - Urban,UZB,UZ,0,,1
+uzbt,Uzbekistan - Total,UZB,UZ,1,0,0
+uzbtr,Uzbekistan - Rural,UZB,UZ,0,0,1
+uzbtu,Uzbekistan - Urban,UZB,UZ,0,0,1
 uzbr106,Uzbekistan - Tashkent,UZB,UZ,0,1,0
 venr101,Venezuela - Federal District,VEN,VE,0,1,0
 venr102,Venezuela - Amazonas Federal Territory,VEN,VE,0,1,0
@@ -1274,18 +1274,18 @@ venr121,Venezuela - Trujillo,VEN,VE,0,1,0
 venr122,Venezuela - Yaracuy,VEN,VE,0,1,0
 venr123,Venezuela - Zulia,VEN,VE,0,1,0
 venr124,Venezuela - Vargas,VEN,VE,0,1,0
-vent,Venezuela - Total,VEN,VE,1,,0
-ventr,Venezuela - Rural,VEN,VE,0,,1
-ventu,Venezuela - Urban,VEN,VE,0,,1
+vent,Venezuela - Total,VEN,VE,1,0,0
+ventr,Venezuela - Rural,VEN,VE,0,0,1
+ventu,Venezuela - Urban,VEN,VE,0,0,1
 vnmr101,Vietnam - Red River Delta,VNM,VN,0,1,0
 vnmr102,"Vietnam - North East, North West",VNM,VN,0,1,0
 vnmr103,Vietnam - North Central Coast and South Central Coast,VNM,VN,0,1,0
 vnmr104,Vietnam - Central Highlands,VNM,VN,0,1,0
 vnmr105,Vietnam - South East,VNM,VN,0,1,0
 vnmr106,Vietnam - Mekong River Delta,VNM,VN,0,1,0
-vnmt,Vietnam - Total,VNM,VN,1,,0
-vnmtr,Vietnam - Rural,VNM,VN,0,,1
-vnmtu,Vietnam - Urban,VNM,VN,0,,1
+vnmt,Vietnam - Total,VNM,VN,1,0,0
+vnmtr,Vietnam - Rural,VNM,VN,0,0,1
+vnmtu,Vietnam - Urban,VNM,VN,0,0,1
 vutr101,Vanuatu - Tafea,VUT,VU,0,1,0
 vutr102,Vanuatu - Shefa,VUT,VU,0,1,0
 vutr103,Vanuatu - Malampa,VUT,VU,0,1,0
@@ -1294,9 +1294,9 @@ vutr105,Vanuatu - Sanma,VUT,VU,0,1,0
 vutr106,Vanuatu - Torba,VUT,VU,0,1,0
 vutr107,Vanuatu - Port Vila,VUT,VU,0,1,0
 vutr108,Vanuatu - Luganville,VUT,VU,0,1,0
-vutt,Vanuatu - Total,VUT,VU,1,,0
-vuttr,Vanuatu - Rural,VUT,VU,0,,1
-vuttu,Vanuatu - Urban,VUT,VU,0,,1
+vutt,Vanuatu - Total,VUT,VU,1,0,0
+vuttr,Vanuatu - Rural,VUT,VU,0,0,1
+vuttu,Vanuatu - Urban,VUT,VU,0,0,1
 yemr101,Yemen - Ibb,YEM,YE,0,1,0
 yemr102,"Yemen - Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",YEM,YE,0,1,0
 yemr103,"Yemen - Sana a (capital; Al Amana), Sana a (governorate)",YEM,YE,0,1,0
@@ -1305,9 +1305,9 @@ yemr105,Yemen - Taiz,YEM,YE,0,1,0
 yemr106,"Yemen - Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",YEM,YE,0,1,0
 yemr107,"Yemen - Hajja, Sada, Amran (Omran)",YEM,YE,0,1,0
 yemr108,"Yemen - Hodeida (Al Hudaydah), Mahweit (Al Mahwit)",YEM,YE,0,1,0
-yemt,Yemen - Total,YEM,YE,1,,0
-yemtr,Yemen - Rural,YEM,YE,0,,1
-yemtu,Yemen - Urban,YEM,YE,0,,1
+yemt,Yemen - Total,YEM,YE,1,0,0
+yemtr,Yemen - Rural,YEM,YE,0,0,1
+yemtu,Yemen - Urban,YEM,YE,0,0,1
 zafr101,South Africa - Western Cape,ZAF,ZA,0,1,0
 zafr102,South Africa - Eastern Cape,ZAF,ZA,0,1,0
 zafr103,South Africa - Northern Cape,ZAF,ZA,0,1,0
@@ -1317,9 +1317,9 @@ zafr106,South Africa - North West,ZAF,ZA,0,1,0
 zafr107,South Africa - Gauteng,ZAF,ZA,0,1,0
 zafr108,South Africa - Mpumalanga,ZAF,ZA,0,1,0
 zafr109,South Africa - Northern Province,ZAF,ZA,0,1,0
-zaft,South Africa - Total,ZAF,ZA,1,,0
-zaftr,South Africa - Rural,ZAF,ZA,0,,1
-zaftu,South Africa - Urban,ZAF,ZA,0,,1
+zaft,South Africa - Total,ZAF,ZA,1,0,0
+zaftr,South Africa - Rural,ZAF,ZA,0,0,1
+zaftu,South Africa - Urban,ZAF,ZA,0,0,1
 zmbr101,Zambia - Central,ZMB,ZM,0,1,0
 zmbr102,Zambia - Copperbelt,ZMB,ZM,0,1,0
 zmbr103,Zambia - Eastern,ZMB,ZM,0,1,0
@@ -1329,9 +1329,9 @@ zmbr106,Zambia - Northern,ZMB,ZM,0,1,0
 zmbr107,Zambia - North-Western,ZMB,ZM,0,1,0
 zmbr108,Zambia - Southern,ZMB,ZM,0,1,0
 zmbr109,Zambia - Western,ZMB,ZM,0,1,0
-zmbt,Zambia - Total,ZMB,ZM,1,,0
-zmbtr,Zambia - Rural,ZMB,ZM,0,,1
-zmbtu,Zambia - Urban,ZMB,ZM,0,,1
+zmbt,Zambia - Total,ZMB,ZM,1,0,0
+zmbtr,Zambia - Rural,ZMB,ZM,0,0,1
+zmbtu,Zambia - Urban,ZMB,ZM,0,0,1
 zwer101,Zimbabwe - Manicaland,ZWE,ZW,0,1,0
 zwer102,Zimbabwe - Mashonaland Central,ZWE,ZW,0,1,0
 zwer103,Zimbabwe - Mashonaland East,ZWE,ZW,0,1,0
@@ -1342,6 +1342,6 @@ zwer107,Zimbabwe - Midlands,ZWE,ZW,0,1,0
 zwer108,Zimbabwe - Masvingo,ZWE,ZW,0,1,0
 zwer109,Zimbabwe - Harare,ZWE,ZW,0,1,0
 zwer110,Zimbabwe - Bulawayo,ZWE,ZW,0,1,0
-zwet,Zimbabwe - Total,ZWE,ZW,1,,0
-zwetr,Zimbabwe - Rural,ZWE,ZW,0,,1
-zwetu,Zimbabwe - Urban,ZWE,ZW,0,,1
+zwet,Zimbabwe - Total,ZWE,ZW,1,0,0
+zwetr,Zimbabwe - Rural,ZWE,ZW,0,0,1
+zwetu,Zimbabwe - Urban,ZWE,ZW,0,0,1
