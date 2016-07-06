@@ -1,0 +1,166 @@
+Variable,Category,Shortdescr,Longdescr
+iso_code,System,ISO country code 3 digit,
+ISO2,System,ISO regio code two digit,
+country,System,Country name,
+year,System,Year of data collection,
+datasource,System,Source of data,"DHS=Demographic & Health Survey, MICS=UNICEF Multiple Indicator Cluster Survey, IPUMS=Census Data, CHIP=China Household Income Project, HFS=China Household Finance Survey, PAPFAM=Pan Arabic Family Project, SAGHS=South African General Household Survey, Afrobar=Afrobarometers"
+GDLCODE,System,Region code Global Data Lab,"Iso-code, level (t=total, u=urban, r=rural), regional division (1=most important, 2=secondary division, etc.), region number"
+level,System,Aggregation level,"National, urban or rural, sub-national"
+region,System,Sub-national region name,Name of sub-national region
+N,System,Number of individual cases in dataset for region,Number of individual cases in dataset for region
+Nhh,System,Number of households in dataset for region,Number of households in dataset for region
+iwi,Wealth & Poverty,Mean International Wealth Index score of region,Mean International Wealth Index score of region
+iwipov50,Wealth & Poverty,% poor households (with IWI value under 50),Percentage of households with an IWI value under 50
+iwipov35,Wealth & Poverty,% poorest households (with IWI value under 35),Percentage of households with an IWI value under 35
+edyr20,Educational level,Mean years education of adults aged 20+ in region,Mean years education of adults aged 20+ in region
+womedyr20,Educational level,Mean years education of women aged 20+ in region,Mean years education of women aged 20+ in region
+menedyr20,Educational level,Mean years education of men aged 20+ in region,Mean years education of men aged 20+ in region
+edyr2039,Educational level,Mean years education of adults aged 20-39 in region,Mean years education of adults aged 20-39 in region
+womedyr2039,Educational level,Mean years education of women aged 20-39 in region,Mean years education of women aged 20-39 in region
+menedyr2039,Educational level,Mean years education of men aged 20-39 in region,Mean years education of men aged 20-39 in region
+edyr4059,Educational level,Mean years education of adults aged 40-59 in region,Mean years education of adults aged 40-59 in region
+womedyr4059,Educational level,Mean years education of women aged 40-59 in region,Mean years education of women aged 40-59 in region
+menedyr4059,Educational level,Mean years education of men aged 40-59 in region,Mean years education of men aged 40-59 in region
+edyr60,Educational level,Mean years education of adults aged 60+ in region,Mean years education of adults aged 60+ in region
+womedyr60,Educational level,Mean years education of women aged 60+ in region,Mean years education of women aged 60+ in region
+menedyr60,Educational level,Mean years education of men aged 60+ in region,Mean years education of men aged 60+ in region
+lprimary,Educational attendance,Educational attendance children 6-8,Percentage of children aged 6-8 that currently attends or in the current school year attended school
+uprimary,Educational attendance,Educational attendance children 9-11,Percentage of children aged 9-11 that currently attends or in the current school year attended school
+lsecondary,Educational attendance,Educational attendance children 12-14,Percentage of children aged 12-14 that currently attends or in the current school year attended school
+usecondary,Educational attendance,Educational attendance children 15-17,Percentage of children aged 15-17 that currently attends or in the current school year attended school
+tertiary,Educational attendance,Educational attendance children 18-21,Percentage of children aged 18-21 that currently attends or in the current school year attended school
+tv,Assets,% households with a TV in region,Percentage of households with a TV in region
+fridge,Assets,% households with a fridge in region,Percentage of households with a fridge in region
+cellphone,Assets,% households with a cellphone in region,Percentage of households with a cellphone in region
+phone,Assets,% households with a phone in region,Percentage of households with a phone in region
+agedifmar,Gender,Mean age difference partners (husband-wife) in region,Mean age difference between partners in region (age male household head minus age female partner of head) in region
+agemarw20,Gender,Mean age at first marriage of women aged 20-50 in region,Mean age at first marriage of women aged 20-50 in region
+age1chw20,Gender,Mean age at first birth of women aged 20-50 in region,Mean age at first birth of women aged 20-50 in region
+womo40,Gender,% of women in 40+ population,Percentage of population aged 40+ that is woman in region
+tfr,Fertility,Total fertility rate,Total fertility rate
+stunting,Child stunting and wasting,Percentage of stunted children,Percentage of children aged 0–59 months who are below minus two standard deviations from median height-for-age of the WHO Child Growth Standards
+stuntingmod,Child stunting and wasting,Percentage of moderately stunted children,Percentage of children aged 0–59 months who are between minus two and minus three standard deviations from median height-for-age of the WHO Child Growth Standards
+stuntingsev,Child stunting and wasting,Percentage of severely stunted children,Percentage of children aged 0–59 months who are below minus three standard deviations from median height-for-age of the WHO Child Growth Standards
+haz,Child stunting and wasting,Height-for-age z-score,Number of SD below or above the median height-for-age of the WHO Growth Standard
+underweight,Child stunting and wasting,Percentage of underweight children,Percentage of children aged 0–59 months who are below minus two standard deviations from median weight-for-age of the World Health Organization (WHO) Child Growth Standards
+underweightmod,Child stunting and wasting,Percentage of moderately underweight children,Percentage of children aged 0–59 months who are between minus two and minus three standard deviations from median weight-for-age of the World Health Organization (WHO) Child Growth Standards
+underweightsev,Child stunting and wasting,Percentage of severely underweight children,Percentage of children aged 0–59 months who are below minus three standard deviations from median weight-for-age of the World Health Organization (WHO) Child Growth Standards
+waz,Child stunting and wasting,Weight-for-age z-score,Number of SD below or above the median weight-for-age of the WHO Growth Standard
+wasting,Child stunting and wasting,Percentage of wasted children,Percentage of children aged 0–59 months who are below minus two standard deviations from median weight-for-height of the WHO Child Growth Standards
+wastingmod,Child stunting and wasting,Percentage of moderately wasted children,Percentage of children aged 0–59 months who are between minus two and minus three standard deviations from median weight-for-height of the WHO Child Growth Standards
+wastingsev,Child stunting and wasting,Percentage of severely wasted children,Percentage of children aged 0–59 months who are below minus three standard deviations from median weight-for-height of the WHO Child Growth Standards
+whz,Child stunting and wasting,Weight-for-height z-score,Number of SD below or above the median weight-for-height of the WHO Growth Standard
+overweight,Child stunting and wasting,Percentage of overweight children,Percentage of children aged 0-59 months who are above two standard deviations from median weight-for-height of the WHO Child Growth Standards
+obesity,Child stunting and wasting,Percentage of obese children,Percentage of children aged 0-59 months who are above three standard deviations from median weight-for-height of the WHO Child Growth Standards
+bmiz,Child stunting and wasting,BMI-for-age z-score,Number of SD below or above the median BMI-for-age of the WHO Growth Standard
+bcgage1,Vaccinations,% children aged 1 withBCG,Percentage of children aged 1 who received a BCG vaccination
+dtp1age1,Vaccinations,% children aged 1 with DTP1,Percentage of children aged 1 who received a DTP1 vaccination
+dtp2age1,Vaccinations,% children aged 1 with DTP2,Percentage of children aged 1 who received a DTP2 vaccination
+dtp3age1,Vaccinations,% children aged 1 with DTP3,Percentage of children aged 1 who received a DTP3 vaccination
+measlage1,Vaccinations,% children aged 1 with measles,Percentage of children aged 1 who received a measles vaccination
+regpopm,Population,Total area population in millions,Total area population in millions
+popshare,Population,Share of population living in area,Share of national population living in area
+age09,Population,% population aged 0-9 in region,Percentage of national population aged 0-9 in region
+age1019,Population,% population aged 10-19 in region,Percentage of national population aged 10-19 in region
+age2029,Population,% population aged 20-29 in region,Percentage of national population aged 20-29 in region
+age3039,Population,% population aged 30-39 in region,Percentage of national population aged 30-39 in region
+age4049,Population,% population aged 40-49 in region,Percentage of national population aged 40-49 in region
+age5059,Population,% population aged 50-59 in region,Percentage of national population aged 50-59 in region
+age6069,Population,% population aged 60-69 in region,Percentage of national population aged 60-69 in region
+age7079,Population,% population aged 70-79 in region,Percentage of national population aged 70-79 in region
+age8089,Population,% population aged 80-89 in region,Percentage of national population aged 80-89 in region
+age90hi,Population,% population aged 90+ in region,Percentage of national population aged 90+ in region
+hhsize,Population,Average household size in region,Average household size in region
+depratio,Demographic window,Dependency ratio,"Dependency ratio, dependend population compared to the working age population (15-64)"
+youthdepr,Demographic window,Youth dependency ratio,"Youth dependency ratio, the young (<15) compared to the working age population (15-64)"
+olddepr,Demographic window,Old age dependency ratio,"Old age dependency ratio, the old (>64) compared to the working age populations (15-64)"
+popyoung,Demographic window,% population aged under 15,Percentage of population in region under age 15
+popworkage,Demographic window,% population aged 15-65,Percentage of population in region aged 15 to 65
+popold,Demographic window,% population aged over 65,Percentage of population in region over 65
+nnmort,Child mortality,Neo-natal mortality rate,"Number of neonates dying before 28 days of age, per 1,000 live births in a given year"
+pnnmort,Child mortality,Post-neonatal mortality rate,"Number of children dying between 29 days of age and one year, per 1,000 live births in a given year"
+infmort,Child mortality,Infant mortality rate,"Number of deaths of children less than one year of age, per 1000 live births in a given year"
+chmort,Child mortality,Child mortality rate,"Number of children dying between 1 year of age and five year of age, per 1,000 live births in a given year"
+u5mort,Child mortality,Under five mortality rate,"Number of children dying under five year of age, per 1,000 live births in a given year"
+pipedwater,Public services,% household with piped water in region,Percentage of household with piped water in region
+electr,Public services,% households with electricity in region,Percentage of households with electricity in region
+flushtoilet,Quality of housing,% households with flush toilet in region,Percentage of households with flush toilet in region
+smallhouse,Quality of housing,% households with none or one sleeping room in region,Percentage of households with none or one sleeping room in region
+modsizehouse,Quality of housing,% households with two sleeping rooms in region,Percentage of households with two sleeping rooms in region
+largehouse,Quality of housing,% households with three or more sleeping rooms in region,Percentage of households with three or more sleeping rooms in region
+naturalfloor,Quality of housing,"% households with high a natural floor (earth, sand, dung etc) in region","Percentage of households with high a natural floor (earth, sand, dung etc) in region"
+cookwood,Quality of housing,"% households cooking on wood, straw, grass, dung etc","Percentage of households cooking on wood, straw, grass, dung etc"
+niwi,System,Number of Cases Aggregation Mean International Wealth Index score of region,Mean International Wealth Index score of region
+niwipov50,System,Number of Cases Aggregation % poor households (with IWI value under 50),Percentage of households with an IWI value under 50
+niwipov35,System,Number of Cases Aggregation % poorest households (with IWI value under 35),Percentage of households with an IWI value under 35
+nedyr20,System,Number of Cases Aggregation Mean years education of adults aged 20+ in region,Mean years education of adults aged 20+ in region
+nwomedyr20,System,Number of Cases Aggregation Mean years education of women aged 20+ in region,Mean years education of women aged 20+ in region
+nmenedyr20,System,Number of Cases Aggregation Mean years education of men aged 20+ in region,Mean years education of men aged 20+ in region
+nedyr2039,System,Number of Cases Aggregation Mean years education of adults aged 20-39 in region,Mean years education of adults aged 20-39 in region
+nwomedyr2039,System,Number of Cases Aggregation Mean years education of women aged 20-39 in region,Mean years education of women aged 20-39 in region
+nmenedyr2039,System,Number of Cases Aggregation Mean years education of men aged 20-39 in region,Mean years education of men aged 20-39 in region
+nedyr4059,System,Number of Cases Aggregation Mean years education of adults aged 40-59 in region,Mean years education of adults aged 40-59 in region
+nwomedyr4059,System,Number of Cases Aggregation Mean years education of women aged 40-59 in region,Mean years education of women aged 40-59 in region
+nmenedyr4059,System,Number of Cases Aggregation Mean years education of men aged 40-59 in region,Mean years education of men aged 40-59 in region
+nedyr60,System,Number of Cases Aggregation Mean years education of adults aged 60+ in region,Mean years education of adults aged 60+ in region
+nwomedyr60,System,Number of Cases Aggregation Mean years education of women aged 60+ in region,Mean years education of women aged 60+ in region
+nmenedyr60,System,Number of Cases Aggregation Mean years education of men aged 60+ in region,Mean years education of men aged 60+ in region
+nlprimary,System,Number of Cases Aggregation Educational attendance children 6-8,Percentage of children aged 6-8 that currently attends or in the current school year attended school
+nuprimary,System,Number of Cases Aggregation Educational attendance children 9-11,Percentage of children aged 9-11 that currently attends or in the current school year attended school
+nlsecondary,System,Number of Cases Aggregation Educational attendance children 12-14,Percentage of children aged 12-14 that currently attends or in the current school year attended school
+nusecondary,System,Number of Cases Aggregation Educational attendance children 15-17,Percentage of children aged 15-17 that currently attends or in the current school year attended school
+ntertiary,System,Number of Cases Aggregation Educational attendance children 18-21,Percentage of children aged 18-21 that currently attends or in the current school year attended school
+ntv,System,Number of Cases Aggregation % households with a TV in region,Percentage of households with a TV in region
+nfridge,System,Number of Cases Aggregation % households with a fridge in region,Percentage of households with a fridge in region
+ncellphone,System,Number of Cases Aggregation % households with a cellphone in region,Percentage of households with a cellphone in region
+nphone,System,Number of Cases Aggregation % households with a phone in region,Percentage of households with a phone in region
+nagedifmar,System,Number of Cases Aggregation Mean age difference partners (husband-wife) in region,Mean age difference between partners in region (age male household head minus age female partner of head) in region
+nagemarw20,System,Number of Cases Aggregation Mean age at first marriage of women aged 20-50 in region,Mean age at first marriage of women aged 20-50 in region
+nage1chw20,System,Number of Cases Aggregation Mean age at first birth of women aged 20-50 in region,Mean age at first birth of women aged 20-50 in region
+nwomo40,System,Number of Cases Aggregation % of women in 40+ population,Percentage of population aged 40+ that is woman in region
+ntfr,System,Number of Cases Aggregation Total fertility rate,Total fertility rate
+nstunting,System,Number of Cases Aggregation Percentage of stunted children,Percentage of children aged 0–59 months who are below minus two standard deviations from median height-for-age of the WHO Child Growth Standards
+nstuntingmod,System,Number of Cases Aggregation Percentage of moderately stunted children,Percentage of children aged 0–59 months who are between minus two and minus three standard deviations from median height-for-age of the WHO Child Growth Standards
+nstuntingsev,System,Number of Cases Aggregation Percentage of severely stunted children,Percentage of children aged 0–59 months who are below minus three standard deviations from median height-for-age of the WHO Child Growth Standards
+nhaz,System,Number of Cases Aggregation Height-for-age z-score,Number of SD below or above the median height-for-age of the WHO Growth Standard
+nunderweight,System,Number of Cases Aggregation Percentage of underweight children,Percentage of children aged 0–59 months who are below minus two standard deviations from median weight-for-age of the World Health Organization (WHO) Child Growth Standards
+nunderweightmod,System,Number of Cases Aggregation Percentage of moderately underweight children,Percentage of children aged 0–59 months who are between minus two and minus three standard deviations from median weight-for-age of the World Health Organization (WHO) Child Growth Standards
+nunderweightsev,System,Number of Cases Aggregation Percentage of severely underweight children,Percentage of children aged 0–59 months who are below minus three standard deviations from median weight-for-age of the World Health Organization (WHO) Child Growth Standards
+nwaz,System,Number of Cases Aggregation Weight-for-age z-score,Number of SD below or above the median weight-for-age of the WHO Growth Standard
+nwasting,System,Number of Cases Aggregation Percentage of wasted children,Percentage of children aged 0–59 months who are below minus two standard deviations from median weight-for-height of the WHO Child Growth Standards
+nwastingmod,System,Number of Cases Aggregation Percentage of moderately wasted children,Percentage of children aged 0–59 months who are between minus two and minus three standard deviations from median weight-for-height of the WHO Child Growth Standards
+nwastingsev,System,Number of Cases Aggregation Percentage of severely wasted children,Percentage of children aged 0–59 months who are below minus three standard deviations from median weight-for-height of the WHO Child Growth Standards
+nwhz,System,Number of Cases Aggregation Weight-for-height z-score,Number of SD below or above the median weight-for-height of the WHO Growth Standard
+noverweight,System,Number of Cases Aggregation Percentage of overweight children,Percentage of children aged 0-59 months who are above two standard deviations from median weight-for-height of the WHO Child Growth Standards
+nobesity,System,Number of Cases Aggregation Percentage of obese children,Percentage of children aged 0-59 months who are above three standard deviations from median weight-for-height of the WHO Child Growth Standards
+nbmiz,System,Number of Cases Aggregation BMI-for-age z-score,Number of SD below or above the median BMI-for-age of the WHO Growth Standard
+nbcgage1,System,Number of Cases Aggregation % children aged 1 withBCG,Percentage of children aged 1 who received a BCG vaccination
+ndtp1age1,System,Number of Cases Aggregation % children aged 1 with DTP1,Percentage of children aged 1 who received a DTP1 vaccination
+ndtp2age1,System,Number of Cases Aggregation % children aged 1 with DTP2,Percentage of children aged 1 who received a DTP2 vaccination
+ndtp3age1,System,Number of Cases Aggregation % children aged 1 with DTP3,Percentage of children aged 1 who received a DTP3 vaccination
+nmeaslage1,System,Number of Cases Aggregation % children aged 1 with measles,Percentage of children aged 1 who received a measles vaccination
+nage09,System,Number of Cases Aggregation % population aged 0-9 in region,Percentage of national population aged 0-9 in region
+nage1019,System,Number of Cases Aggregation % population aged 10-19 in region,Percentage of national population aged 10-19 in region
+nage2029,System,Number of Cases Aggregation % population aged 20-29 in region,Percentage of national population aged 20-29 in region
+nage3039,System,Number of Cases Aggregation % population aged 30-39 in region,Percentage of national population aged 30-39 in region
+nage4049,System,Number of Cases Aggregation % population aged 40-49 in region,Percentage of national population aged 40-49 in region
+nage5059,System,Number of Cases Aggregation % population aged 50-59 in region,Percentage of national population aged 50-59 in region
+nage6069,System,Number of Cases Aggregation % population aged 60-69 in region,Percentage of national population aged 60-69 in region
+nage7079,System,Number of Cases Aggregation % population aged 70-79 in region,Percentage of national population aged 70-79 in region
+nage8089,System,Number of Cases Aggregation % population aged 80-89 in region,Percentage of national population aged 80-89 in region
+nage90hi,System,Number of Cases Aggregation % population aged 90+ in region,Percentage of national population aged 90+ in region
+nhhsize,System,Number of Cases Aggregation Average household size in region,Average household size in region
+ndepratio,System,Number of Cases Aggregation Dependency ratio,"Dependency ratio, dependend population compared to the working age population (15-64)"
+nyouthdepr,System,Number of Cases Aggregation Youth dependency ratio,"Youth dependency ratio, the young (<15) compared to the working age population (15-64)"
+nolddepr,System,Number of Cases Aggregation Old age dependency ratio,"Old age dependency ratio, the old (>64) compared to the working age populations (15-64)"
+npopyoung,System,Number of Cases Aggregation % population aged under 15,Percentage of population in region under age 15
+npopworkage,System,Number of Cases Aggregation % population aged 15-65,Percentage of population in region aged 15 to 65
+npopold,System,Number of Cases Aggregation % population aged over 65,Percentage of population in region over 65
+npipedwater,System,Number of Cases Aggregation % household with piped water in region,Percentage of household with piped water in region
+nelectr,System,Number of Cases Aggregation % households with electricity in region,Percentage of households with electricity in region
+nflushtoilet,System,Number of Cases Aggregation % households with flush toilet in region,Percentage of households with flush toilet in region
+nsmallhouse,System,Number of Cases Aggregation % households with none or one sleeping room in region,Percentage of households with none or one sleeping room in region
+nmodsizehouse,System,Number of Cases Aggregation % households with two sleeping rooms in region,Percentage of households with two sleeping rooms in region
+nlargehouse,System,Number of Cases Aggregation % households with three or more sleeping rooms in region,Percentage of households with three or more sleeping rooms in region
+nnaturalfloor,System,"Number of Cases Aggregation % households with high a natural floor (earth, sand, dung etc) in region","Percentage of households with high a natural floor (earth, sand, dung etc) in region"
+ncookwood,System,"Number of Cases Aggregation % households cooking on wood, straw, grass, dung etc","Percentage of households cooking on wood, straw, grass, dung etc"
