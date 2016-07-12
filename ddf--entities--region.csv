@@ -691,12 +691,12 @@ laor117,Lao - Attapeu,LAO,LA,0,1,0
 laot,Lao - Total,LAO,LA,1,0,0
 laotr,Lao - Rural,LAO,LA,0,0,1
 laotu,Lao - Urban,LAO,LA,0,0,1
-lbrr201,Liberia -  Monrovia,LBR,LR,0,1,0
-lbrr202,Liberia -  North Western,LBR,LR,0,1,0
-lbrr203,Liberia -  South Central,LBR,LR,0,1,0
-lbrr204,Liberia -  South Eastern A,LBR,LR,0,1,0
-lbrr205,Liberia -  South Eastern B,LBR,LR,0,1,0
-lbrr206,Liberia -  North Central,LBR,LR,0,1,0
+lbrr201,Liberia - Monrovia,LBR,LR,0,1,0
+lbrr202,Liberia - North Western,LBR,LR,0,1,0
+lbrr203,Liberia - South Central,LBR,LR,0,1,0
+lbrr204,Liberia - South Eastern A,LBR,LR,0,1,0
+lbrr205,Liberia - South Eastern B,LBR,LR,0,1,0
+lbrr206,Liberia - North Central,LBR,LR,0,1,0
 lbrt,Liberia - Total,LBR,LR,1,0,0
 lbrtr,Liberia - Rural,LBR,LR,0,0,1
 lbrtu,Liberia - Urban,LBR,LR,0,0,1
@@ -886,10 +886,10 @@ mysr115,Malaysia - Labuan Federal Territory,MYS,MY,0,1,0
 myst,Malaysia - Total,MYS,MY,1,0,0
 mystr,Malaysia - Rural,MYS,MY,0,0,1
 mystu,Malaysia - Urban,MYS,MY,0,0,1
-namr201,Namibia -  Northwest,NAM,,0,1,0
-namr202,Namibia -  Northeast,NAM,,0,1,0
-namr203,Namibia -  Central,NAM,,0,1,0
-namr204,Namibia -  South,NAM,,0,1,0
+namr201,Namibia - Northwest,NAM,,0,1,0
+namr202,Namibia - Northeast,NAM,,0,1,0
+namr203,Namibia - Central,NAM,,0,1,0
+namr204,Namibia - South,NAM,,0,1,0
 namt,Namibia - Total,NAM,,1,0,0
 namtr,Namibia - Rural,NAM,,0,0,1
 namtu,Namibia - Urban,NAM,,0,0,1
