@@ -7,6 +7,7 @@ source: http://globaldatalab.org/areadata/
 - There is an indicator named `totpopm` in the data file. But there is no description
 for this indicator in the description file.
 
-## TODO
 
-script not ready
+## Notes
+
+The number of cases data (in NGDL-AreaData200.csv) are not in this repo yet. 
