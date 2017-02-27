@@ -1,0 +1,1724 @@
+{
+    "name": "ddf--gdl--area_db",
+    "language": {
+        "id": "en"
+    },
+    "resources": [
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "longdescr"
+                    },
+                    {
+                        "name": "concept_type"
+                    },
+                    {
+                        "name": "drillups"
+                    },
+                    {
+                        "name": "domain"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        },
+        {
+            "path": "ddf--datapoints--age09--by--region--year.csv",
+            "name": "ddf--datapoints--age09--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age09"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age1019--by--region--year.csv",
+            "name": "ddf--datapoints--age1019--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age1019"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age1chw20--by--region--year.csv",
+            "name": "ddf--datapoints--age1chw20--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age1chw20"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age2029--by--region--year.csv",
+            "name": "ddf--datapoints--age2029--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age2029"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age3039--by--region--year.csv",
+            "name": "ddf--datapoints--age3039--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age3039"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age4049--by--region--year.csv",
+            "name": "ddf--datapoints--age4049--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age4049"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age5059--by--region--year.csv",
+            "name": "ddf--datapoints--age5059--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age5059"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age6069--by--region--year.csv",
+            "name": "ddf--datapoints--age6069--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age6069"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age7079--by--region--year.csv",
+            "name": "ddf--datapoints--age7079--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age7079"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age8089--by--region--year.csv",
+            "name": "ddf--datapoints--age8089--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age8089"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--age90hi--by--region--year.csv",
+            "name": "ddf--datapoints--age90hi--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "age90hi"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--agedifmar--by--region--year.csv",
+            "name": "ddf--datapoints--agedifmar--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "agedifmar"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--agemarw20--by--region--year.csv",
+            "name": "ddf--datapoints--agemarw20--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "agemarw20"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--bcgage1--by--region--year.csv",
+            "name": "ddf--datapoints--bcgage1--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "bcgage1"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--bmiz--by--region--year.csv",
+            "name": "ddf--datapoints--bmiz--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "bmiz"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--cellphone--by--region--year.csv",
+            "name": "ddf--datapoints--cellphone--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "cellphone"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--cookwood--by--region--year.csv",
+            "name": "ddf--datapoints--cookwood--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "cookwood"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--depratio--by--region--year.csv",
+            "name": "ddf--datapoints--depratio--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "depratio"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--dtp1age1--by--region--year.csv",
+            "name": "ddf--datapoints--dtp1age1--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "dtp1age1"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--dtp2age1--by--region--year.csv",
+            "name": "ddf--datapoints--dtp2age1--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "dtp2age1"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--dtp3age1--by--region--year.csv",
+            "name": "ddf--datapoints--dtp3age1--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "dtp3age1"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--edyr20--by--region--year.csv",
+            "name": "ddf--datapoints--edyr20--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "edyr20"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--edyr2039--by--region--year.csv",
+            "name": "ddf--datapoints--edyr2039--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "edyr2039"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--edyr4059--by--region--year.csv",
+            "name": "ddf--datapoints--edyr4059--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "edyr4059"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--edyr60--by--region--year.csv",
+            "name": "ddf--datapoints--edyr60--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "edyr60"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--electr--by--region--year.csv",
+            "name": "ddf--datapoints--electr--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "electr"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--flushtoilet--by--region--year.csv",
+            "name": "ddf--datapoints--flushtoilet--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "flushtoilet"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--fridge--by--region--year.csv",
+            "name": "ddf--datapoints--fridge--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "fridge"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--haz--by--region--year.csv",
+            "name": "ddf--datapoints--haz--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "haz"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--hhsize--by--region--year.csv",
+            "name": "ddf--datapoints--hhsize--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "hhsize"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--iwi--by--region--year.csv",
+            "name": "ddf--datapoints--iwi--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "iwi"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--iwipov35--by--region--year.csv",
+            "name": "ddf--datapoints--iwipov35--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "iwipov35"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--iwipov50--by--region--year.csv",
+            "name": "ddf--datapoints--iwipov50--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "iwipov50"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--largehouse--by--region--year.csv",
+            "name": "ddf--datapoints--largehouse--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "largehouse"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--lprimary--by--region--year.csv",
+            "name": "ddf--datapoints--lprimary--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "lprimary"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--lsecondary--by--region--year.csv",
+            "name": "ddf--datapoints--lsecondary--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "lsecondary"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--measlage1--by--region--year.csv",
+            "name": "ddf--datapoints--measlage1--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "measlage1"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--menedyr20--by--region--year.csv",
+            "name": "ddf--datapoints--menedyr20--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "menedyr20"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--menedyr2039--by--region--year.csv",
+            "name": "ddf--datapoints--menedyr2039--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "menedyr2039"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--menedyr4059--by--region--year.csv",
+            "name": "ddf--datapoints--menedyr4059--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "menedyr4059"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--menedyr60--by--region--year.csv",
+            "name": "ddf--datapoints--menedyr60--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "menedyr60"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--modsizehouse--by--region--year.csv",
+            "name": "ddf--datapoints--modsizehouse--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "modsizehouse"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--n--by--region--year.csv",
+            "name": "ddf--datapoints--n--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "n"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--naturalfloor--by--region--year.csv",
+            "name": "ddf--datapoints--naturalfloor--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "naturalfloor"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--nhh--by--region--year.csv",
+            "name": "ddf--datapoints--nhh--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "nhh"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--obesity--by--region--year.csv",
+            "name": "ddf--datapoints--obesity--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "obesity"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--olddepr--by--region--year.csv",
+            "name": "ddf--datapoints--olddepr--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "olddepr"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--overweight--by--region--year.csv",
+            "name": "ddf--datapoints--overweight--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "overweight"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--phone--by--region--year.csv",
+            "name": "ddf--datapoints--phone--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "phone"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--pipedwater--by--region--year.csv",
+            "name": "ddf--datapoints--pipedwater--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "pipedwater"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--popold--by--region--year.csv",
+            "name": "ddf--datapoints--popold--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "popold"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--popshare--by--region--year.csv",
+            "name": "ddf--datapoints--popshare--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "popshare"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--popworkage--by--region--year.csv",
+            "name": "ddf--datapoints--popworkage--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "popworkage"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--popyoung--by--region--year.csv",
+            "name": "ddf--datapoints--popyoung--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "popyoung"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--regpopm--by--region--year.csv",
+            "name": "ddf--datapoints--regpopm--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "regpopm"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--smallhouse--by--region--year.csv",
+            "name": "ddf--datapoints--smallhouse--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "smallhouse"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--stunting--by--region--year.csv",
+            "name": "ddf--datapoints--stunting--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "stunting"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--stuntingmod--by--region--year.csv",
+            "name": "ddf--datapoints--stuntingmod--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "stuntingmod"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--stuntingsev--by--region--year.csv",
+            "name": "ddf--datapoints--stuntingsev--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "stuntingsev"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--tertiary--by--region--year.csv",
+            "name": "ddf--datapoints--tertiary--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "tertiary"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--tfr--by--region--year.csv",
+            "name": "ddf--datapoints--tfr--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "tfr"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--totpopm--by--region--year.csv",
+            "name": "ddf--datapoints--totpopm--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "totpopm"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--tv--by--region--year.csv",
+            "name": "ddf--datapoints--tv--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "tv"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--underweight--by--region--year.csv",
+            "name": "ddf--datapoints--underweight--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "underweight"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--underweightmod--by--region--year.csv",
+            "name": "ddf--datapoints--underweightmod--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "underweightmod"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--underweightsev--by--region--year.csv",
+            "name": "ddf--datapoints--underweightsev--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "underweightsev"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--uprimary--by--region--year.csv",
+            "name": "ddf--datapoints--uprimary--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "uprimary"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--usecondary--by--region--year.csv",
+            "name": "ddf--datapoints--usecondary--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "usecondary"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--wasting--by--region--year.csv",
+            "name": "ddf--datapoints--wasting--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "wasting"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--wastingmod--by--region--year.csv",
+            "name": "ddf--datapoints--wastingmod--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "wastingmod"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--wastingsev--by--region--year.csv",
+            "name": "ddf--datapoints--wastingsev--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "wastingsev"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--waz--by--region--year.csv",
+            "name": "ddf--datapoints--waz--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "waz"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--whz--by--region--year.csv",
+            "name": "ddf--datapoints--whz--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "whz"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--womedyr20--by--region--year.csv",
+            "name": "ddf--datapoints--womedyr20--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "womedyr20"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--womedyr2039--by--region--year.csv",
+            "name": "ddf--datapoints--womedyr2039--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "womedyr2039"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--womedyr4059--by--region--year.csv",
+            "name": "ddf--datapoints--womedyr4059--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "womedyr4059"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--womedyr60--by--region--year.csv",
+            "name": "ddf--datapoints--womedyr60--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "womedyr60"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--womo40--by--region--year.csv",
+            "name": "ddf--datapoints--womo40--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "womo40"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--youthdepr--by--region--year.csv",
+            "name": "ddf--datapoints--youthdepr--by--region--year",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "youthdepr"
+                    }
+                ],
+                "primaryKey": [
+                    "region",
+                    "year"
+                ]
+            }
+        },
+        {
+            "path": "ddf--entities--region.csv",
+            "name": "ddf--entities--region",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "region"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "iso_code"
+                    },
+                    {
+                        "name": "iso2"
+                    },
+                    {
+                        "name": "is--country"
+                    },
+                    {
+                        "name": "is--sub_nation"
+                    },
+                    {
+                        "name": "is--urb_rur"
+                    }
+                ],
+                "primaryKey": "region"
+            }
+        }
+    ]
+}
