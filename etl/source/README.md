@@ -1,7 +1,6 @@
 # Source files
 
-The data displayed in the GDL Area Database can be downloaded here: GDL-AreaData200.csv
+You need to register an account in GDL website to download the data files.
 
-Information on the number of cases used for computing the indicators is available here: NGDL-AreaData200.csv
-
-The labels of the variables displayed in the GDL Area Database are available here: GDL-AreaData200-Variabledescription.csv
+- GDL-AreaData401-Variabledescription (1).csv
+- GDL-AreaData402 (1).csv
