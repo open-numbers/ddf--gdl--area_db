@@ -1,0 +1,263 @@
+urb_rur,gdlcode,is--urb_rur,national,name
+afgtr,AFGtr,TRUE,afgt,Afghanistan - Rural
+afgtu,AFGtu,TRUE,afgt,Afghanistan - Urban
+agotr,AGOtr,TRUE,agot,Angola - Rural
+agotu,AGOtu,TRUE,agot,Angola - Urban
+albtr,ALBtr,TRUE,albt,Albania - Rural
+albtu,ALBtu,TRUE,albt,Albania - Urban
+argtu,ARGtu,TRUE,argtt,Argentina - Urban
+armtr,ARMtr,TRUE,armt,Armenia - Rural
+armtu,ARMtu,TRUE,armt,Armenia - Urban
+azetr,AZEtr,TRUE,azet,Azerbaijan - Rural
+azetu,AZEtu,TRUE,azet,Azerbaijan - Urban
+bditr,BDItr,TRUE,bdit,Burundi - Rural
+bditu,BDItu,TRUE,bdit,Burundi - Urban
+bentr,BENtr,TRUE,bent,Benin - Rural
+bentu,BENtu,TRUE,bent,Benin - Urban
+bfatr,BFAtr,TRUE,bfat,Burkina Faso - Rural
+bfatu,BFAtu,TRUE,bfat,Burkina Faso - Urban
+bgdtr,BGDtr,TRUE,bgdt,Bangladesh - Rural
+bgdtu,BGDtu,TRUE,bgdt,Bangladesh - Urban
+bihtr,BIHtr,TRUE,biht,Bosnia Herzegovina - Rural
+bihtu,BIHtu,TRUE,biht,Bosnia Herzegovina - Urban
+blrtr,BLRtr,TRUE,blrt,Belarus - Rural
+blrtu,BLRtu,TRUE,blrt,Belarus - Urban
+blztr,BLZtr,TRUE,blzt,Belize - Rural
+blztu,BLZtu,TRUE,blzt,Belize - Urban
+boltr,BOLtr,TRUE,bolt,Bolivia - Rural
+boltu,BOLtu,TRUE,bolt,Bolivia - Urban
+bratr,BRAtr,TRUE,brat,Brazil - Rural
+bratu,BRAtu,TRUE,brat,Brazil - Urban
+brbtr,BRBtr,TRUE,brbt,Barbados - Rural
+brbtu,BRBtu,TRUE,brbt,Barbados - Urban
+btntr,BTNtr,TRUE,btnt,Bhutan - Rural
+btntu,BTNtu,TRUE,btnt,Bhutan - Urban
+bwatr,BWAtr,TRUE,bwat,Botswana - Rural
+bwatu,BWAtu,TRUE,bwat,Botswana - Urban
+caftr,CAFtr,TRUE,caft,Central African Republic CAR - Rural
+caftu,CAFtu,TRUE,caft,Central African Republic CAR - Urban
+chltr,CHLtr,TRUE,chlt,Chili - Rural
+chltu,CHLtu,TRUE,chlt,Chili - Urban
+chntr,CHNtr,TRUE,chyt,China - Rural
+chntu,CHNtu,TRUE,chyt,China - Urban
+civtr,CIVtr,TRUE,civt,Cote d'Ivoire - Rural
+civtu,CIVtu,TRUE,civt,Cote d'Ivoire - Urban
+cmrtr,CMRtr,TRUE,cmrt,Cameroon - Rural
+cmrtu,CMRtu,TRUE,cmrt,Cameroon - Urban
+codtr,CODtr,TRUE,codt,Congo Democratic Republic - Rural
+codtu,CODtu,TRUE,codt,Congo Democratic Republic - Urban
+cogtr,COGtr,TRUE,cogt,Congo Brazzaville - Rural
+cogtu,COGtu,TRUE,cogt,Congo Brazzaville - Urban
+coltr,COLtr,TRUE,colt,Colombia - Rural
+coltu,COLtu,TRUE,colt,Colombia - Urban
+comtr,COMtr,TRUE,comt,Comoros - Rural
+comtu,COMtu,TRUE,comt,Comoros - Urban
+cpvtr,CPVtr,TRUE,cpvt,Cape Verde - Rural
+cpvtu,CPVtu,TRUE,cpvt,Cape Verde - Urban
+critr,CRItr,TRUE,crit,Costa Rica - Rural
+critu,CRItu,TRUE,crit,Costa Rica - Urban
+cubtr,CUBtr,TRUE,cubt,Cuba - Rural
+cubtu,CUBtu,TRUE,cubt,Cuba - Urban
+djir,DJIr,TRUE,djit,Djibouti - Rural
+djiu,DJIu,TRUE,djit,Djibouti - Urban
+domtr,DOMtr,TRUE,domt,Dominican Republic - Rural
+domtu,DOMtu,TRUE,domt,Dominican Republic - Urban
+dzatr,DZAtr,TRUE,dzat,Algeria - Rural
+dzatu,DZAtu,TRUE,dzat,Algeria - Urban
+ecutr,ECUtr,TRUE,ecut,Ecuador - Rural
+ecutu,ECUtu,TRUE,ecut,Ecuador - Urban
+egytr,EGYtr,TRUE,egyt,Egypt - Rural
+egytu,EGYtu,TRUE,egyt,Egypt - Urban
+eritr,ERItr,TRUE,erit,Eritrea - Rural
+eritu,ERItu,TRUE,erit,Eritrea - Urban
+ethtr,ETHtr,TRUE,etht,Ethiopia - Rural
+ethtu,ETHtu,TRUE,etht,Ethiopia - Urban
+fjitr,FJItr,TRUE,fjit,Fiji - Rural
+fjitu,FJItu,TRUE,fjit,Fiji - Urban
+gabtr,GABtr,TRUE,gabt,Gabon - Rural
+gabtu,GABtu,TRUE,gabt,Gabon - Urban
+geotr,GEOtr,TRUE,geot,Georgia - Rural
+geotu,GEOtu,TRUE,geot,Georgia - Urban
+ghatr,GHAtr,TRUE,ghat,Ghana - Rural
+ghatu,GHAtu,TRUE,ghat,Ghana - Urban
+gintr,GINtr,TRUE,gint,Guinea - Rural
+gintu,GINtu,TRUE,gint,Guinea - Urban
+gmbtr,GMBtr,TRUE,gmbt,Gambia - Rural
+gmbtu,GMBtu,TRUE,gmbt,Gambia - Urban
+gnbtr,GNBtr,TRUE,gnbt,Guinea Bissau - Rural
+gnbtu,GNBtu,TRUE,gnbt,Guinea Bissau - Urban
+gnqtr,GNQtr,TRUE,gnqt,Equatorial Guinea - Rural
+gnqtu,GNQtu,TRUE,gnqt,Equatorial Guinea - Urban
+gtmtr,GTMtr,TRUE,gtmt,Guatemala - Rural
+gtmtu,GTMtu,TRUE,gtmt,Guatemala - Urban
+guytr,GUYtr,TRUE,guyt,Guyana - Rural
+guytu,GUYtu,TRUE,guyt,Guyana - Urban
+hndtr,HNDtr,TRUE,hndt,Honduras - Rural
+hndtu,HNDtu,TRUE,hndt,Honduras - Urban
+htitr,HTItr,TRUE,htit,Haiti - Rural
+htitu,HTItu,TRUE,htit,Haiti - Urban
+idntr,IDNtr,TRUE,idnt,Indonesia - Rural
+idntu,IDNtu,TRUE,idnt,Indonesia - Urban
+indtr,INDtr,TRUE,indt,India - Rural
+indtu,INDtu,TRUE,indt,India - Urban
+irntr,IRNtr,TRUE,irnt,Iran - Rural
+irntu,IRNtu,TRUE,irnt,Iran - Urban
+irqtr,IRQtr,TRUE,irqt,Iraq - Rural
+irqtu,IRQtu,TRUE,irqt,Iraq - Urban
+jamtr,JAMtr,TRUE,jamt,Jamaica - Rural
+jamtu,JAMtu,TRUE,jamt,Jamaica - Urban
+jortr,JORtr,TRUE,jort,Jordan - Rural
+jortu,JORtu,TRUE,jort,Jordan - Urban
+kaztr,KAZtr,TRUE,kazt,Kazakhstan - Rural
+kaztu,KAZtu,TRUE,kazt,Kazakhstan - Urban
+kentr,KENtr,TRUE,kent,Kenya - Rural
+kentu,KENtu,TRUE,kent,Kenya - Urban
+kgztr,KGZtr,TRUE,kgzt,Kyrgyzstan - Rural
+kgztu,KGZtu,TRUE,kgzt,Kyrgyzstan - Urban
+khmtr,KHMtr,TRUE,khmt,Cambodia - Rural
+khmtu,KHMtu,TRUE,khmt,Cambodia - Urban
+kirtr,KIRtr,TRUE,kirt,Kiribati - Rural
+kirtu,KIRtu,TRUE,kirt,Kiribati - Urban
+kwttu,KWTtu,TRUE,kwtt,Kuwait - Urban
+laotr,LAOtr,TRUE,laot,Lao - Rural
+laotu,LAOtu,TRUE,laot,Lao - Urban
+lbntr,LBNtr,TRUE,lbnt,Lebanon - Rural
+lbntu,LBNtu,TRUE,lbnt,Lebanon - Urban
+lbrtr,LBRtr,TRUE,lbrt,Liberia - Rural
+lbrtu,LBRtu,TRUE,lbrt,Liberia - Urban
+lbytr,LBYtr,TRUE,lbyt,Libya - Rural
+lbytu,LBYtu,TRUE,lbyt,Libya - Urban
+lcatr,LCAtr,TRUE,lcat,Saint Lucia - Rural
+lcatu,LCAtu,TRUE,lcat,Saint Lucia - Urban
+lsotr,LSOtr,TRUE,lsot,Lesotho - Rural
+lsotu,LSOtu,TRUE,lsot,Lesotho - Urban
+martr,MARtr,TRUE,mart,Morocco - Rural
+martu,MARtu,TRUE,mart,Morocco - Urban
+mdatr,MDAtr,TRUE,mdat,Moldova - Rural
+mdatu,MDAtu,TRUE,mdat,Moldova - Urban
+mdgtr,MDGtr,TRUE,mdgt,Madagascar - Rural
+mdgtu,MDGtu,TRUE,mdgt,Madagascar - Urban
+mdvtr,MDVtr,TRUE,mdvt,Maldives - Rural
+mdvtu,MDVtu,TRUE,mdvt,Maldives - Urban
+mextr,MEXtr,TRUE,mext,Mexico - Rural
+mextu,MEXtu,TRUE,mext,Mexico - Urban
+mkdtr,MKDtr,TRUE,mkdt,North Macedonia - Rural
+mkdtu,MKDtu,TRUE,mkdt,North Macedonia - Urban
+mlitr,MLItr,TRUE,mlit,Mali - Rural
+mlitu,MLItu,TRUE,mlit,Mali - Urban
+mmrtr,MMRtr,TRUE,mmrt,Myanmar - Rural
+mmrtu,MMRtu,TRUE,mmrt,Myanmar - Urban
+mnetr,MNEtr,TRUE,mnet,Monte Negro - Rural
+mnetu,MNEtu,TRUE,mnet,Monte Negro - Urban
+mngtr,MNGtr,TRUE,mngt,Mongolia - Rural
+mngtu,MNGtu,TRUE,mngt,Mongolia - Urban
+moztr,MOZtr,TRUE,mozt,Mozambique - Rural
+moztu,MOZtu,TRUE,mozt,Mozambique - Urban
+mrttr,MRTtr,TRUE,mrtt,Mauritania - Rural
+mrttu,MRTtu,TRUE,mrtt,Mauritania - Urban
+mustr,MUStr,TRUE,must,Mauritius - Rural
+mustu,MUStu,TRUE,must,Mauritius - Urban
+mwitr,MWItr,TRUE,mwit,Malawi - Rural
+mwitu,MWItu,TRUE,mwit,Malawi - Urban
+mystr,MYStr,TRUE,myst,Malaysia - Rural
+mystu,MYStu,TRUE,myst,Malaysia - Urban
+namtr,NAMtr,TRUE,namt,Namibia - Rural
+namtu,NAMtu,TRUE,namt,Namibia - Urban
+nertr,NERtr,TRUE,nert,Niger - Rural
+nertu,NERtu,TRUE,nert,Niger - Urban
+ngatr,NGAtr,TRUE,ngat,Nigeria - Rural
+ngatu,NGAtu,TRUE,ngat,Nigeria - Urban
+nictr,NICtr,TRUE,nict,Nicaragua - Rural
+nictu,NICtu,TRUE,nict,Nicaragua - Urban
+npltr,NPLtr,TRUE,nplt,Nepal - Rural
+npltu,NPLtu,TRUE,nplt,Nepal - Urban
+paktr,PAKtr,TRUE,pakt,Pakistan - Rural
+paktu,PAKtu,TRUE,pakt,Pakistan - Urban
+pantr,PANtr,TRUE,pant,Panama - Rural
+pantu,PANtu,TRUE,pant,Panama - Urban
+pertr,PERtr,TRUE,pert,Peru - Rural
+pertu,PERtu,TRUE,pert,Peru - Urban
+phltr,PHLtr,TRUE,phlt,Philippines - Rural
+phltu,PHLtu,TRUE,phlt,Philippines - Urban
+pngtr,PNGtr,TRUE,pngt,Papua New Guinea - Rural
+pngtu,PNGtu,TRUE,pngt,Papua New Guinea - Urban
+prytr,PRYtr,TRUE,pryt,Paraguay - Rural
+prytu,PRYtu,TRUE,pryt,Paraguay - Urban
+psetr,PSEtr,TRUE,pset,Palestine - Rural
+psetu,PSEtu,TRUE,pset,Palestine - Urban
+rwatr,RWAtr,TRUE,rwat,Rwanda - Rural
+rwatu,RWAtu,TRUE,rwat,Rwanda - Urban
+sautr,SAUtr,TRUE,saut,Saudi Arabia - Rural
+sautu,SAUtu,TRUE,saut,Saudi Arabia - Urban
+sdntr,SDNtr,TRUE,sdnt,Sudan - Rural
+sdntu,SDNtu,TRUE,sdnt,Sudan - Urban
+sentr,SENtr,TRUE,sent,Senegal - Rural
+sentu,SENtu,TRUE,sent,Senegal - Urban
+sletr,SLEtr,TRUE,slet,Sierra Leone - Rural
+sletu,SLEtu,TRUE,slet,Sierra Leone - Urban
+slvtr,SLVtr,TRUE,slvt,El Salvador - Rural
+slvtu,SLVtu,TRUE,slvt,El Salvador - Urban
+somtr,SOMtr,TRUE,somt,Somalia - Rural
+somtu,SOMtu,TRUE,somt,Somalia - Urban
+srbtr,SRBtr,TRUE,srbt,Serbia - Rural
+srbtu,SRBtu,TRUE,srbt,Serbia - Urban
+ssdtr,SSDtr,TRUE,ssdt,South Sudan - Rural
+ssdtu,SSDtu,TRUE,ssdt,South Sudan - Urban
+stptr,STPtr,TRUE,stpt,Sao Tome & Principe - Rural
+stptu,STPtu,TRUE,stpt,Sao Tome & Principe - Urban
+surtr,SURtr,TRUE,surt,Suriname - Rural
+surtu,SURtu,TRUE,surt,Suriname - Urban
+swztr,SWZtr,TRUE,swzt,Eswatini - Rural
+swztu,SWZtu,TRUE,swzt,Eswatini - Urban
+syrtr,SYRtr,TRUE,syrt,Syria - Rural
+syrtu,SYRtu,TRUE,syrt,Syria - Urban
+tcdtr,TCDtr,TRUE,tcdt,Chad - Rural
+tcdtu,TCDtu,TRUE,tcdt,Chad - Urban
+tgotr,TGOtr,TRUE,tgot,Togo - Rural
+tgotu,TGOtu,TRUE,tgot,Togo - Urban
+thatr,THAtr,TRUE,that,Thailand - Rural
+thatu,THAtu,TRUE,that,Thailand - Urban
+tjktr,TJKtr,TRUE,tjkt,Tajikistan - Rural
+tjktu,TJKtu,TRUE,tjkt,Tajikistan - Urban
+tkmtr,TKMtr,TRUE,tkmt,Turkmenistan - Rural
+tkmtu,TKMtu,TRUE,tkmt,Turkmenistan - Urban
+tlstr,TLStr,TRUE,tlst,Timor Leste - Rural
+tlstu,TLStu,TRUE,tlst,Timor Leste - Urban
+tontr,TONtr,TRUE,tont,Tonga - Rural
+tontu,TONtu,TRUE,tont,Tonga - Urban
+ttor,TTOr,TRUE,ttot,Trinidad & Tobago - Rural
+ttou,TTOu,TRUE,ttot,Trinidad & Tobago - Urban
+tuntr,TUNtr,TRUE,tunt,Tunisia - Rural
+tuntu,TUNtu,TRUE,tunt,Tunisia - Urban
+turtr,TURtr,TRUE,turt,Turkey - Rural
+turtu,TURtu,TRUE,turt,Turkey - Urban
+tuvtr,TUVtr,TRUE,tuv,Tuvalu - Rural
+tuvtu,TUVtu,TRUE,tuv,Tuvalu - Urban
+tzatr,TZAtr,TRUE,tzat,Tanzania - Rural
+tzatu,TZAtu,TRUE,tzat,Tanzania - Urban
+ugatr,UGAtr,TRUE,ugat,Uganda - Rural
+ugatu,UGAtu,TRUE,ugat,Uganda - Urban
+ukrtr,UKRtr,TRUE,ukrt,Ukraine - Rural
+ukrtu,UKRtu,TRUE,ukrt,Ukraine - Urban
+urytr,URYtr,TRUE,uryt,Uruguay - Rural
+urytu,URYtu,TRUE,uryt,Uruguay - Urban
+uzbtr,UZBtr,TRUE,uzbt,Uzbekistan - Rural
+uzbtu,UZBtu,TRUE,uzbt,Uzbekistan - Urban
+ventr,VENtr,TRUE,vent,Venezuela - Rural
+ventu,VENtu,TRUE,vent,Venezuela - Urban
+vnmtr,VNMtr,TRUE,vnmt,Vietnam - Rural
+vnmtu,VNMtu,TRUE,vnmt,Vietnam - Urban
+vuttr,VUTtr,TRUE,vutt,Vanuatu - Rural
+vuttu,VUTtu,TRUE,vutt,Vanuatu - Urban
+wsmtr,WSMtr,TRUE,wsmt,Samoa - Rural
+wsmtu,WSMtu,TRUE,wsmt,Samoa - Urban
+ksvtr,KSVtr,TRUE,ksvt,Kosovo - Rural
+ksvtu,KSVtu,TRUE,ksvt,Kosovo - Urban
+yemtr,YEMtr,TRUE,yemt,Yemen - Rural
+yemtu,YEMtu,TRUE,yemt,Yemen - Urban
+zaftr,ZAFtr,TRUE,zaft,South Africa - Rural
+zaftu,ZAFtu,TRUE,zaft,South Africa - Urban
+zmbtr,ZMBtr,TRUE,zmbt,Zambia - Rural
+zmbtu,ZMBtu,TRUE,zmbt,Zambia - Urban
+zwetr,ZWEtr,TRUE,zwet,Zimbabwe - Rural
+zwetu,ZWEtu,TRUE,zwet,Zimbabwe - Urban

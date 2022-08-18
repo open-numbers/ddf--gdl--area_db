@@ -5,12 +5,12 @@ import numpy as np
 import os
 
 from ddf_utils.str import to_concept_id
-from ddf_utils.index import create_index_file
+# from ddf_utils.package import create_datapackage
 
 
 # configuration of file path
-data_file = '../source/GDL-AreaData200.csv'
-desc_file = '../source/GDL-AreaData200-Variabledescription.csv'
+data_file = '../source/GDL-AreaData402 (1).csv'
+desc_file = '../source/GDL-AreaData401-Variabledescription (1).csv'
 out_dir = '../../'
 
 
@@ -131,9 +131,6 @@ if __name__ == '__main__':
     for k, df in extract_datapoints(data):
         path = os.path.join(out_dir, 'ddf--datapoints--{}--by--region--year.csv'.format(k))
         df.to_csv(path, index=False)
-
-    print('creating index file...')
-    create_index_file(out_dir)
 
     print('Done.')
 

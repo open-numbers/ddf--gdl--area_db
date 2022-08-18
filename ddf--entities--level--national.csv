@@ -1,0 +1,137 @@
+national,gdlcode,iso_code,iso2,iso_num,name,is--national
+afgt,AFGt,AFG,AF,4,Afghanistan,TRUE
+agot,AGOt,AGO,AO,24,Angola,TRUE
+albt,ALBt,ALB,AL,8,Albania,TRUE
+argt,ARGt,ARG,AR,32,Argentina,TRUE
+argtt,ARGTt,ARG,AR,32,Argentina,TRUE
+armt,ARMt,ARM,AM,51,Armenia,TRUE
+azet,AZEt,AZE,AZ,31,Azerbaijan,TRUE
+bdit,BDIt,BDI,BI,108,Burundi,TRUE
+bent,BENt,BEN,BJ,204,Benin,TRUE
+bfat,BFAt,BFA,BF,854,Burkina Faso,TRUE
+bgdt,BGDt,BGD,BD,50,Bangladesh,TRUE
+biht,BIHt,BIH,BA,70,Bosnia Herzegovina,TRUE
+blrt,BLRt,BLR,BY,112,Belarus,TRUE
+blzt,BLZt,BLZ,BZ,84,Belize,TRUE
+bolt,BOLt,BOL,BO,68,Bolivia,TRUE
+brat,BRAt,BRA,BR,76,Brazil,TRUE
+brbt,BRBt,BRB,BB,52,Barbados,TRUE
+btnt,BTNt,BTN,BT,64,Bhutan,TRUE
+bwat,BWAt,BWA,BW,72,Botswana,TRUE
+caft,CAFt,CAF,CF,140,Central African Republic CAR,TRUE
+chlt,CHLt,CHL,CL,152,Chili,TRUE
+chnt,CHNt,CHN,CN,156,China,TRUE
+chyt,CHYt,CHN,CN,156,China,TRUE
+civt,CIVt,CIV,CI,384,Cote d'Ivoire,TRUE
+cmrt,CMRt,CMR,CM,120,Cameroon,TRUE
+codt,CODt,COD,CD,180,Congo Democratic Republic,TRUE
+cogt,COGt,COG,CG,178,Congo Brazzaville,TRUE
+colt,COLt,COL,CO,170,Colombia,TRUE
+comt,COMt,COM,KM,174,Comoros,TRUE
+cpvt,CPVt,CPV,CV,132,Cape Verde,TRUE
+crit,CRIt,CRI,CR,188,Costa Rica,TRUE
+cubt,CUBt,CUB,CU,192,Cuba,TRUE
+djit,DJIt,DJI,DJ,262,Djibouti,TRUE
+domt,DOMt,DOM,DO,214,Dominican Republic,TRUE
+dzat,DZAt,DZA,DZ,12,Algeria,TRUE
+ecut,ECUt,ECU,EC,218,Ecuador,TRUE
+egyt,EGYt,EGY,EG,818,Egypt,TRUE
+erit,ERIt,ERI,ER,232,Eritrea,TRUE
+etht,ETHt,ETH,ET,231,Ethiopia,TRUE
+fjit,FJIt,FJI,FJ,242,Fiji,TRUE
+gabt,GABt,GAB,GA,266,Gabon,TRUE
+geot,GEOt,GEO,GE,268,Georgia,TRUE
+ghat,GHAt,GHA,GH,288,Ghana,TRUE
+gint,GINt,GIN,GN,324,Guinea,TRUE
+gmbt,GMBt,GMB,GM,270,Gambia,TRUE
+gnbt,GNBt,GNB,GW,624,Guinea Bissau,TRUE
+gnqt,GNQt,GNQ,GQ,226,Equatorial Guinea,TRUE
+gtmt,GTMt,GTM,GT,320,Guatemala,TRUE
+guyt,GUYt,GUY,GY,328,Guyana,TRUE
+hndt,HNDt,HND,HN,340,Honduras,TRUE
+htit,HTIt,HTI,HT,332,Haiti,TRUE
+idnt,IDNt,IDN,ID,360,Indonesia,TRUE
+indt,INDt,IND,IN,356,India,TRUE
+irnt,IRNt,IRN,IR,364,Iran,TRUE
+irqt,IRQt,IRQ,IQ,368,Iraq,TRUE
+jamt,JAMt,JAM,JM,388,Jamaica,TRUE
+jort,JORt,JOR,JO,400,Jordan,TRUE
+kazt,KAZt,KAZ,KZ,398,Kazakhstan,TRUE
+kent,KENt,KEN,KE,404,Kenya,TRUE
+kgzt,KGZt,KGZ,KG,417,Kyrgyzstan,TRUE
+khmt,KHMt,KHM,KH,116,Cambodia,TRUE
+kirt,KIRt,KIR,KI,296,Kiribati,TRUE
+kwtt,KWTt,KWT,KW,414,Kuwait,TRUE
+laot,LAOt,LAO,LA,418,Lao,TRUE
+lbnt,LBNt,LBN,LB,422,Lebanon,TRUE
+lbrt,LBRt,LBR,LR,430,Liberia,TRUE
+lbyt,LBYt,LBY,LY,434,Libya,TRUE
+lcat,LCAt,LCA,LC,662,Saint Lucia,TRUE
+lsot,LSOt,LSO,LS,426,Lesotho,TRUE
+mart,MARt,MAR,MA,504,Morocco,TRUE
+mdat,MDAt,MDA,MD,498,Moldova,TRUE
+mdgt,MDGt,MDG,MG,450,Madagascar,TRUE
+mdvt,MDVt,MDV,MV,462,Maldives,TRUE
+mext,MEXt,MEX,MX,484,Mexico,TRUE
+mkdt,MKDt,MKD,MK,807,North Macedonia,TRUE
+mlit,MLIt,MLI,ML,466,Mali,TRUE
+mmrt,MMRt,MMR,MM,104,Myanmar,TRUE
+mnet,MNEt,MNE,ME,499,Monte Negro,TRUE
+mngt,MNGt,MNG,MN,496,Mongolia,TRUE
+mozt,MOZt,MOZ,MZ,508,Mozambique,TRUE
+mrtt,MRTt,MRT,MR,478,Mauritania,TRUE
+must,MUSt,MUS,MU,480,Mauritius,TRUE
+mwit,MWIt,MWI,MW,454,Malawi,TRUE
+myst,MYSt,MYS,MY,458,Malaysia,TRUE
+namt,NAMt,NAM,,516,Namibia,TRUE
+nert,NERt,NER,NE,562,Niger,TRUE
+ngat,NGAt,NGA,NG,566,Nigeria,TRUE
+nict,NICt,NIC,NI,558,Nicaragua,TRUE
+nplt,NPLt,NPL,NP,524,Nepal,TRUE
+pakt,PAKt,PAK,PK,586,Pakistan,TRUE
+pant,PANt,PAN,PA,591,Panama,TRUE
+pert,PERt,PER,PE,604,Peru,TRUE
+phlt,PHLt,PHL,PH,608,Philippines,TRUE
+pngt,PNGt,PNG,PG,598,Papua New Guinea,TRUE
+pryt,PRYt,PRY,PY,600,Paraguay,TRUE
+pset,PSEt,PSE,PS,275,Palestine,TRUE
+qatt,QATt,QAT,QA,634,Qatar,TRUE
+rwat,RWAt,RWA,RW,646,Rwanda,TRUE
+saut,SAUt,SAU,SA,682,Saudi Arabia,TRUE
+sdnt,SDNt,SDN,SD,736,Sudan,TRUE
+sent,SENt,SEN,SN,686,Senegal,TRUE
+slet,SLEt,SLE,SL,694,Sierra Leone,TRUE
+slvt,SLVt,SLV,SV,222,El Salvador,TRUE
+somt,SOMt,SOM,SO,706,Somalia,TRUE
+srbt,SRBt,SRB,RS,688,Serbia,TRUE
+ssdt,SSDt,SSD,SS,728,South Sudan,TRUE
+stpt,STPt,STP,ST,678,Sao Tome & Principe,TRUE
+surt,SURt,SUR,SR,740,Suriname,TRUE
+swzt,SWZt,SWZ,SZ,748,Eswatini,TRUE
+syrt,SYRt,SYR,SY,760,Syria,TRUE
+tca,TCA,TCA,TC,796,Turks & Caicos Islands,TRUE
+tcdt,TCDt,TCD,TD,148,Chad,TRUE
+tgot,TGOt,TGO,TG,768,Togo,TRUE
+that,THAt,THA,TH,764,Thailand,TRUE
+tjkt,TJKt,TJK,TJ,762,Tajikistan,TRUE
+tkmt,TKMt,TKM,TM,795,Turkmenistan,TRUE
+tlst,TLSt,TLS,TL,626,Timor Leste,TRUE
+tont,TONt,TON,TO,776,Tonga,TRUE
+ttot,TTOt,TTO,TT,780,Trinidad & Tobago,TRUE
+tunt,TUNt,TUN,TN,788,Tunisia,TRUE
+turt,TURt,TUR,TR,792,Turkey,TRUE
+tuv,TUV,TUV,TV,798,Tuvalu,TRUE
+tzat,TZAt,TZA,TZ,834,Tanzania,TRUE
+ugat,UGAt,UGA,UG,800,Uganda,TRUE
+ukrt,UKRt,UKR,UA,804,Ukraine,TRUE
+uryt,URYt,URY,UY,858,Uruguay,TRUE
+uzbt,UZBt,UZB,UZ,860,Uzbekistan,TRUE
+vent,VENt,VEN,VE,862,Venezuela,TRUE
+vnmt,VNMt,VNM,VN,704,Vietnam,TRUE
+vutt,VUTt,VUT,VU,548,Vanuatu,TRUE
+wsmt,WSMt,WSM,WS,882,,TRUE
+ksvt,KSVt,XKO,,,,TRUE
+yemt,YEMt,YEM,YE,887,Yemen,TRUE
+zaft,ZAFt,ZAF,ZA,710,South Africa,TRUE
+zmbt,ZMBt,ZMB,ZM,894,Zambia,TRUE
+zwet,ZWEt,ZWE,ZW,716,Zimbabwe,TRUE

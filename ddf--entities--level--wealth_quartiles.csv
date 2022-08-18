@@ -1,0 +1,521 @@
+wealth_quartiles,gdlcode,is--wealth_quartiles,national,name
+afgw41,AFGw41,TRUE,afgt,Afghanistan - Lowest 25%
+afgw42,AFGw42,TRUE,afgt,Afghanistan - Second 25%
+afgw43,AFGw43,TRUE,afgt,Afghanistan - Third 25%
+afgw44,AFGw44,TRUE,afgt,Afghanistan - Highest 25%
+agow41,AGOw41,TRUE,agot,Angola - Lowest 25%
+agow42,AGOw42,TRUE,agot,Angola - Second 25%
+agow43,AGOw43,TRUE,agot,Angola - Third 25%
+agow44,AGOw44,TRUE,agot,Angola - Highest 25%
+albw41,ALBw41,TRUE,albt,Albania - Lowest 25%
+albw42,ALBw42,TRUE,albt,Albania - Second 25%
+albw43,ALBw43,TRUE,albt,Albania - Third 25%
+albw44,ALBw44,TRUE,albt,Albania - Highest 25%
+argw41,ARGw41,TRUE,argtt,Argentina - Lowest 25%
+argw42,ARGw42,TRUE,argtt,Argentina - Second 25%
+argw43,ARGw43,TRUE,argtt,Argentina - Third 25%
+argw44,ARGw44,TRUE,argtt,Argentina - Highest 25%
+armw41,ARMw41,TRUE,armt,Armenia - Lowest 25%
+armw42,ARMw42,TRUE,armt,Armenia - Second 25%
+armw43,ARMw43,TRUE,armt,Armenia - Third 25%
+armw44,ARMw44,TRUE,armt,Armenia - Highest 25%
+azew41,AZEw41,TRUE,azet,Azerbaijan - Lowest 25%
+azew42,AZEw42,TRUE,azet,Azerbaijan - Second 25%
+azew43,AZEw43,TRUE,azet,Azerbaijan - Third 25%
+azew44,AZEw44,TRUE,azet,Azerbaijan - Highest 25%
+bdiw41,BDIw41,TRUE,bdit,Burundi - Lowest 25%
+bdiw42,BDIw42,TRUE,bdit,Burundi - Second 25%
+bdiw43,BDIw43,TRUE,bdit,Burundi - Third 25%
+bdiw44,BDIw44,TRUE,bdit,Burundi - Highest 25%
+benw41,BENw41,TRUE,bent,Benin - Lowest 25%
+benw42,BENw42,TRUE,bent,Benin - Second 25%
+benw43,BENw43,TRUE,bent,Benin - Third 25%
+benw44,BENw44,TRUE,bent,Benin - Highest 25%
+bfaw41,BFAw41,TRUE,bfat,Burkina Faso - Lowest 25%
+bfaw42,BFAw42,TRUE,bfat,Burkina Faso - Second 25%
+bfaw43,BFAw43,TRUE,bfat,Burkina Faso - Third 25%
+bfaw44,BFAw44,TRUE,bfat,Burkina Faso - Highest 25%
+bgdw41,BGDw41,TRUE,bgdt,Bangladesh - Lowest 25%
+bgdw42,BGDw42,TRUE,bgdt,Bangladesh - Second 25%
+bgdw43,BGDw43,TRUE,bgdt,Bangladesh - Third 25%
+bgdw44,BGDw44,TRUE,bgdt,Bangladesh - Highest 25%
+bihw41,BIHw41,TRUE,biht,Bosnia Herzegovina - Lowest 25%
+bihw42,BIHw42,TRUE,biht,Bosnia Herzegovina - Second 25%
+bihw43,BIHw43,TRUE,biht,Bosnia Herzegovina - Third 25%
+bihw44,BIHw44,TRUE,biht,Bosnia Herzegovina - Highest 25%
+blrw41,BLRw41,TRUE,blrt,Belarus - Lowest 25%
+blrw42,BLRw42,TRUE,blrt,Belarus - Second 25%
+blrw43,BLRw43,TRUE,blrt,Belarus - Third 25%
+blrw44,BLRw44,TRUE,blrt,Belarus - Highest 25%
+blzw41,BLZw41,TRUE,blzt,Belize - Lowest 25%
+blzw42,BLZw42,TRUE,blzt,Belize - Second 25%
+blzw43,BLZw43,TRUE,blzt,Belize - Third 25%
+blzw44,BLZw44,TRUE,blzt,Belize - Highest 25%
+bolw41,BOLw41,TRUE,bolt,Bolivia - Lowest 25%
+bolw42,BOLw42,TRUE,bolt,Bolivia - Second 25%
+bolw43,BOLw43,TRUE,bolt,Bolivia - Third 25%
+bolw44,BOLw44,TRUE,bolt,Bolivia - Highest 25%
+braw41,BRAw41,TRUE,brat,Brazil - Lowest 25%
+braw42,BRAw42,TRUE,brat,Brazil - Second 25%
+braw43,BRAw43,TRUE,brat,Brazil - Third 25%
+braw44,BRAw44,TRUE,brat,Brazil - Highest 25%
+brbw41,BRBw41,TRUE,brbt,Barbados - Lowest 25%
+brbw42,BRBw42,TRUE,brbt,Barbados - Second 25%
+brbw43,BRBw43,TRUE,brbt,Barbados - Third 25%
+brbw44,BRBw44,TRUE,brbt,Barbados - Highest 25%
+btnw41,BTNw41,TRUE,btnt,Bhutan - Lowest 25%
+btnw42,BTNw42,TRUE,btnt,Bhutan - Second 25%
+btnw43,BTNw43,TRUE,btnt,Bhutan - Third 25%
+btnw44,BTNw44,TRUE,btnt,Bhutan - Highest 25%
+bwaw41,BWAw41,TRUE,bwat,Botswana - Lowest 25%
+bwaw42,BWAw42,TRUE,bwat,Botswana - Second 25%
+bwaw43,BWAw43,TRUE,bwat,Botswana - Third 25%
+bwaw44,BWAw44,TRUE,bwat,Botswana - Highest 25%
+cafw41,CAFw41,TRUE,caft,Central African Republic CAR - Lowest 25%
+cafw42,CAFw42,TRUE,caft,Central African Republic CAR - Second 25%
+cafw43,CAFw43,TRUE,caft,Central African Republic CAR - Third 25%
+cafw44,CAFw44,TRUE,caft,Central African Republic CAR - Highest 25%
+chlw41,CHLw41,TRUE,chlt,Chili - Lowest 25%
+chlw42,CHLw42,TRUE,chlt,Chili - Second 25%
+chlw43,CHLw43,TRUE,chlt,Chili - Third 25%
+chlw44,CHLw44,TRUE,chlt,Chili - Highest 25%
+chnw41,CHNw41,TRUE,chyt,China - Lowest 25%
+chnw42,CHNw42,TRUE,chyt,China - Second 25%
+chnw43,CHNw43,TRUE,chyt,China - Third 25%
+chnw44,CHNw44,TRUE,chyt,China - Highest 25%
+civw41,CIVw41,TRUE,civt,Cote d'Ivoire - Lowest 25%
+civw42,CIVw42,TRUE,civt,Cote d'Ivoire - Second 25%
+civw43,CIVw43,TRUE,civt,Cote d'Ivoire - Third 25%
+civw44,CIVw44,TRUE,civt,Cote d'Ivoire - Highest 25%
+cmrw41,CMRw41,TRUE,cmrt,Cameroon - Lowest 25%
+cmrw42,CMRw42,TRUE,cmrt,Cameroon - Second 25%
+cmrw43,CMRw43,TRUE,cmrt,Cameroon - Third 25%
+cmrw44,CMRw44,TRUE,cmrt,Cameroon - Highest 25%
+codw41,CODw41,TRUE,codt,Congo Democratic Republic - Lowest 25%
+codw42,CODw42,TRUE,codt,Congo Democratic Republic - Second 25%
+codw43,CODw43,TRUE,codt,Congo Democratic Republic - Third 25%
+codw44,CODw44,TRUE,codt,Congo Democratic Republic - Highest 25%
+cogw41,COGw41,TRUE,cogt,Congo Brazzaville - Lowest 25%
+cogw42,COGw42,TRUE,cogt,Congo Brazzaville - Second 25%
+cogw43,COGw43,TRUE,cogt,Congo Brazzaville - Third 25%
+cogw44,COGw44,TRUE,cogt,Congo Brazzaville - Highest 25%
+colw41,COLw41,TRUE,colt,Colombia - Lowest 25%
+colw42,COLw42,TRUE,colt,Colombia - Second 25%
+colw43,COLw43,TRUE,colt,Colombia - Third 25%
+colw44,COLw44,TRUE,colt,Colombia - Highest 25%
+comw41,COMw41,TRUE,comt,Comoros - Lowest 25%
+comw42,COMw42,TRUE,comt,Comoros - Second 25%
+comw43,COMw43,TRUE,comt,Comoros - Third 25%
+comw44,COMw44,TRUE,comt,Comoros - Highest 25%
+cpvw41,CPVw41,TRUE,cpvt,Cape Verde - Lowest 25%
+cpvw42,CPVw42,TRUE,cpvt,Cape Verde - Second 25%
+cpvw43,CPVw43,TRUE,cpvt,Cape Verde - Third 25%
+cpvw44,CPVw44,TRUE,cpvt,Cape Verde - Highest 25%
+criw41,CRIw41,TRUE,crit,Costa Rica - Lowest 25%
+criw42,CRIw42,TRUE,crit,Costa Rica - Second 25%
+criw43,CRIw43,TRUE,crit,Costa Rica - Third 25%
+criw44,CRIw44,TRUE,crit,Costa Rica - Highest 25%
+cubw41,CUBw41,TRUE,cubt,Cuba - Lowest 25%
+cubw42,CUBw42,TRUE,cubt,Cuba - Second 25%
+cubw43,CUBw43,TRUE,cubt,Cuba - Third 25%
+cubw44,CUBw44,TRUE,cubt,Cuba - Highest 25%
+djiw41,DJIw41,TRUE,djit,Djibouti - Lowest 25%
+djiw42,DJIw42,TRUE,djit,Djibouti - Second 25%
+djiw43,DJIw43,TRUE,djit,Djibouti - Third 25%
+djiw44,DJIw44,TRUE,djit,Djibouti - Highest 25%
+domw41,DOMw41,TRUE,domt,Dominican Republic - Lowest 25%
+domw42,DOMw42,TRUE,domt,Dominican Republic - Second 25%
+domw43,DOMw43,TRUE,domt,Dominican Republic - Third 25%
+domw44,DOMw44,TRUE,domt,Dominican Republic - Highest 25%
+dzaw41,DZAw41,TRUE,dzat,Algeria - Lowest 25%
+dzaw42,DZAw42,TRUE,dzat,Algeria - Second 25%
+dzaw43,DZAw43,TRUE,dzat,Algeria - Third 25%
+dzaw44,DZAw44,TRUE,dzat,Algeria - Highest 25%
+ecuw41,ECUw41,TRUE,ecut,Ecuador - Lowest 25%
+ecuw42,ECUw42,TRUE,ecut,Ecuador - Second 25%
+ecuw43,ECUw43,TRUE,ecut,Ecuador - Third 25%
+ecuw44,ECUw44,TRUE,ecut,Ecuador - Highest 25%
+egyw41,EGYw41,TRUE,egyt,Egypt - Lowest 25%
+egyw42,EGYw42,TRUE,egyt,Egypt - Second 25%
+egyw43,EGYw43,TRUE,egyt,Egypt - Third 25%
+egyw44,EGYw44,TRUE,egyt,Egypt - Highest 25%
+eriw41,ERIw41,TRUE,erit,Eritrea - Lowest 25%
+eriw42,ERIw42,TRUE,erit,Eritrea - Second 25%
+eriw43,ERIw43,TRUE,erit,Eritrea - Third 25%
+eriw44,ERIw44,TRUE,erit,Eritrea - Highest 25%
+ethw41,ETHw41,TRUE,etht,Ethiopia - Lowest 25%
+ethw42,ETHw42,TRUE,etht,Ethiopia - Second 25%
+ethw43,ETHw43,TRUE,etht,Ethiopia - Third 25%
+ethw44,ETHw44,TRUE,etht,Ethiopia - Highest 25%
+fjiw41,FJIw41,TRUE,fjit,Fiji - Lowest 25%
+fjiw42,FJIw42,TRUE,fjit,Fiji - Second 25%
+fjiw43,FJIw43,TRUE,fjit,Fiji - Third 25%
+fjiw44,FJIw44,TRUE,fjit,Fiji - Highest 25%
+gabw41,GABw41,TRUE,gabt,Gabon - Lowest 25%
+gabw42,GABw42,TRUE,gabt,Gabon - Second 25%
+gabw43,GABw43,TRUE,gabt,Gabon - Third 25%
+gabw44,GABw44,TRUE,gabt,Gabon - Highest 25%
+geow41,GEOw41,TRUE,geot,Georgia - Lowest 25%
+geow42,GEOw42,TRUE,geot,Georgia - Second 25%
+geow43,GEOw43,TRUE,geot,Georgia - Third 25%
+geow44,GEOw44,TRUE,geot,Georgia - Highest 25%
+ghaw41,GHAw41,TRUE,ghat,Ghana - Lowest 25%
+ghaw42,GHAw42,TRUE,ghat,Ghana - Second 25%
+ghaw43,GHAw43,TRUE,ghat,Ghana - Third 25%
+ghaw44,GHAw44,TRUE,ghat,Ghana - Highest 25%
+ginw41,GINw41,TRUE,gint,Guinea - Lowest 25%
+ginw42,GINw42,TRUE,gint,Guinea - Second 25%
+ginw43,GINw43,TRUE,gint,Guinea - Third 25%
+ginw44,GINw44,TRUE,gint,Guinea - Highest 25%
+gmbw41,GMBw41,TRUE,gmbt,Gambia - Lowest 25%
+gmbw42,GMBw42,TRUE,gmbt,Gambia - Second 25%
+gmbw43,GMBw43,TRUE,gmbt,Gambia - Third 25%
+gmbw44,GMBw44,TRUE,gmbt,Gambia - Highest 25%
+gnbw41,GNBw41,TRUE,gnbt,Guinea Bissau - Lowest 25%
+gnbw42,GNBw42,TRUE,gnbt,Guinea Bissau - Second 25%
+gnbw43,GNBw43,TRUE,gnbt,Guinea Bissau - Third 25%
+gnbw44,GNBw44,TRUE,gnbt,Guinea Bissau - Highest 25%
+gnqw41,GNQw41,TRUE,gnqt,Equatorial Guinea - Lowest 25%
+gnqw42,GNQw42,TRUE,gnqt,Equatorial Guinea - Second 25%
+gnqw43,GNQw43,TRUE,gnqt,Equatorial Guinea - Third 25%
+gnqw44,GNQw44,TRUE,gnqt,Equatorial Guinea - Highest 25%
+gtmw41,GTMw41,TRUE,gtmt,Guatemala - Lowest 25%
+gtmw42,GTMw42,TRUE,gtmt,Guatemala - Second 25%
+gtmw43,GTMw43,TRUE,gtmt,Guatemala - Third 25%
+gtmw44,GTMw44,TRUE,gtmt,Guatemala - Highest 25%
+guyw41,GUYw41,TRUE,guyt,Guyana - Lowest 25%
+guyw42,GUYw42,TRUE,guyt,Guyana - Second 25%
+guyw43,GUYw43,TRUE,guyt,Guyana - Third 25%
+guyw44,GUYw44,TRUE,guyt,Guyana - Highest 25%
+hndw41,HNDw41,TRUE,hndt,Honduras - Lowest 25%
+hndw42,HNDw42,TRUE,hndt,Honduras - Second 25%
+hndw43,HNDw43,TRUE,hndt,Honduras - Third 25%
+hndw44,HNDw44,TRUE,hndt,Honduras - Highest 25%
+htiw41,HTIw41,TRUE,htit,Haiti - Lowest 25%
+htiw42,HTIw42,TRUE,htit,Haiti - Second 25%
+htiw43,HTIw43,TRUE,htit,Haiti - Third 25%
+htiw44,HTIw44,TRUE,htit,Haiti - Highest 25%
+idnw41,IDNw41,TRUE,idnt,Indonesia - Lowest 25%
+idnw42,IDNw42,TRUE,idnt,Indonesia - Second 25%
+idnw43,IDNw43,TRUE,idnt,Indonesia - Third 25%
+idnw44,IDNw44,TRUE,idnt,Indonesia - Highest 25%
+indw41,INDw41,TRUE,indt,India - Lowest 25%
+indw42,INDw42,TRUE,indt,India - Second 25%
+indw43,INDw43,TRUE,indt,India - Third 25%
+indw44,INDw44,TRUE,indt,India - Highest 25%
+irnw41,IRNw41,TRUE,irnt,Iran - Lowest 25%
+irnw42,IRNw42,TRUE,irnt,Iran - Second 25%
+irnw43,IRNw43,TRUE,irnt,Iran - Third 25%
+irnw44,IRNw44,TRUE,irnt,Iran - Highest 25%
+irqw41,IRQw41,TRUE,irqt,Iraq - Lowest 25%
+irqw42,IRQw42,TRUE,irqt,Iraq - Second 25%
+irqw43,IRQw43,TRUE,irqt,Iraq - Third 25%
+irqw44,IRQw44,TRUE,irqt,Iraq - Highest 25%
+jamw41,JAMw41,TRUE,jamt,Jamaica - Lowest 25%
+jamw42,JAMw42,TRUE,jamt,Jamaica - Second 25%
+jamw43,JAMw43,TRUE,jamt,Jamaica - Third 25%
+jamw44,JAMw44,TRUE,jamt,Jamaica - Highest 25%
+jorw41,JORw41,TRUE,jort,Jordan - Lowest 25%
+jorw42,JORw42,TRUE,jort,Jordan - Second 25%
+jorw43,JORw43,TRUE,jort,Jordan - Third 25%
+jorw44,JORw44,TRUE,jort,Jordan - Highest 25%
+kazw41,KAZw41,TRUE,kazt,Kazakhstan - Lowest 25%
+kazw42,KAZw42,TRUE,kazt,Kazakhstan - Second 25%
+kazw43,KAZw43,TRUE,kazt,Kazakhstan - Third 25%
+kazw44,KAZw44,TRUE,kazt,Kazakhstan - Highest 25%
+kenw41,KENw41,TRUE,kent,Kenya - Lowest 25%
+kenw42,KENw42,TRUE,kent,Kenya - Second 25%
+kenw43,KENw43,TRUE,kent,Kenya - Third 25%
+kenw44,KENw44,TRUE,kent,Kenya - Highest 25%
+kgzw41,KGZw41,TRUE,kgzt,Kyrgyzstan - Lowest 25%
+kgzw42,KGZw42,TRUE,kgzt,Kyrgyzstan - Second 25%
+kgzw43,KGZw43,TRUE,kgzt,Kyrgyzstan - Third 25%
+kgzw44,KGZw44,TRUE,kgzt,Kyrgyzstan - Highest 25%
+khmw41,KHMw41,TRUE,khmt,Cambodia - Lowest 25%
+khmw42,KHMw42,TRUE,khmt,Cambodia - Second 25%
+khmw43,KHMw43,TRUE,khmt,Cambodia - Third 25%
+khmw44,KHMw44,TRUE,khmt,Cambodia - Highest 25%
+kirw41,KIRw41,TRUE,kirt,Kiribati - Lowest 25%
+kirw42,KIRw42,TRUE,kirt,Kiribati - Second 25%
+kirw43,KIRw43,TRUE,kirt,Kiribati - Third 25%
+kirw44,KIRw44,TRUE,kirt,Kiribati - Highest 25%
+laow41,LAOw41,TRUE,laot,Lao - Lowest 25%
+laow42,LAOw42,TRUE,laot,Lao - Second 25%
+laow43,LAOw43,TRUE,laot,Lao - Third 25%
+laow44,LAOw44,TRUE,laot,Lao - Highest 25%
+lbrw41,LBRw41,TRUE,lbrt,Liberia - Lowest 25%
+lbrw42,LBRw42,TRUE,lbrt,Liberia - Second 25%
+lbrw43,LBRw43,TRUE,lbrt,Liberia - Third 25%
+lbrw44,LBRw44,TRUE,lbrt,Liberia - Highest 25%
+lcaw41,LCAw41,TRUE,lcat,Saint Lucia - Lowest 25%
+lcaw42,LCAw42,TRUE,lcat,Saint Lucia - Second 25%
+lcaw43,LCAw43,TRUE,lcat,Saint Lucia - Third 25%
+lcaw44,LCAw44,TRUE,lcat,Saint Lucia - Highest 25%
+lsow41,LSOw41,TRUE,lsot,Lesotho - Lowest 25%
+lsow42,LSOw42,TRUE,lsot,Lesotho - Second 25%
+lsow43,LSOw43,TRUE,lsot,Lesotho - Third 25%
+lsow44,LSOw44,TRUE,lsot,Lesotho - Highest 25%
+marw41,MARw41,TRUE,mart,Morocco - Lowest 25%
+marw42,MARw42,TRUE,mart,Morocco - Second 25%
+marw43,MARw43,TRUE,mart,Morocco - Third 25%
+marw44,MARw44,TRUE,mart,Morocco - Highest 25%
+mdaw41,MDAw41,TRUE,mdat,Moldova - Lowest 25%
+mdaw42,MDAw42,TRUE,mdat,Moldova - Second 25%
+mdaw43,MDAw43,TRUE,mdat,Moldova - Third 25%
+mdaw44,MDAw44,TRUE,mdat,Moldova - Highest 25%
+mdgw41,MDGw41,TRUE,mdgt,Madagascar - Lowest 25%
+mdgw42,MDGw42,TRUE,mdgt,Madagascar - Second 25%
+mdgw43,MDGw43,TRUE,mdgt,Madagascar - Third 25%
+mdgw44,MDGw44,TRUE,mdgt,Madagascar - Highest 25%
+mdvw41,MDVw41,TRUE,mdvt,Maldives - Lowest 25%
+mdvw42,MDVw42,TRUE,mdvt,Maldives - Second 25%
+mdvw43,MDVw43,TRUE,mdvt,Maldives - Third 25%
+mdvw44,MDVw44,TRUE,mdvt,Maldives - Highest 25%
+mexw41,MEXw41,TRUE,mext,Mexico - Lowest 25%
+mexw42,MEXw42,TRUE,mext,Mexico - Second 25%
+mexw43,MEXw43,TRUE,mext,Mexico - Third 25%
+mexw44,MEXw44,TRUE,mext,Mexico - Highest 25%
+mkdw41,MKDw41,TRUE,mkdt,North Macedonia - Lowest 25%
+mkdw42,MKDw42,TRUE,mkdt,North Macedonia - Second 25%
+mkdw43,MKDw43,TRUE,mkdt,North Macedonia - Third 25%
+mkdw44,MKDw44,TRUE,mkdt,North Macedonia - Highest 25%
+mliw41,MLIw41,TRUE,mlit,Mali - Lowest 25%
+mliw42,MLIw42,TRUE,mlit,Mali - Second 25%
+mliw43,MLIw43,TRUE,mlit,Mali - Third 25%
+mliw44,MLIw44,TRUE,mlit,Mali - Highest 25%
+mmrw41,MMRw41,TRUE,mmrt,Myanmar - Lowest 25%
+mmrw42,MMRw42,TRUE,mmrt,Myanmar - Second 25%
+mmrw43,MMRw43,TRUE,mmrt,Myanmar - Third 25%
+mmrw44,MMRw44,TRUE,mmrt,Myanmar - Highest 25%
+mnew41,MNEw41,TRUE,mnet,Monte Negro - Lowest 25%
+mnew42,MNEw42,TRUE,mnet,Monte Negro - Second 25%
+mnew43,MNEw43,TRUE,mnet,Monte Negro - Third 25%
+mnew44,MNEw44,TRUE,mnet,Monte Negro - Highest 25%
+mngw41,MNGw41,TRUE,mngt,Mongolia - Lowest 25%
+mngw42,MNGw42,TRUE,mngt,Mongolia - Second 25%
+mngw43,MNGw43,TRUE,mngt,Mongolia - Third 25%
+mngw44,MNGw44,TRUE,mngt,Mongolia - Highest 25%
+mozw41,MOZw41,TRUE,mozt,Mozambique - Lowest 25%
+mozw42,MOZw42,TRUE,mozt,Mozambique - Second 25%
+mozw43,MOZw43,TRUE,mozt,Mozambique - Third 25%
+mozw44,MOZw44,TRUE,mozt,Mozambique - Highest 25%
+mrtw41,MRTw41,TRUE,mrtt,Mauritania - Lowest 25%
+mrtw42,MRTw42,TRUE,mrtt,Mauritania - Second 25%
+mrtw43,MRTw43,TRUE,mrtt,Mauritania - Third 25%
+mrtw44,MRTw44,TRUE,mrtt,Mauritania - Highest 25%
+musw41,MUSw41,TRUE,must,Mauritius - Lowest 25%
+musw42,MUSw42,TRUE,must,Mauritius - Second 25%
+musw43,MUSw43,TRUE,must,Mauritius - Third 25%
+musw44,MUSw44,TRUE,must,Mauritius - Highest 25%
+mwiw41,MWIw41,TRUE,mwit,Malawi - Lowest 25%
+mwiw42,MWIw42,TRUE,mwit,Malawi - Second 25%
+mwiw43,MWIw43,TRUE,mwit,Malawi - Third 25%
+mwiw44,MWIw44,TRUE,mwit,Malawi - Highest 25%
+mysw41,MYSw41,TRUE,myst,Malaysia - Lowest 25%
+mysw42,MYSw42,TRUE,myst,Malaysia - Second 25%
+mysw43,MYSw43,TRUE,myst,Malaysia - Third 25%
+mysw44,MYSw44,TRUE,myst,Malaysia - Highest 25%
+namw41,NAMw41,TRUE,namt,Namibia - Lowest 25%
+namw42,NAMw42,TRUE,namt,Namibia - Second 25%
+namw43,NAMw43,TRUE,namt,Namibia - Third 25%
+namw44,NAMw44,TRUE,namt,Namibia - Highest 25%
+nerw41,NERw41,TRUE,nert,Niger - Lowest 25%
+nerw42,NERw42,TRUE,nert,Niger - Second 25%
+nerw43,NERw43,TRUE,nert,Niger - Third 25%
+nerw44,NERw44,TRUE,nert,Niger - Highest 25%
+ngaw41,NGAw41,TRUE,ngat,Nigeria - Lowest 25%
+ngaw42,NGAw42,TRUE,ngat,Nigeria - Second 25%
+ngaw43,NGAw43,TRUE,ngat,Nigeria - Third 25%
+ngaw44,NGAw44,TRUE,ngat,Nigeria - Highest 25%
+nicw41,NICw41,TRUE,nict,Nicaragua - Lowest 25%
+nicw42,NICw42,TRUE,nict,Nicaragua - Second 25%
+nicw43,NICw43,TRUE,nict,Nicaragua - Third 25%
+nicw44,NICw44,TRUE,nict,Nicaragua - Highest 25%
+nplw41,NPLw41,TRUE,nplt,Nepal - Lowest 25%
+nplw42,NPLw42,TRUE,nplt,Nepal - Second 25%
+nplw43,NPLw43,TRUE,nplt,Nepal - Third 25%
+nplw44,NPLw44,TRUE,nplt,Nepal - Highest 25%
+pakw41,PAKw41,TRUE,pakt,Pakistan - Lowest 25%
+pakw42,PAKw42,TRUE,pakt,Pakistan - Second 25%
+pakw43,PAKw43,TRUE,pakt,Pakistan - Third 25%
+pakw44,PAKw44,TRUE,pakt,Pakistan - Highest 25%
+panw41,PANw41,TRUE,pant,Panama - Lowest 25%
+panw42,PANw42,TRUE,pant,Panama - Second 25%
+panw43,PANw43,TRUE,pant,Panama - Third 25%
+panw44,PANw44,TRUE,pant,Panama - Highest 25%
+perw41,PERw41,TRUE,pert,Peru - Lowest 25%
+perw42,PERw42,TRUE,pert,Peru - Second 25%
+perw43,PERw43,TRUE,pert,Peru - Third 25%
+perw44,PERw44,TRUE,pert,Peru - Highest 25%
+phlw41,PHLw41,TRUE,phlt,Philippines - Lowest 25%
+phlw42,PHLw42,TRUE,phlt,Philippines - Second 25%
+phlw43,PHLw43,TRUE,phlt,Philippines - Third 25%
+phlw44,PHLw44,TRUE,phlt,Philippines - Highest 25%
+pngw41,PNGw41,TRUE,pngt,Papua New Guinea - Lowest 25%
+pngw42,PNGw42,TRUE,pngt,Papua New Guinea - Second 25%
+pngw43,PNGw43,TRUE,pngt,Papua New Guinea - Third 25%
+pngw44,PNGw44,TRUE,pngt,Papua New Guinea - Highest 25%
+pryw41,PRYw41,TRUE,pryt,Paraguay - Lowest 25%
+pryw42,PRYw42,TRUE,pryt,Paraguay - Second 25%
+pryw43,PRYw43,TRUE,pryt,Paraguay - Third 25%
+pryw44,PRYw44,TRUE,pryt,Paraguay - Highest 25%
+psew41,PSEw41,TRUE,pset,Palestine - Lowest 25%
+psew42,PSEw42,TRUE,pset,Palestine - Second 25%
+psew43,PSEw43,TRUE,pset,Palestine - Third 25%
+psew44,PSEw44,TRUE,pset,Palestine - Highest 25%
+rwaw41,RWAw41,TRUE,rwat,Rwanda - Lowest 25%
+rwaw42,RWAw42,TRUE,rwat,Rwanda - Second 25%
+rwaw43,RWAw43,TRUE,rwat,Rwanda - Third 25%
+rwaw44,RWAw44,TRUE,rwat,Rwanda - Highest 25%
+sauw41,SAUw41,TRUE,saut,Saudi Arabia - Lowest 25%
+sauw42,SAUw42,TRUE,saut,Saudi Arabia - Second 25%
+sauw43,SAUw43,TRUE,saut,Saudi Arabia - Third 25%
+sauw44,SAUw44,TRUE,saut,Saudi Arabia - Highest 25%
+sdnw41,SDNw41,TRUE,sdnt,Sudan - Lowest 25%
+sdnw42,SDNw42,TRUE,sdnt,Sudan - Second 25%
+sdnw43,SDNw43,TRUE,sdnt,Sudan - Third 25%
+sdnw44,SDNw44,TRUE,sdnt,Sudan - Highest 25%
+senw41,SENw41,TRUE,sent,Senegal - Lowest 25%
+senw42,SENw42,TRUE,sent,Senegal - Second 25%
+senw43,SENw43,TRUE,sent,Senegal - Third 25%
+senw44,SENw44,TRUE,sent,Senegal - Highest 25%
+slew41,SLEw41,TRUE,slet,Sierra Leone - Lowest 25%
+slew42,SLEw42,TRUE,slet,Sierra Leone - Second 25%
+slew43,SLEw43,TRUE,slet,Sierra Leone - Third 25%
+slew44,SLEw44,TRUE,slet,Sierra Leone - Highest 25%
+slvw41,SLVw41,TRUE,slvt,El Salvador - Lowest 25%
+slvw42,SLVw42,TRUE,slvt,El Salvador - Second 25%
+slvw43,SLVw43,TRUE,slvt,El Salvador - Third 25%
+slvw44,SLVw44,TRUE,slvt,El Salvador - Highest 25%
+somw41,SOMw41,TRUE,somt,Somalia - Lowest 25%
+somw42,SOMw42,TRUE,somt,Somalia - Second 25%
+somw43,SOMw43,TRUE,somt,Somalia - Third 25%
+somw44,SOMw44,TRUE,somt,Somalia - Highest 25%
+srbw41,SRBw41,TRUE,srbt,Serbia - Lowest 25%
+srbw42,SRBw42,TRUE,srbt,Serbia - Second 25%
+srbw43,SRBw43,TRUE,srbt,Serbia - Third 25%
+srbw44,SRBw44,TRUE,srbt,Serbia - Highest 25%
+ssdw41,SSDw41,TRUE,ssdt,South Sudan - Lowest 25%
+ssdw42,SSDw42,TRUE,ssdt,South Sudan - Second 25%
+ssdw43,SSDw43,TRUE,ssdt,South Sudan - Third 25%
+ssdw44,SSDw44,TRUE,ssdt,South Sudan - Highest 25%
+stpw41,STPw41,TRUE,stpt,Sao Tome & Principe - Lowest 25%
+stpw42,STPw42,TRUE,stpt,Sao Tome & Principe - Second 25%
+stpw43,STPw43,TRUE,stpt,Sao Tome & Principe - Third 25%
+stpw44,STPw44,TRUE,stpt,Sao Tome & Principe - Highest 25%
+surw41,SURw41,TRUE,surt,Suriname - Lowest 25%
+surw42,SURw42,TRUE,surt,Suriname - Second 25%
+surw43,SURw43,TRUE,surt,Suriname - Third 25%
+surw44,SURw44,TRUE,surt,Suriname - Highest 25%
+swzw41,SWZw41,TRUE,swzt,Eswatini - Lowest 25%
+swzw42,SWZw42,TRUE,swzt,Eswatini - Second 25%
+swzw43,SWZw43,TRUE,swzt,Eswatini - Third 25%
+swzw44,SWZw44,TRUE,swzt,Eswatini - Highest 25%
+syrw41,SYRw41,TRUE,syrt,Syria - Lowest 25%
+syrw42,SYRw42,TRUE,syrt,Syria - Second 25%
+syrw43,SYRw43,TRUE,syrt,Syria - Third 25%
+syrw44,SYRw44,TRUE,syrt,Syria - Highest 25%
+tcaw41,TCAw41,TRUE,tca,Turks & Caicos Islands - Lowest 25%
+tcaw42,TCAw42,TRUE,tca,Turks & Caicos Islands - Second 25%
+tcaw43,TCAw43,TRUE,tca,Turks & Caicos Islands - Third 25%
+tcaw44,TCAw44,TRUE,tca,Turks & Caicos Islands - Highest 25%
+tcdw41,TCDw41,TRUE,tcdt,Chad - Lowest 25%
+tcdw42,TCDw42,TRUE,tcdt,Chad - Second 25%
+tcdw43,TCDw43,TRUE,tcdt,Chad - Third 25%
+tcdw44,TCDw44,TRUE,tcdt,Chad - Highest 25%
+tgow41,TGOw41,TRUE,tgot,Togo - Lowest 25%
+tgow42,TGOw42,TRUE,tgot,Togo - Second 25%
+tgow43,TGOw43,TRUE,tgot,Togo - Third 25%
+tgow44,TGOw44,TRUE,tgot,Togo - Highest 25%
+thaw41,THAw41,TRUE,that,Thailand - Lowest 25%
+thaw42,THAw42,TRUE,that,Thailand - Second 25%
+thaw43,THAw43,TRUE,that,Thailand - Third 25%
+thaw44,THAw44,TRUE,that,Thailand - Highest 25%
+tjkw41,TJKw41,TRUE,tjkt,Tajikistan - Lowest 25%
+tjkw42,TJKw42,TRUE,tjkt,Tajikistan - Second 25%
+tjkw43,TJKw43,TRUE,tjkt,Tajikistan - Third 25%
+tjkw44,TJKw44,TRUE,tjkt,Tajikistan - Highest 25%
+tkmw41,TKMw41,TRUE,tkmt,Turkmenistan - Lowest 25%
+tkmw42,TKMw42,TRUE,tkmt,Turkmenistan - Second 25%
+tkmw43,TKMw43,TRUE,tkmt,Turkmenistan - Third 25%
+tkmw44,TKMw44,TRUE,tkmt,Turkmenistan - Highest 25%
+tlsw41,TLSw41,TRUE,tlst,Timor Leste - Lowest 25%
+tlsw42,TLSw42,TRUE,tlst,Timor Leste - Second 25%
+tlsw43,TLSw43,TRUE,tlst,Timor Leste - Third 25%
+tlsw44,TLSw44,TRUE,tlst,Timor Leste - Highest 25%
+tonw41,TONw41,TRUE,tont,Tonga - Lowest 25%
+tonw42,TONw42,TRUE,tont,Tonga - Second 25%
+tonw43,TONw43,TRUE,tont,Tonga - Third 25%
+tonw44,TONw44,TRUE,tont,Tonga - Highest 25%
+ttow41,TTOw41,TRUE,ttot,Trinidad & Tobago - Lowest 25%
+ttow42,TTOw42,TRUE,ttot,Trinidad & Tobago - Second 25%
+ttow43,TTOw43,TRUE,ttot,Trinidad & Tobago - Third 25%
+ttow44,TTOw44,TRUE,ttot,Trinidad & Tobago - Highest 25%
+tunw41,TUNw41,TRUE,tunt,Tunisia - Lowest 25%
+tunw42,TUNw42,TRUE,tunt,Tunisia - Second 25%
+tunw43,TUNw43,TRUE,tunt,Tunisia - Third 25%
+tunw44,TUNw44,TRUE,tunt,Tunisia - Highest 25%
+turw41,TURw41,TRUE,turt,Turkey - Lowest 25%
+turw42,TURw42,TRUE,turt,Turkey - Second 25%
+turw43,TURw43,TRUE,turt,Turkey - Third 25%
+turw44,TURw44,TRUE,turt,Turkey - Highest 25%
+tuvw41,TUVw41,TRUE,tuv,Tuvalu - Lowest 25%
+tuvw42,TUVw42,TRUE,tuv,Tuvalu - Second 25%
+tuvw43,TUVw43,TRUE,tuv,Tuvalu - Third 25%
+tuvw44,TUVw44,TRUE,tuv,Tuvalu - Highest 25%
+tzaw41,TZAw41,TRUE,tzat,Tanzania - Lowest 25%
+tzaw42,TZAw42,TRUE,tzat,Tanzania - Second 25%
+tzaw43,TZAw43,TRUE,tzat,Tanzania - Third 25%
+tzaw44,TZAw44,TRUE,tzat,Tanzania - Highest 25%
+ugaw41,UGAw41,TRUE,ugat,Uganda - Lowest 25%
+ugaw42,UGAw42,TRUE,ugat,Uganda - Second 25%
+ugaw43,UGAw43,TRUE,ugat,Uganda - Third 25%
+ugaw44,UGAw44,TRUE,ugat,Uganda - Highest 25%
+ukrw41,UKRw41,TRUE,ukrt,Ukraine - Lowest 25%
+ukrw42,UKRw42,TRUE,ukrt,Ukraine - Second 25%
+ukrw43,UKRw43,TRUE,ukrt,Ukraine - Third 25%
+ukrw44,UKRw44,TRUE,ukrt,Ukraine - Highest 25%
+uryw41,URYw41,TRUE,uryt,Uruguay - Lowest 25%
+uryw42,URYw42,TRUE,uryt,Uruguay - Second 25%
+uryw43,URYw43,TRUE,uryt,Uruguay - Third 25%
+uryw44,URYw44,TRUE,uryt,Uruguay - Highest 25%
+uzbw41,UZBw41,TRUE,uzbt,Uzbekistan - Lowest 25%
+uzbw42,UZBw42,TRUE,uzbt,Uzbekistan - Second 25%
+uzbw43,UZBw43,TRUE,uzbt,Uzbekistan - Third 25%
+uzbw44,UZBw44,TRUE,uzbt,Uzbekistan - Highest 25%
+venw41,VENw41,TRUE,vent,Venezuela - Lowest 25%
+venw42,VENw42,TRUE,vent,Venezuela - Second 25%
+venw43,VENw43,TRUE,vent,Venezuela - Third 25%
+venw44,VENw44,TRUE,vent,Venezuela - Highest 25%
+vnmw41,VNMw41,TRUE,vnmt,Vietnam - Lowest 25%
+vnmw42,VNMw42,TRUE,vnmt,Vietnam - Second 25%
+vnmw43,VNMw43,TRUE,vnmt,Vietnam - Third 25%
+vnmw44,VNMw44,TRUE,vnmt,Vietnam - Highest 25%
+vutw41,VUTw41,TRUE,vutt,Vanuatu - Lowest 25%
+vutw42,VUTw42,TRUE,vutt,Vanuatu - Second 25%
+vutw43,VUTw43,TRUE,vutt,Vanuatu - Third 25%
+vutw44,VUTw44,TRUE,vutt,Vanuatu - Highest 25%
+wsmw41,WSMw41,TRUE,wsmt,Samoa - Lowest 25%
+wsmw42,WSMw42,TRUE,wsmt,Samoa - Second 25%
+wsmw43,WSMw43,TRUE,wsmt,Samoa - Third 25%
+wsmw44,WSMw44,TRUE,wsmt,Samoa - Highest 25%
+ksvw41,KSVw41,TRUE,ksvt,Kosovo - Lowest 25%
+ksvw42,KSVw42,TRUE,ksvt,Kosovo - Second 25%
+ksvw43,KSVw43,TRUE,ksvt,Kosovo - Third 25%
+ksvw44,KSVw44,TRUE,ksvt,Kosovo - Highest 25%
+yemw41,YEMw41,TRUE,yemt,Yemen - Lowest 25%
+yemw42,YEMw42,TRUE,yemt,Yemen - Second 25%
+yemw43,YEMw43,TRUE,yemt,Yemen - Third 25%
+yemw44,YEMw44,TRUE,yemt,Yemen - Highest 25%
+zafw41,ZAFw41,TRUE,zaft,South Africa - Lowest 25%
+zafw42,ZAFw42,TRUE,zaft,South Africa - Second 25%
+zafw43,ZAFw43,TRUE,zaft,South Africa - Third 25%
+zafw44,ZAFw44,TRUE,zaft,South Africa - Highest 25%
+zmbw41,ZMBw41,TRUE,zmbt,Zambia - Lowest 25%
+zmbw42,ZMBw42,TRUE,zmbt,Zambia - Second 25%
+zmbw43,ZMBw43,TRUE,zmbt,Zambia - Third 25%
+zmbw44,ZMBw44,TRUE,zmbt,Zambia - Highest 25%
+zwew41,ZWEw41,TRUE,zwet,Zimbabwe - Lowest 25%
+zwew42,ZWEw42,TRUE,zwet,Zimbabwe - Second 25%
+zwew43,ZWEw43,TRUE,zwet,Zimbabwe - Third 25%
+zwew44,ZWEw44,TRUE,zwet,Zimbabwe - Highest 25%

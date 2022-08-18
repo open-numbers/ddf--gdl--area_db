@@ -1,0 +1,263 @@
+poverty,gdlcode,is--poverty,national,name
+afgp0,AFGp0,TRUE,afgt,Afghanistan - Nonpoor
+afgp1,AFGp1,TRUE,afgt,Afghanistan - Poor
+agop0,AGOp0,TRUE,agot,Angola - Nonpoor
+agop1,AGOp1,TRUE,agot,Angola - Poor
+albp0,ALBp0,TRUE,albt,Albania - Nonpoor
+albp1,ALBp1,TRUE,albt,Albania - Poor
+argp0,ARGp0,TRUE,argtt,Argentina - Nonpoor
+argp1,ARGp1,TRUE,argtt,Argentina - Poor
+armp0,ARMp0,TRUE,armt,Armenia - Nonpoor
+armp1,ARMp1,TRUE,armt,Armenia - Poor
+azep0,AZEp0,TRUE,azet,Azerbaijan - Nonpoor
+azep1,AZEp1,TRUE,azet,Azerbaijan - Poor
+bdip0,BDIp0,TRUE,bdit,Burundi - Nonpoor
+bdip1,BDIp1,TRUE,bdit,Burundi - Poor
+benp0,BENp0,TRUE,bent,Benin - Nonpoor
+benp1,BENp1,TRUE,bent,Benin - Poor
+bfap0,BFAp0,TRUE,bfat,Burkina Faso - Nonpoor
+bfap1,BFAp1,TRUE,bfat,Burkina Faso - Poor
+bgdp0,BGDp0,TRUE,bgdt,Bangladesh - Nonpoor
+bgdp1,BGDp1,TRUE,bgdt,Bangladesh - Poor
+bihp0,BIHp0,TRUE,biht,Bosnia Herzegovina - Nonpoor
+bihp1,BIHp1,TRUE,biht,Bosnia Herzegovina - Poor
+blrp0,BLRp0,TRUE,blrt,Belarus - Nonpoor
+blrp1,BLRp1,TRUE,blrt,Belarus - Poor
+blzp0,BLZp0,TRUE,blzt,Belize - Nonpoor
+blzp1,BLZp1,TRUE,blzt,Belize - Poor
+bolp0,BOLp0,TRUE,bolt,Bolivia - Nonpoor
+bolp1,BOLp1,TRUE,bolt,Bolivia - Poor
+brap0,BRAp0,TRUE,brat,Brazil - Nonpoor
+brap1,BRAp1,TRUE,brat,Brazil - Poor
+brbp0,BRBp0,TRUE,brbt,Barbados - Nonpoor
+brbp1,BRBp1,TRUE,brbt,Barbados - Poor
+btnp0,BTNp0,TRUE,btnt,Bhutan - Nonpoor
+btnp1,BTNp1,TRUE,btnt,Bhutan - Poor
+bwap0,BWAp0,TRUE,bwat,Botswana - Nonpoor
+bwap1,BWAp1,TRUE,bwat,Botswana - Poor
+cafp0,CAFp0,TRUE,caft,Central African Republic CAR - Nonpoor
+cafp1,CAFp1,TRUE,caft,Central African Republic CAR - Poor
+chlp0,CHLp0,TRUE,chlt,Chili - Nonpoor
+chlp1,CHLp1,TRUE,chlt,Chili - Poor
+chnp0,CHNp0,TRUE,chyt,China - Nonpoor
+chnp1,CHNp1,TRUE,chyt,China - Poor
+civp0,CIVp0,TRUE,civt,Cote d'Ivoire - Nonpoor
+civp1,CIVp1,TRUE,civt,Cote d'Ivoire - Poor
+cmrp0,CMRp0,TRUE,cmrt,Cameroon - Nonpoor
+cmrp1,CMRp1,TRUE,cmrt,Cameroon - Poor
+codp0,CODp0,TRUE,codt,Congo Democratic Republic - Nonpoor
+codp1,CODp1,TRUE,codt,Congo Democratic Republic - Poor
+cogp0,COGp0,TRUE,cogt,Congo Brazzaville - Nonpoor
+cogp1,COGp1,TRUE,cogt,Congo Brazzaville - Poor
+colp0,COLp0,TRUE,colt,Colombia - Nonpoor
+colp1,COLp1,TRUE,colt,Colombia - Poor
+comp0,COMp0,TRUE,comt,Comoros - Nonpoor
+comp1,COMp1,TRUE,comt,Comoros - Poor
+cpvp0,CPVp0,TRUE,cpvt,Cape Verde - Nonpoor
+cpvp1,CPVp1,TRUE,cpvt,Cape Verde - Poor
+crip0,CRIp0,TRUE,crit,Costa Rica - Nonpoor
+crip1,CRIp1,TRUE,crit,Costa Rica - Poor
+cubp0,CUBp0,TRUE,cubt,Cuba - Nonpoor
+cubp1,CUBp1,TRUE,cubt,Cuba - Poor
+djip0,DJIp0,TRUE,djit,Djibouti - Nonpoor
+djip1,DJIp1,TRUE,djit,Djibouti - Poor
+domp0,DOMp0,TRUE,domt,Dominican Republic - Nonpoor
+domp1,DOMp1,TRUE,domt,Dominican Republic - Poor
+dzap0,DZAp0,TRUE,dzat,Algeria - Nonpoor
+dzap1,DZAp1,TRUE,dzat,Algeria - Poor
+ecup0,ECUp0,TRUE,ecut,Ecuador - Nonpoor
+ecup1,ECUp1,TRUE,ecut,Ecuador - Poor
+egyp0,EGYp0,TRUE,egyt,Egypt - Nonpoor
+egyp1,EGYp1,TRUE,egyt,Egypt - Poor
+erip0,ERIp0,TRUE,erit,Eritrea - Nonpoor
+erip1,ERIp1,TRUE,erit,Eritrea - Poor
+ethp0,ETHp0,TRUE,etht,Ethiopia - Nonpoor
+ethp1,ETHp1,TRUE,etht,Ethiopia - Poor
+fjip0,FJIp0,TRUE,fjit,Fiji - Nonpoor
+fjip1,FJIp1,TRUE,fjit,Fiji - Poor
+gabp0,GABp0,TRUE,gabt,Gabon - Nonpoor
+gabp1,GABp1,TRUE,gabt,Gabon - Poor
+geop0,GEOp0,TRUE,geot,Georgia - Nonpoor
+geop1,GEOp1,TRUE,geot,Georgia - Poor
+ghap0,GHAp0,TRUE,ghat,Ghana - Nonpoor
+ghap1,GHAp1,TRUE,ghat,Ghana - Poor
+ginp0,GINp0,TRUE,gint,Guinea - Nonpoor
+ginp1,GINp1,TRUE,gint,Guinea - Poor
+gmbp0,GMBp0,TRUE,gmbt,Gambia - Nonpoor
+gmbp1,GMBp1,TRUE,gmbt,Gambia - Poor
+gnbp0,GNBp0,TRUE,gnbt,Guinea Bissau - Nonpoor
+gnbp1,GNBp1,TRUE,gnbt,Guinea Bissau - Poor
+gnqp0,GNQp0,TRUE,gnqt,Equatorial Guinea - Nonpoor
+gnqp1,GNQp1,TRUE,gnqt,Equatorial Guinea - Poor
+gtmp0,GTMp0,TRUE,gtmt,Guatemala - Nonpoor
+gtmp1,GTMp1,TRUE,gtmt,Guatemala - Poor
+guyp0,GUYp0,TRUE,guyt,Guyana - Nonpoor
+guyp1,GUYp1,TRUE,guyt,Guyana - Poor
+hndp0,HNDp0,TRUE,hndt,Honduras - Nonpoor
+hndp1,HNDp1,TRUE,hndt,Honduras - Poor
+htip0,HTIp0,TRUE,htit,Haiti - Nonpoor
+htip1,HTIp1,TRUE,htit,Haiti - Poor
+idnp0,IDNp0,TRUE,idnt,Indonesia - Nonpoor
+idnp1,IDNp1,TRUE,idnt,Indonesia - Poor
+indp0,INDp0,TRUE,indt,India - Nonpoor
+indp1,INDp1,TRUE,indt,India - Poor
+irnp0,IRNp0,TRUE,irnt,Iran - Nonpoor
+irnp1,IRNp1,TRUE,irnt,Iran - Poor
+irqp0,IRQp0,TRUE,irqt,Iraq - Nonpoor
+irqp1,IRQp1,TRUE,irqt,Iraq - Poor
+jamp0,JAMp0,TRUE,jamt,Jamaica - Nonpoor
+jamp1,JAMp1,TRUE,jamt,Jamaica - Poor
+jorp0,JORp0,TRUE,jort,Jordan - Nonpoor
+jorp1,JORp1,TRUE,jort,Jordan - Poor
+kazp0,KAZp0,TRUE,kazt,Kazakhstan - Nonpoor
+kazp1,KAZp1,TRUE,kazt,Kazakhstan - Poor
+kenp0,KENp0,TRUE,kent,Kenya - Nonpoor
+kenp1,KENp1,TRUE,kent,Kenya - Poor
+kgzp0,KGZp0,TRUE,kgzt,Kyrgyzstan - Nonpoor
+kgzp1,KGZp1,TRUE,kgzt,Kyrgyzstan - Poor
+khmp0,KHMp0,TRUE,khmt,Cambodia - Nonpoor
+khmp1,KHMp1,TRUE,khmt,Cambodia - Poor
+kirp0,KIRp0,TRUE,kirt,Kiribati - Nonpoor
+kirp1,KIRp1,TRUE,kirt,Kiribati - Poor
+laop0,LAOp0,TRUE,laot,Lao - Nonpoor
+laop1,LAOp1,TRUE,laot,Lao - Poor
+lbnp0,LBNp0,TRUE,lbnt,Lebanon - Nonpoor
+lbnp1,LBNp1,TRUE,lbnt,Lebanon - Poor
+lbrp0,LBRp0,TRUE,lbrt,Liberia - Nonpoor
+lbrp1,LBRp1,TRUE,lbrt,Liberia - Poor
+lbyp0,LBYp0,TRUE,lbyt,Libya - Nonpoor
+lbyp1,LBYp1,TRUE,lbyt,Libya - Poor
+lcap0,LCAp0,TRUE,lcat,Saint Lucia - Nonpoor
+lcap1,LCAp1,TRUE,lcat,Saint Lucia - Poor
+lsop0,LSOp0,TRUE,lsot,Lesotho - Nonpoor
+lsop1,LSOp1,TRUE,lsot,Lesotho - Poor
+marp0,MARp0,TRUE,mart,Morocco - Nonpoor
+marp1,MARp1,TRUE,mart,Morocco - Poor
+mdap0,MDAp0,TRUE,mdat,Moldova - Nonpoor
+mdap1,MDAp1,TRUE,mdat,Moldova - Poor
+mdgp0,MDGp0,TRUE,mdgt,Madagascar - Nonpoor
+mdgp1,MDGp1,TRUE,mdgt,Madagascar - Poor
+mdvp0,MDVp0,TRUE,mdvt,Maldives - Nonpoor
+mdvp1,MDVp1,TRUE,mdvt,Maldives - Poor
+mexp0,MEXp0,TRUE,mext,Mexico - Nonpoor
+mexp1,MEXp1,TRUE,mext,Mexico - Poor
+mkdp0,MKDp0,TRUE,mkdt,North Macedonia - Nonpoor
+mkdp1,MKDp1,TRUE,mkdt,North Macedonia - Poor
+mlip0,MLIp0,TRUE,mlit,Mali - Nonpoor
+mlip1,MLIp1,TRUE,mlit,Mali - Poor
+mmrp0,MMRp0,TRUE,mmrt,Myanmar - Nonpoor
+mmrp1,MMRp1,TRUE,mmrt,Myanmar - Poor
+mnep0,MNEp0,TRUE,mnet,Monte Negro - Nonpoor
+mnep1,MNEp1,TRUE,mnet,Monte Negro - Poor
+mngp0,MNGp0,TRUE,mngt,Mongolia - Nonpoor
+mngp1,MNGp1,TRUE,mngt,Mongolia - Poor
+mozp0,MOZp0,TRUE,mozt,Mozambique - Nonpoor
+mozp1,MOZp1,TRUE,mozt,Mozambique - Poor
+mrtp0,MRTp0,TRUE,mrtt,Mauritania - Nonpoor
+mrtp1,MRTp1,TRUE,mrtt,Mauritania - Poor
+musp0,MUSp0,TRUE,must,Mauritius - Nonpoor
+musp1,MUSp1,TRUE,must,Mauritius - Poor
+mwip0,MWIp0,TRUE,mwit,Malawi - Nonpoor
+mwip1,MWIp1,TRUE,mwit,Malawi - Poor
+mysp0,MYSp0,TRUE,myst,Malaysia - Nonpoor
+mysp1,MYSp1,TRUE,myst,Malaysia - Poor
+namp0,NAMp0,TRUE,namt,Namibia - Nonpoor
+namp1,NAMp1,TRUE,namt,Namibia - Poor
+nerp0,NERp0,TRUE,nert,Niger - Nonpoor
+nerp1,NERp1,TRUE,nert,Niger - Poor
+ngap0,NGAp0,TRUE,ngat,Nigeria - Nonpoor
+ngap1,NGAp1,TRUE,ngat,Nigeria - Poor
+nicp0,NICp0,TRUE,nict,Nicaragua - Nonpoor
+nicp1,NICp1,TRUE,nict,Nicaragua - Poor
+nplp0,NPLp0,TRUE,nplt,Nepal - Nonpoor
+nplp1,NPLp1,TRUE,nplt,Nepal - Poor
+pakp0,PAKp0,TRUE,pakt,Pakistan - Nonpoor
+pakp1,PAKp1,TRUE,pakt,Pakistan - Poor
+panp0,PANp0,TRUE,pant,Panama - Nonpoor
+panp1,PANp1,TRUE,pant,Panama - Poor
+perp0,PERp0,TRUE,pert,Peru - Nonpoor
+perp1,PERp1,TRUE,pert,Peru - Poor
+phlp0,PHLp0,TRUE,phlt,Philippines - Nonpoor
+phlp1,PHLp1,TRUE,phlt,Philippines - Poor
+pngp0,PNGp0,TRUE,pngt,Papua New Guinea - Nonpoor
+pngp1,PNGp1,TRUE,pngt,Papua New Guinea - Poor
+pryp0,PRYp0,TRUE,pryt,Paraguay - Nonpoor
+pryp1,PRYp1,TRUE,pryt,Paraguay - Poor
+psep0,PSEp0,TRUE,pset,Palestine - Nonpoor
+psep1,PSEp1,TRUE,pset,Palestine - Poor
+rwap0,RWAp0,TRUE,rwat,Rwanda - Nonpoor
+rwap1,RWAp1,TRUE,rwat,Rwanda - Poor
+saup0,SAUp0,TRUE,saut,Saudi Arabia - Nonpoor
+saup1,SAUp1,TRUE,saut,Saudi Arabia - Poor
+sdnp0,SDNp0,TRUE,sdnt,Sudan - Nonpoor
+sdnp1,SDNp1,TRUE,sdnt,Sudan - Poor
+senp0,SENp0,TRUE,sent,Senegal - Nonpoor
+senp1,SENp1,TRUE,sent,Senegal - Poor
+slep0,SLEp0,TRUE,slet,Sierra Leone - Nonpoor
+slep1,SLEp1,TRUE,slet,Sierra Leone - Poor
+slvp0,SLVp0,TRUE,slvt,El Salvador - Nonpoor
+slvp1,SLVp1,TRUE,slvt,El Salvador - Poor
+somp0,SOMp0,TRUE,somt,Somalia - Nonpoor
+somp1,SOMp1,TRUE,somt,Somalia - Poor
+srbp0,SRBp0,TRUE,srbt,Serbia - Nonpoor
+srbp1,SRBp1,TRUE,srbt,Serbia - Poor
+ssdp0,SSDp0,TRUE,ssdt,South Sudan - Nonpoor
+ssdp1,SSDp1,TRUE,ssdt,South Sudan - Poor
+stpp0,STPp0,TRUE,stpt,Sao Tome & Principe - Nonpoor
+stpp1,STPp1,TRUE,stpt,Sao Tome & Principe - Poor
+surp0,SURp0,TRUE,surt,Suriname - Nonpoor
+surp1,SURp1,TRUE,surt,Suriname - Poor
+swzp0,SWZp0,TRUE,swzt,Eswatini - Nonpoor
+swzp1,SWZp1,TRUE,swzt,Eswatini - Poor
+syrp0,SYRp0,TRUE,syrt,Syria - Nonpoor
+syrp1,SYRp1,TRUE,syrt,Syria - Poor
+tcdp0,TCDp0,TRUE,tcdt,Chad - Nonpoor
+tcdp1,TCDp1,TRUE,tcdt,Chad - Poor
+tgop0,TGOp0,TRUE,tgot,Togo - Nonpoor
+tgop1,TGOp1,TRUE,tgot,Togo - Poor
+thap0,THAp0,TRUE,that,Thailand - Nonpoor
+thap1,THAp1,TRUE,that,Thailand - Poor
+tjkp0,TJKp0,TRUE,tjkt,Tajikistan - Nonpoor
+tjkp1,TJKp1,TRUE,tjkt,Tajikistan - Poor
+tkmp0,TKMp0,TRUE,tkmt,Turkmenistan - Nonpoor
+tkmp1,TKMp1,TRUE,tkmt,Turkmenistan - Poor
+tlsp0,TLSp0,TRUE,tlst,Timor Leste - Nonpoor
+tlsp1,TLSp1,TRUE,tlst,Timor Leste - Poor
+tonp0,TONp0,TRUE,tont,Tonga - Nonpoor
+tonp1,TONp1,TRUE,tont,Tonga - Poor
+ttop0,TTOp0,TRUE,ttot,Trinidad & Tobago - Nonpoor
+ttop1,TTOp1,TRUE,ttot,Trinidad & Tobago - Poor
+tunp0,TUNp0,TRUE,tunt,Tunisia - Nonpoor
+tunp1,TUNp1,TRUE,tunt,Tunisia - Poor
+turp0,TURp0,TRUE,turt,Turkey - Nonpoor
+turp1,TURp1,TRUE,turt,Turkey - Poor
+tuvp0,TUVp0,TRUE,tuv,Tuvalu - Nonpoor
+tuvp1,TUVp1,TRUE,tuv,Tuvalu - Poor
+tzap0,TZAp0,TRUE,tzat,Tanzania - Nonpoor
+tzap1,TZAp1,TRUE,tzat,Tanzania - Poor
+ugap0,UGAp0,TRUE,ugat,Uganda - Nonpoor
+ugap1,UGAp1,TRUE,ugat,Uganda - Poor
+ukrp0,UKRp0,TRUE,ukrt,Ukraine - Nonpoor
+ukrp1,UKRp1,TRUE,ukrt,Ukraine - Poor
+uryp0,URYp0,TRUE,uryt,Uruguay - Nonpoor
+uryp1,URYp1,TRUE,uryt,Uruguay - Poor
+uzbp0,UZBp0,TRUE,uzbt,Uzbekistan - Nonpoor
+uzbp1,UZBp1,TRUE,uzbt,Uzbekistan - Poor
+venp0,VENp0,TRUE,vent,Venezuela - Nonpoor
+venp1,VENp1,TRUE,vent,Venezuela - Poor
+vnmp0,VNMp0,TRUE,vnmt,Vietnam - Nonpoor
+vnmp1,VNMp1,TRUE,vnmt,Vietnam - Poor
+vutp0,VUTp0,TRUE,vutt,Vanuatu - Nonpoor
+vutp1,VUTp1,TRUE,vutt,Vanuatu - Poor
+wsmp0,WSMp0,TRUE,wsmt,Samoa - Nonpoor
+wsmp1,WSMp1,TRUE,wsmt,Samoa - Poor
+ksvp0,KSVp0,TRUE,ksvt,Kosovo - Nonpoor
+ksvp1,KSVp1,TRUE,ksvt,Kosovo - Poor
+yemp0,YEMp0,TRUE,yemt,Yemen - Nonpoor
+yemp1,YEMp1,TRUE,yemt,Yemen - Poor
+zafp0,ZAFp0,TRUE,zaft,South Africa - Nonpoor
+zafp1,ZAFp1,TRUE,zaft,South Africa - Poor
+zmbp0,ZMBp0,TRUE,zmbt,Zambia - Nonpoor
+zmbp1,ZMBp1,TRUE,zmbt,Zambia - Poor
+zwep0,ZWEp0,TRUE,zwet,Zimbabwe - Nonpoor
+zwep1,ZWEp1,TRUE,zwet,Zimbabwe - Poor
