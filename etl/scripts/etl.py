@@ -261,15 +261,20 @@ concs2 = [
     ['shortdescr', 'Short Description', 'string'],
     ['longdescr', 'Long Description', 'string'],
     ['domain', 'Domain', 'string'],
-    ['drill_ups', 'Drill ups', 'string']
+    ['drill_ups', 'Drill ups', 'string'],
+    ['name', 'Name', 'string']
 ]
 concs2 = pd.DataFrame(concs2, columns=['concept', 'name', 'concept_type']).set_index('concept')
 # %%
 concs
 # %%
-concs2
+concs3 = [
+    ['chnprim', '', 'measure'],
+    ['nchnprim', '', 'measure']
+]
+concs3 = pd.DataFrame(concs3, columns=['concept', 'name', 'concept_type']).set_index('concept')
 # %%
-cdf = pd.concat([desc, concs, concs2])
+cdf = pd.concat([desc, concs, concs2, concs3])
 # %%
 cdf
 # %%

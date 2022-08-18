@@ -256,7 +256,7 @@ nchnprimu50,nchnprimu50,measure,Number of Cases Aggregation Number of primary sc
 nnprimpov50,nnprimpov50,measure,Number of Cases Aggregation % of primary school-aged children not in school living in poor households,Percentage of primary school-aged children not in school living in poor households,,
 nprimnot,nprimnot,measure,Number of Cases Aggregation % children 6-11 not in school,Percentage of children aged 6-11 that currently is not or in the current school year did not attend school,,
 level,Level,entity_domain,,,,
-national,National,entity_set,,,level,national
+national,National,entity_set,,,level,
 subnat,Sub National,entity_set,,,level,national
 urb_rur,Urb/Rur,entity_set,,,level,national
 wealth_quartiles,Wealth Quartiles,entity_set,,,level,national
